@@ -44,6 +44,7 @@ socket.setdefaulttimeout(10)  # seconds; prevents hung downloads from stalling t
 # Change to an absolute path if needed, e.g.:
 #   MODEL_PATH = "/home/user/models/model_infer.pt"
 MODEL_PATH = Path("model_infer.pt")
+WEIGHTS_URL = "https://github.com/CapPow/Malon/releases/download/v1.0.0/model_infer.pt"
 
 # Path to the released GBIF predictions CSV (used to pull example image URLs).
 GBIF_CSV = Path("data/gbif_predictions.csv")
@@ -220,6 +221,13 @@ def download_stratified_sample(df, sample_n, download_dir):
 
     return downloaded
 
+def fetch_weights(model_path=MODEL_PATH, url=WEIGHTS_URL):
+    """Download model weights if not present at model_path."""
+    if not Path(model_path).exists():
+        print(f"Model weights not found at {model_path}.")
+        print(f"Downloading from {url} ...")
+        urllib.request.urlretrieve(url, model_path)
+        print("Download complete.")
 
 # ==============================================================================
 # Example: stratified download, batch inference, and class-based sorting.
@@ -241,6 +249,7 @@ if __name__ == "__main__":
 +------------------------------------------------------------------------------+
 """)
 
+    fetch_weights()  # Retrieve the model weights.
     classifier = HerbariumClassifier()
 
     # --- Download stratified sample ---

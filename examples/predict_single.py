@@ -34,6 +34,7 @@ socket.setdefaulttimeout(10)  # seconds; prevents hung downloads from stalling t
 # Change to an absolute path if needed, e.g.:
 #   MODEL_PATH = "/home/user/models/model_infer.pt"
 MODEL_PATH = Path("model_infer.pt")
+WEIGHTS_URL = "https://github.com/CapPow/Malon/releases/download/v1.0.0/model_infer.pt"
 
 # Path to the released GBIF predictions CSV (used to pull an example image URL).
 GBIF_CSV = Path("data/gbif_predictions.csv")
@@ -124,6 +125,13 @@ def download_image(url, dest_path):
     except Exception as e:
         raise RuntimeError(f"Failed to download {url}: {e}")
 
+def fetch_weights(model_path=MODEL_PATH, url=WEIGHTS_URL):
+    """Download model weights if not present at model_path."""
+    if not Path(model_path).exists():
+        print(f"Model weights not found at {model_path}.")
+        print(f"Downloading from {url} ...")
+        urllib.request.urlretrieve(url, model_path)
+        print("Download complete.")
 
 # ==============================================================================
 # Example: classify one image pulled from the released GBIF predictions CSV.
@@ -141,6 +149,7 @@ if __name__ == "__main__":
 +------------------------------------------------------------------------------+
 """)
 
+    fetch_weights()  # Retrieve the model weights.
     # Load the GBIF predictions CSV and randomly sample one example.
     # A random record is selected each run to demonstrate variation across institutions.
     # --- Modify here to select a specific record or use your own image path ---
