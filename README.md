@@ -62,9 +62,11 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install --upgrade pip
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
 pip install pillow pandas
+# Or install from requirements file:
+pip install -r requirements.txt
 ```
 
-**GPU vs CPU:** A CUDA-capable GPU is strongly recommended for practical throughput (~28ms/image batched on RTX 3080). CPU inference is functional but substantially slower (~738ms/image). The model will automatically use CUDA if available, falling back to CPU otherwise. The CUDA 12.4 wheel above is appropriate for most modern NVIDIA drivers; see the [PyTorch installation guide](https://pytorch.org/get-started/locally/) for other configurations including CPU-only installs.
+**GPU vs CPU:** A CUDA-capable GPU is strongly recommended for practical throughput (~28ms/image batched on RTX 3080). CPU inference is functional but substantially slower (~738ms/image). The examples will automatically use CUDA if available, falling back to CPU otherwise. The CUDA 12.4 wheel above is appropriate for most modern NVIDIA drivers; see the [PyTorch installation guide](https://pytorch.org/get-started/locally/) for other configurations including CPU-only installs.
 
 ---
 
