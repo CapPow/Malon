@@ -56,7 +56,11 @@ class HerbariumClassifier:
     """
 
     def __init__(self, model_path=MODEL_PATH, device=None):
-        self.device = device or torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.device = device or (
+            torch.device("cuda") if torch.cuda.is_available()
+            else torch.device("mps") if torch.backends.mps.is_available()
+            else torch.device("cpu")
+            )
 
         checkpoint = torch.load(model_path, map_location=self.device, weights_only=False)
         self.config = checkpoint
