@@ -86,9 +86,9 @@ python examples/predict_single.py
 python examples/predict_batch.py
 ```
 
-Both scripts download example images from `data/gbif_predictions.csv` — a set of 8,000 GBIF images verified to be out-of-training-distribution. Image URLs are institution-hosted; **403 errors are normal** and reflect access restrictions on some institutional image servers. The scripts retry automatically from a different record on failure.
+Both scripts download a few example images from `data/gbif_predictions.csv`, a set of 8,000 GBIF images verified to be out-of-training-distribution. Image URLs are institution-hosted; **403 errors are normal** and reflect access restrictions on some institutional image servers. The scripts retry automatically from a different record on failure.
 
-> **Note on large images:** Note on large images: Herbarium scans are often very high resolution. PIL will suppress a DecompressionBombWarning for images exceeding its default pixel limit. This is expected behavior and is handled explicitly in the example scripts. Inference time scales with input resolution; pre-scaling images to a consistent width (e.g., 960px) before running Malon substantially improves throughput on raw institutional downloads. The benchmark timings reported in the manuscript reflect pre-scaled images; users running Malon directly on full-resolution institutional downloads should expect slower per-image times than those reported.
+> **Note on large images:** Herbarium scans are often very high resolution. PIL will suppress a DecompressionBombWarning for images exceeding its default pixel limit. This is expected behavior and is handled explicitly in the example scripts. Inference time scales with input resolution; pre-scaling images to a consistent width (e.g., 960px) before running Malon substantially improves throughput on raw institutional downloads. The benchmark timings reported in the manuscript reflect pre-scaled images; users running Malon directly on full-resolution institutional downloads should expect slower per-image times than those reported.
 
 
 Both scripts are intended as starting points. Variables are defined near the top of each file and the example blocks are clearly commented for modification. See inline comments for guidance on adapting to a local image directory.
