@@ -1,0 +1,6 @@
+Class,Precision,Recall,F1-score,Support
+Class 0 (not useful),0.9823,0.9964,0.9893,279
+Class 1 (atypical),0.8788,0.8878,0.8832,98
+Class 2 (typical),0.9741,0.9536,0.9638,237
+Macro avg,0.9451,0.9459,0.9454,614
+Weighted avg,0.9626,0.9625,0.9625,614

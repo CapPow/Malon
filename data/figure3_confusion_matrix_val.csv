@@ -1,0 +1,4 @@
+,Pred: Not useful,Pred: Atypical,Pred: Typical
+True: Not useful,219,3,1
+True: Atypical,1,70,7
+True: Typical,0,3,187

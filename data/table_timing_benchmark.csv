@@ -1,0 +1,7 @@
+Mode,Device,Batch size,N images,Mean (ms),SD (ms),Min (ms),Max (ms)
+Wall-clock single image,GPU (RTX 3080),1,320,63.42,5.47,49.59,86.69
+Forward pass only,GPU (RTX 3080),1,320,38.23,0.44,37.67,40.37
+Wall-clock single image,CPU,1,320,738.03,75.54,524.0,834.17
+Batch wall-clock (per image),GPU (RTX 3080),1,320,62.24,5.27,49.01,70.49
+Batch wall-clock (per image),GPU (RTX 3080),8,320,28.91,1.93,24.46,33.63
+Batch wall-clock (per image),GPU (RTX 3080),32,320,27.38,1.07,25.41,28.76

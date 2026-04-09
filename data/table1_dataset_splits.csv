@@ -1,0 +1,5 @@
+Split,Class 0 (not useful),Class 1 (atypical),Class 2 (typical),Total
+Train,892,313,759,1964
+Validation,223,78,190,491
+Test,279,98,237,614
+Total,1394,489,1186,3069

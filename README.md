@@ -35,11 +35,13 @@ Malon/
 ├── data/
 │   ├── training_manifest.csv   # Labeled training dataset (gbifIDs, splits, metadata)
 │   ├── gbif_predictions.csv    # GBIF hit-rate analysis predictions (n=8,000)
-│   └── results_summary_table.csv  # Hit-rate summary by taxonomic group
+│   ├── results_summary_table.csv  # Hit-rate summary by taxonomic group
+│   └── *.csv                   # Publication tables (confusion matrices, benchmarks, splits)
 ├── notebooks/
 │   └── train_3class_CV.ipynb   # Training notebook (local paths, provided for transparency)
 └── docs/
-    └── labeling_protocol.md    # Image labeling guidelines used to construct training data
+    ├── labeling_protocol.md    # Image labeling guidelines used to construct training data
+    └── figures/                # Publication figures (pipeline diagram, representative examples, results)
 ```
 
 ---
