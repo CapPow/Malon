@@ -2,6 +2,8 @@
 
 Malon is a lightweight three-class image classifier for triaging herbarium specimen images by their utility for computer vision (CV) applications. It is designed as a first-pass filter for data pollution in large-scale aggregator harvests, assigning images to one of three utility classes prior to pipeline ingestion.
 
+**Name:** The name derives from the Malon, a fictional civilization in Star Trek: Voyager known for the export of toxic waste, here adopted as a metaphor for the data pollution that non standard images introduce into herbarium CV pipelines.
+
 **Powell, C. and Sterner, B.** (in prep). Malon: Automated Filtering of Atypical Herbarium Specimen Images for Computer Vision Applications.
 
 ---
