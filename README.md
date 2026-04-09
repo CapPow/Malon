@@ -56,22 +56,58 @@ Malon/
 
 ## Installation
 
-Python 3.11 is recommended. Python 3.12 is also supported. Python 3.13+ may encounter multiprocessing limitations with DataLoader workers.
+Python 3.11 is recommended and used in the examples below. Python 3.10–3.12 should work without issues. Python 3.13+ may encounter multiprocessing limitations with DataLoader workers; set `NUM_WORKERS = 0` in `predict_batch.py` if you experience errors.
+
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/CapPow/Malon.git
 cd Malon
+```
+
+> **Model weights** (~106MB) are not included in the repository and will be downloaded automatically the first time you run an example script. To download manually, see the [v1.0.0 release](https://github.com/CapPow/Malon/releases/tag/v1.0.0).
+
+### 2. Create a virtual environment and install dependencies
+
+**Linux:**
+```bash
 python3.11 -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+source venv/bin/activate
 pip install --upgrade pip
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
 pip install pillow pandas
-# Or install from requirements file:
-pip install -r requirements.txt
 ```
 
-**GPU vs CPU:** A CUDA-capable GPU is strongly recommended for practical throughput (~28ms/image batched on RTX 3080). CPU inference is functional but substantially slower (~738ms/image). The examples will automatically use CUDA if available, falling back to CPU otherwise. The CUDA 12.4 wheel above is appropriate for most modern NVIDIA drivers; see the [PyTorch installation guide](https://pytorch.org/get-started/locally/) for other configurations including CPU-only installs.
+> **No CUDA GPU on Linux?** Replace the torch install line with:
+> `pip install torch torchvision`
 
+**macOS:**
+```bash
+# Install Python 3.11 if needed: brew install python@3.11
+python3.11 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install torch torchvision
+pip install pillow pandas
+```
+
+> **Note:** macOS does not support CUDA. The standard install above includes Apple Silicon GPU acceleration (MPS) automatically.
+
+**Windows** (Command Prompt or PowerShell):
+```bash
+# Install Python 3.11 from https://python.org
+# If you have multiple Python versions installed, use: py -V:3.11 -m venv venv
+python -m venv venv
+venv\Scripts\activate
+pip install --upgrade pip
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+pip install pillow pandas
+```
+
+> **No CUDA GPU on Windows?** Replace the torch install line with:
+> `pip install torch torchvision`
+
+> **GPU vs CPU:** A CUDA-capable GPU is strongly recommended for practical throughput (~28ms/image batched on RTX 3080). CPU inference is functional but substantially slower (~738ms/image). The model will automatically use CUDA if available, falling back to CPU otherwise.
 ---
 
 ## Quick Start
