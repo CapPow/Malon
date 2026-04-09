@@ -1,0 +1,3070 @@
+sourceID,source,class_id,class_name,split,institutionCode,collectionCode,scientificName
+601863684,inat,0,not_useful,val,,,
+893473465,gbif,0,not_useful,train,BGBM,AlgaTerra,Monoraphidium arcuatum (Korshikov) Hindák
+589803045,inat,0,not_useful,train,,,
+580664961,inat,0,not_useful,train,,,
+2005523508,gbif,0,not_useful,test,TENN,,Anomodon attenuatus (Hedw.) Huebener
+608428803,inat,0,not_useful,test,,,
+608244535,inat,0,not_useful,train,,,
+608312831,inat,0,not_useful,test,,,
+608406108,inat,0,not_useful,train,,,
+608365443,inat,0,not_useful,train,,,
+586564345,inat,0,not_useful,test,,,
+893472534,gbif,0,not_useful,train,BGBM,AlgaTerra,"Lagerheimia genevensis (R.Chodat) R.Chodat, 1895"
+2859305587,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608403998,inat,0,not_useful,train,,,
+520421872,inat,0,not_useful,train,,,
+2859355602,gbif,0,not_useful,train,CM,botany,Brassica oleracea L.
+608423103,inat,0,not_useful,train,,,
+360575552,inat,0,not_useful,train,,,
+599373156,inat,0,not_useful,train,,,
+608055058,inat,0,not_useful,train,,,
+2423893880,gbif,0,not_useful,train,USU,UTC,Fargesia nitida (Mitford) Keng f. ex T.P.Yi
+608357790,inat,0,not_useful,train,,,
+608434825,inat,0,not_useful,train,,,
+608145239,inat,0,not_useful,test,,,
+606249972,inat,0,not_useful,train,,,
+5893462843,gbif,0,not_useful,train,SGAV-and-NHMD,,Blasia pusilla L.
+591157945,inat,0,not_useful,val,,,
+3024584389,gbif,0,not_useful,train,M-Lichens,BSMlichenscoll,Quercus robur L.
+604763239,inat,0,not_useful,train,,,
+3016532335,gbif,0,not_useful,train,TU,TU(B),Saxifraga hirculus subsp. alpina (Engl.) Á.Löve
+606456491,inat,0,not_useful,train,,,
+2859280666,gbif,0,not_useful,test,CM,botany,Colocasia esculenta (L.) Schott
+2859095625,gbif,0,not_useful,train,CM,botany,Brassica napus L.
+607359272,inat,0,not_useful,train,,,
+1122718180,gbif,0,not_useful,train,M-Lichens,BSMmicrofexscoll,Digitaria ternata (A.Rich.) Stapf
+582930091,inat,0,not_useful,train,,,
+608222613,inat,0,not_useful,train,,,
+2859308303,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+592656121,inat,0,not_useful,train,,,
+606769323,inat,0,not_useful,val,,,
+607503956,inat,0,not_useful,train,,,
+3751300003,gbif,0,not_useful,train,UHM,HAW-A,Cylindrocapsa geminella Wolle
+2859298300,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+1935656457,gbif,0,not_useful,train,GJO,Herbarium GJO,Blasia pusilla L.
+581078523,inat,0,not_useful,val,,,
+607656056,inat,0,not_useful,val,,,
+601700491,inat,0,not_useful,train,,,
+608417427,inat,0,not_useful,train,,,
+2859308302,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+608309160,inat,0,not_useful,test,,,
+2859117824,gbif,0,not_useful,val,CM,botany,Allium schoenoprasum L.
+523153546,inat,0,not_useful,train,,,
+604939616,inat,0,not_useful,train,,,
+608314500,inat,0,not_useful,val,,,
+2859304302,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+561365364,inat,0,not_useful,val,,,
+2859024435,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608008651,inat,0,not_useful,val,,,
+608430475,inat,0,not_useful,val,,,
+608107416,inat,0,not_useful,val,,,
+608007682,inat,0,not_useful,test,,,
+608092502,inat,0,not_useful,test,,,
+607347740,inat,0,not_useful,val,,,
+598714765,inat,0,not_useful,val,,,
+605781903,inat,0,not_useful,test,,,
+608312842,inat,0,not_useful,val,,,
+608412988,inat,0,not_useful,test,,,
+608417558,inat,0,not_useful,val,,,
+608442658,inat,0,not_useful,train,,,
+3751289493,gbif,0,not_useful,train,UHM,HAW-A,Tetraspora lubrica W.West & G.S.West
+607419415,inat,0,not_useful,train,,,
+520682514,inat,0,not_useful,train,,,
+608389466,inat,0,not_useful,test,,,
+607402372,inat,0,not_useful,val,,,
+607710773,inat,0,not_useful,val,,,
+608321339,inat,0,not_useful,val,,,
+607972950,inat,0,not_useful,train,,,
+608107550,inat,0,not_useful,train,,,
+608163395,inat,0,not_useful,train,,,
+606407205,inat,0,not_useful,test,,,
+2859306720,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859282640,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+607611002,gbif,0,not_useful,test,MNHN,P,Galium tendae Rchb.f.
+608314288,inat,0,not_useful,train,,,
+608315586,inat,0,not_useful,test,,,
+608090884,inat,0,not_useful,train,,,
+2859304629,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+500140731,inat,0,not_useful,train,,,
+607499702,inat,0,not_useful,val,,,
+4092654973,gbif,0,not_useful,train,UARK,,Cladomnion ericoides (Hook.) Wilson
+608427598,inat,0,not_useful,train,,,
+608417536,inat,0,not_useful,train,,,
+591672711,inat,0,not_useful,val,,,
+607281666,inat,0,not_useful,test,,,
+4849454815,gbif,0,not_useful,train,BUT,,Jubula pennsylvanica (Steph.) A.Evans
+4121799329,gbif,0,not_useful,train,OBI,,Orthotrichum rupestre Schleich. ex Schwägr.
+514560351,inat,0,not_useful,train,,,
+604439953,inat,0,not_useful,train,,,
+607418166,inat,0,not_useful,train,,,
+606916184,inat,0,not_useful,train,,,
+607147466,inat,0,not_useful,test,,,
+608409957,inat,0,not_useful,test,,,
+607974301,inat,0,not_useful,val,,,
+607878385,inat,0,not_useful,val,,,
+2849411471,gbif,0,not_useful,train,NMR,NMR Collection,Hedera helix L.
+608199462,inat,0,not_useful,val,,,
+607863385,inat,0,not_useful,train,,,
+463154465,inat,0,not_useful,train,,,
+592911513,inat,0,not_useful,train,,,
+180867188,inat,0,not_useful,train,,,
+2859469356,gbif,0,not_useful,train,CM,botany,Capsicum annuum L.
+581398324,inat,0,not_useful,train,,,
+608332390,inat,0,not_useful,train,,,
+582255905,inat,0,not_useful,train,,,
+584277997,inat,0,not_useful,train,,,
+607759996,inat,0,not_useful,train,,,
+2428985319,gbif,0,not_useful,train,K,Economic Botany,Michelia champaca L.
+608348370,inat,0,not_useful,test,,,
+608419682,inat,0,not_useful,test,,,
+608436380,inat,0,not_useful,train,,,
+607894805,inat,0,not_useful,val,,,
+557674878,inat,0,not_useful,val,,,
+2242353075,gbif,0,not_useful,train,DBG,KHD,Penstemon glaber Pursh
+608288739,inat,0,not_useful,val,,,
+608399637,inat,0,not_useful,train,,,
+608348838,inat,0,not_useful,train,,,
+5922591510,gbif,0,not_useful,train,NRM,POLLENREFERENCE,Premna humbertii Moldenke
+608316367,inat,0,not_useful,train,,,
+2859307627,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+587361351,inat,0,not_useful,train,,,
+488856914,inat,0,not_useful,test,,,
+601821908,inat,0,not_useful,test,,,
+3001188174,gbif,0,not_useful,test,TAM,TAM,Carduus crispus L.
+608430898,inat,0,not_useful,train,,,
+608290529,inat,0,not_useful,train,,,
+4105913333,gbif,0,not_useful,test,TUR,,Pityrogramma chrysophylla (Sw.) Link
+604053646,inat,0,not_useful,train,,,
+608445306,inat,0,not_useful,train,,,
+4092653885,gbif,0,not_useful,train,UARK,,Grimmia laevigata (Brid.) Brid.
+598324416,inat,0,not_useful,train,,,
+2859296402,gbif,0,not_useful,train,CM,botany,Pinus rigida Mill.
+605730372,inat,0,not_useful,train,,,
+608425145,inat,0,not_useful,train,,,
+596280758,inat,0,not_useful,train,,,
+395786207,inat,0,not_useful,val,,,
+600838295,inat,0,not_useful,train,,,
+608288059,inat,0,not_useful,test,,,
+2859155974,gbif,0,not_useful,train,CM,botany,Pisum sativum L.
+608075191,inat,0,not_useful,val,,,
+579011075,inat,0,not_useful,val,,,
+608121459,inat,0,not_useful,val,,,
+589788041,inat,0,not_useful,val,,,
+4031580062,gbif,0,not_useful,train,MO,Tropicos,Magnolia shuariorum F.Arroyo & A.Vázquez
+608435894,inat,0,not_useful,val,,,
+608427041,inat,0,not_useful,test,,,
+607418400,inat,0,not_useful,train,,,
+608146692,inat,0,not_useful,val,,,
+584220222,inat,0,not_useful,train,,,
+369474474,inat,0,not_useful,val,,,
+608448322,inat,0,not_useful,train,,,
+2859024615,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+605324121,inat,0,not_useful,test,,,
+2859279305,gbif,0,not_useful,train,CM,botany,Lemna perpusilla Torr.
+596734435,inat,0,not_useful,train,,,
+598375481,inat,0,not_useful,train,,,
+590293507,inat,0,not_useful,test,,,
+604910211,inat,0,not_useful,val,,,
+608400959,inat,0,not_useful,val,,,
+607748980,gbif,0,not_useful,train,MNHN,P,Erica albens L.
+608149999,inat,0,not_useful,test,,,
+608406729,inat,0,not_useful,train,,,
+2859028702,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+2859077339,gbif,0,not_useful,val,CM,botany,Amelanchier canadensis (L.) Medik.
+608333668,inat,0,not_useful,train,,,
+608378096,inat,0,not_useful,train,,,
+577900040,inat,0,not_useful,train,,,
+596345330,inat,0,not_useful,train,,,
+1987021090,gbif,0,not_useful,train,USU,UTC,Fraxinus anomala var. lowellii (Sarg. ex Rehder) Little
+608439259,inat,0,not_useful,train,,,
+377320807,inat,0,not_useful,val,,,
+5922565827,gbif,0,not_useful,train,NRM,POLLENREFERENCE,Cassipourea myriocarpa Tul.
+1999034138,gbif,0,not_useful,train,FH,FH,Alsia californica (Hook. & Arn.) Sull.
+608410588,inat,0,not_useful,train,,,
+434235144,inat,0,not_useful,train,,,
+608110790,inat,0,not_useful,train,,,
+605505646,inat,0,not_useful,test,,,
+603398009,inat,0,not_useful,train,,,
+570882076,inat,0,not_useful,train,,,
+591412136,inat,0,not_useful,train,,,
+601780411,inat,0,not_useful,test,,,
+604237016,inat,0,not_useful,test,,,
+608421179,inat,0,not_useful,train,,,
+2859025629,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859354593,gbif,0,not_useful,train,CM,botany,Alcea rosea L.
+473901962,inat,0,not_useful,test,,,
+607875595,inat,0,not_useful,test,,,
+543220027,inat,0,not_useful,test,,,
+893484560,gbif,0,not_useful,train,BGBM,AlgaTerra,Volvox aureus Ehrenb.
+608142282,inat,0,not_useful,train,,,
+608222531,inat,0,not_useful,test,,,
+593544193,inat,0,not_useful,val,,,
+581628838,inat,0,not_useful,train,,,
+2859071989,gbif,0,not_useful,train,CM,botany,Beta vulgaris L.
+608150414,inat,0,not_useful,train,,,
+608014047,inat,0,not_useful,train,,,
+607417406,inat,0,not_useful,test,,,
+597632488,inat,0,not_useful,train,,,
+608434134,inat,0,not_useful,val,,,
+604452672,inat,0,not_useful,train,,,
+2859481957,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+608426562,inat,0,not_useful,train,,,
+608409185,inat,0,not_useful,train,,,
+605116184,inat,0,not_useful,train,,,
+2859098605,gbif,0,not_useful,train,CM,botany,Raphanus sativus L.
+608219323,inat,0,not_useful,train,,,
+606797218,inat,0,not_useful,train,,,
+491100549,inat,0,not_useful,test,,,
+607675895,gbif,0,not_useful,train,MNHN,P,Rothmannia talbotii (Wernham) Keay
+608330299,inat,0,not_useful,train,,,
+608209720,inat,0,not_useful,train,,,
+579175140,inat,0,not_useful,train,,,
+588108736,inat,0,not_useful,train,,,
+608394808,inat,0,not_useful,test,,,
+603117573,inat,0,not_useful,train,,,
+485903004,inat,0,not_useful,train,,,
+608417189,inat,0,not_useful,train,,,
+602922057,inat,0,not_useful,train,,,
+605104943,inat,0,not_useful,train,,,
+607297270,inat,0,not_useful,train,,,
+608439090,inat,0,not_useful,train,,,
+607836139,gbif,0,not_useful,test,MNHN,P,Gaertnera inflexa Boivin ex Baill.
+586048380,inat,0,not_useful,train,,,
+475041498,inat,0,not_useful,val,,,
+2859307305,gbif,0,not_useful,test,CM,botany,Wolffia columbiana H.Karst.
+608434887,inat,0,not_useful,val,,,
+604966865,inat,0,not_useful,train,,,
+608393883,inat,0,not_useful,test,,,
+580972097,inat,0,not_useful,test,,,
+608096809,inat,0,not_useful,train,,,
+2859116111,gbif,0,not_useful,val,CM,botany,Agave horrida Lem. ex Jacobi
+608434934,inat,0,not_useful,test,,,
+593568512,inat,0,not_useful,train,,,
+607891064,inat,0,not_useful,train,,,
+608133498,inat,0,not_useful,test,,,
+608324297,inat,0,not_useful,train,,,
+2859390584,gbif,0,not_useful,test,CM,botany,Cucurbita pepo L.
+4121799318,gbif,0,not_useful,test,OBI,,Homalothecium nuttallii (Wilson) A.Jaeger
+607603640,gbif,0,not_useful,train,MNHN,P,Chionanthus virginicus L.
+607797816,gbif,0,not_useful,val,MNHN,P,Breonia perrieri Homolle
+5138395821,gbif,0,not_useful,train,K,Herbarium,Magnolia Plum. ex L.
+608388939,inat,0,not_useful,val,,,
+607875802,inat,0,not_useful,train,,,
+3449407367,gbif,0,not_useful,test,TRH,A,Lomentaria uncinata Meneghini
+607790375,inat,0,not_useful,train,,,
+4140925067,gbif,0,not_useful,val,MICH,Bryophytes,Fissidens asplenioides Hedw.
+2859354592,gbif,0,not_useful,train,CM,botany,Brassica oleracea L.
+607912405,inat,0,not_useful,train,,,
+608353571,inat,0,not_useful,test,,,
+604657010,inat,0,not_useful,train,,,
+604587580,inat,0,not_useful,train,,,
+608416165,inat,0,not_useful,train,,,
+608405714,inat,0,not_useful,train,,,
+2859308635,gbif,0,not_useful,val,CM,botany,Wolffia borealis (Engelm.) Landolt
+607836161,gbif,0,not_useful,train,MNHN,P,Gaertnera arenaria Baker
+589133175,inat,0,not_useful,val,,,
+2859026623,gbif,0,not_useful,test,CM,botany,Wolffia columbiana H.Karst.
+605137919,inat,0,not_useful,train,,,
+606657631,inat,0,not_useful,train,,,
+608401317,inat,0,not_useful,test,,,
+608300036,inat,0,not_useful,test,,,
+2517156755,gbif,0,not_useful,train,,Botany,Lomentaria clavellosa (Turner) Gaillon
+590669106,inat,0,not_useful,test,,,
+585116730,inat,0,not_useful,train,,,
+606340683,inat,0,not_useful,train,,,
+2859027308,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+596263737,inat,0,not_useful,train,,,
+608038384,inat,0,not_useful,train,,,
+602623442,inat,0,not_useful,train,,,
+2859272631,gbif,0,not_useful,val,CM,botany,Welwitschia mirabilis Hook.f.
+606831636,inat,0,not_useful,train,,,
+566023724,inat,0,not_useful,train,,,
+2858987555,gbif,0,not_useful,train,CM,botany,Potamogeton illinoensis Morong
+608444238,inat,0,not_useful,val,,,
+3016591773,gbif,0,not_useful,train,TU,TU(B),Viola uliginosa Besser
+462944776,inat,0,not_useful,train,,,
+608055658,inat,0,not_useful,train,,,
+3016595395,gbif,0,not_useful,train,TU,TU(B),Camptothecium nitens (Hedw.) Schimp.
+2859024707,gbif,0,not_useful,train,CM,botany,Wolffia brasiliensis Wedd.
+2859303057,gbif,0,not_useful,train,CM,botany,Cichorium endivia L.
+608405577,inat,0,not_useful,test,,,
+592976638,inat,0,not_useful,test,,,
+5894032369,gbif,0,not_useful,train,SGAV-and-NHMD,,Schistidium papillosum Culm.
+592608651,inat,0,not_useful,train,,,
+5149104326,gbif,0,not_useful,test,DR,Herbarium Dresdense,Porotrichum saotomense Enroth & Shevock
+608193127,inat,0,not_useful,test,,,
+608434987,inat,0,not_useful,train,,,
+608221850,inat,0,not_useful,train,,,
+605612357,inat,0,not_useful,train,,,
+608243742,inat,0,not_useful,train,,,
+544814414,inat,0,not_useful,train,,,
+605267196,inat,0,not_useful,train,,,
+608436897,inat,0,not_useful,test,,,
+608443979,inat,0,not_useful,train,,,
+605147333,inat,0,not_useful,train,,,
+608101497,inat,0,not_useful,train,,,
+2859282315,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859023391,gbif,0,not_useful,train,CM,botany,Lemna obscura (Austin) Daubs
+2859096605,gbif,0,not_useful,train,CM,botany,"Cucurbita pepo var. melopepo (Linnaeus, 1753) Linnaeus, 1753"
+608382638,inat,0,not_useful,val,,,
+607997053,inat,0,not_useful,train,,,
+2859027636,gbif,0,not_useful,val,CM,botany,Wolffia columbiana H.Karst.
+598302173,inat,0,not_useful,train,,,
+2859021626,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+608434682,inat,0,not_useful,test,,,
+4518267403,gbif,0,not_useful,train,MO,Tropicos,Podophyllum peltatum L.
+607724466,inat,0,not_useful,val,,,
+3874274370,gbif,0,not_useful,train,ETHZ,ZT,Ptychomnion cygnisetum (Müll.Hal.) Kindb.
+605322165,inat,0,not_useful,train,,,
+584957072,inat,0,not_useful,train,,,
+608421547,inat,0,not_useful,test,,,
+608039031,inat,0,not_useful,train,,,
+2859015284,gbif,0,not_useful,test,CM,botany,Wolffia columbiana H.Karst.
+607808005,gbif,0,not_useful,train,MNHN,P,Schultesia Mart.
+2859028612,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+607049767,inat,0,not_useful,train,,,
+607875511,inat,0,not_useful,train,,,
+607895103,inat,0,not_useful,train,,,
+608380949,inat,0,not_useful,test,,,
+605419924,inat,0,not_useful,val,,,
+2268985805,gbif,0,not_useful,val,MO,Tropicos,Mauritia flexuosa L.f.
+893472412,gbif,0,not_useful,train,BGBM,AlgaTerra,Koliella longiseta (Vischer) Hindák
+608450708,inat,0,not_useful,val,,,
+607799507,gbif,0,not_useful,train,MNHN,P,Coffea buxifolia A.Chev.
+2859023306,gbif,0,not_useful,test,CM,botany,Lemna turionifera Landolt
+608286724,inat,0,not_useful,test,,,
+608262990,inat,0,not_useful,train,,,
+5213819370,gbif,0,not_useful,test,DR,Herbarium Dresdense,Riccia glauca L.
+3001185130,gbif,0,not_useful,test,TAM,TAM,Chaerophyllum aromaticum L.
+607736711,gbif,0,not_useful,train,MNHN,P,Polypremum procumbens L.
+2859378253,gbif,0,not_useful,test,CM,botany,Isotria verticillata (Muhl. ex Willd.) Raf.
+2859393596,gbif,0,not_useful,train,CM,botany,Cucurbita pepo L.
+608395184,inat,0,not_useful,train,,,
+575215194,gbif,0,not_useful,train,RBGE,E,Carex divisa Huds.
+3001121096,gbif,0,not_useful,train,TAM,TAM,Hepatica nobilis Schreb.
+535030582,inat,0,not_useful,train,,,
+932900453,gbif,0,not_useful,train,BGBM,AlgaTerra,Closterium striolatum Ralfs
+3016521773,gbif,0,not_useful,test,TU,TU(B),Anthelia julacea (L.) Dumort.
+606620591,inat,0,not_useful,test,,,
+602734150,inat,0,not_useful,train,,,
+607948804,inat,0,not_useful,train,,,
+608446362,inat,0,not_useful,train,,,
+608256096,inat,0,not_useful,val,,,
+602994163,inat,0,not_useful,train,,,
+527278901,inat,0,not_useful,train,,,
+608244452,inat,0,not_useful,val,,,
+608446306,inat,0,not_useful,test,,,
+581972466,inat,0,not_useful,train,,,
+607358665,inat,0,not_useful,train,,,
+2004958099,gbif,0,not_useful,val,GJO,Herbarium GJO,Plagiothecium nemorale (Mitt.) A.Jaeger
+608396600,inat,0,not_useful,test,,,
+607985675,inat,0,not_useful,train,,,
+608401741,inat,0,not_useful,test,,,
+608406684,inat,0,not_useful,train,,,
+5922571301,gbif,0,not_useful,test,NRM,POLLENREFERENCE,Ficalhoa laurifolia Hiern
+555127232,inat,0,not_useful,val,,,
+608260085,inat,0,not_useful,train,,,
+605758746,inat,0,not_useful,val,,,
+604237166,inat,0,not_useful,train,,,
+563694814,inat,0,not_useful,test,,,
+608278327,inat,0,not_useful,train,,,
+608436723,inat,0,not_useful,test,,,
+1805438338,gbif,0,not_useful,train,YPM,YU,Odontoschisma denudatum (Mart.) Dumort.
+606961657,inat,0,not_useful,test,,,
+607462766,inat,0,not_useful,train,,,
+604687169,inat,0,not_useful,train,,,
+3001114067,gbif,0,not_useful,test,TAM,TAM,Berteroa incana (L.) DC.
+608409554,inat,0,not_useful,train,,,
+605320380,inat,0,not_useful,train,,,
+603813364,inat,0,not_useful,train,,,
+608401145,inat,0,not_useful,train,,,
+2859308634,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+608300612,inat,0,not_useful,train,,,
+608245177,inat,0,not_useful,train,,,
+1986856503,gbif,0,not_useful,train,USU,UTC,Eriogonum shockleyi var. shockleyi
+2859283308,gbif,0,not_useful,train,CM,botany,Wolffia brasiliensis Wedd.
+2981255486,gbif,0,not_useful,train,Herb. Rambold,BSMfungicoll,Calicotome villosa (Poir.) Link
+3439768018,gbif,0,not_useful,train,H,,Liriodendron tulipifera L.
+3028990161,gbif,0,not_useful,train,JE,Herbarium Haussknecht JE,Arnellia fennica (Gottsche) Lindb.
+604686346,inat,0,not_useful,train,,,
+608093096,inat,0,not_useful,train,,,
+608098882,inat,0,not_useful,test,,,
+592911540,inat,0,not_useful,test,,,
+570381527,inat,0,not_useful,train,,,
+608420847,inat,0,not_useful,train,,,
+2859282642,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+572462215,inat,0,not_useful,train,,,
+608348792,inat,0,not_useful,train,,,
+607361363,inat,0,not_useful,train,,,
+606414988,inat,0,not_useful,train,,,
+604214893,inat,0,not_useful,train,,,
+395785930,inat,0,not_useful,train,,,
+546895751,inat,0,not_useful,train,,,
+608226546,inat,0,not_useful,train,,,
+607749211,gbif,0,not_useful,train,MNHN,P,Spermacoce congensis (Bremek.) Verdc.
+607416903,inat,0,not_useful,test,,,
+606343914,inat,0,not_useful,train,,,
+5132693826,gbif,0,not_useful,train,K,Herbarium,Magnolia sabahensis (Dandy ex Noot.) Figlar & Noot.
+2859332746,gbif,0,not_useful,train,CM,botany,Opuntia rafinesquei Engelm.
+595606541,inat,0,not_useful,train,,,
+451710286,inat,0,not_useful,train,,,
+608341088,inat,0,not_useful,train,,,
+608339028,inat,0,not_useful,test,,,
+2859017297,gbif,0,not_useful,val,CM,botany,Lemna minor L.
+579532981,inat,0,not_useful,train,,,
+608420776,inat,0,not_useful,train,,,
+608241091,inat,0,not_useful,train,,,
+607974741,inat,0,not_useful,test,,,
+443843171,inat,0,not_useful,train,,,
+551471108,inat,0,not_useful,train,,,
+3411770722,gbif,0,not_useful,test,TU,TU(B),Frullania tamarisci (L.) Dumort.
+602179704,inat,0,not_useful,val,,,
+608311129,inat,0,not_useful,test,,,
+607926531,inat,0,not_useful,val,,,
+607512664,inat,0,not_useful,test,,,
+2859304303,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859307304,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608247255,inat,0,not_useful,test,,,
+319163650,inat,0,not_useful,test,,,
+1986995289,gbif,0,not_useful,test,USU,UTC,Pinus sylvestris L.
+608153780,inat,0,not_useful,test,,,
+608446834,inat,0,not_useful,train,,,
+2859110614,gbif,0,not_useful,val,CM,botany,Brassica oleracea L.
+606324628,inat,0,not_useful,train,,,
+2829129020,gbif,0,not_useful,train,NSW,NSW,Nemalion helminthoides (Velley) Batters
+2407064102,gbif,0,not_useful,train,nbf,so2-vascular,Botrychium lunaria (L.) Sw.
+2859024719,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+608228370,inat,0,not_useful,test,,,
+607310885,inat,0,not_useful,val,,,
+4121799363,gbif,0,not_useful,test,OBI,,Riccia nigrella DC.
+608276144,inat,0,not_useful,test,,,
+608436720,inat,0,not_useful,test,,,
+596169244,inat,0,not_useful,train,,,
+608386288,inat,0,not_useful,train,,,
+599195265,inat,0,not_useful,test,,,
+1258179920,gbif,0,not_useful,train,PMA,Tropicos,Magnolia Plum. ex L.
+579004611,inat,0,not_useful,val,,,
+2859093733,gbif,0,not_useful,train,CM,botany,Drosera rotundifolia L.
+608110872,inat,0,not_useful,val,,,
+608397695,inat,0,not_useful,train,,,
+589447903,inat,0,not_useful,train,,,
+608006360,inat,0,not_useful,train,,,
+520469714,inat,0,not_useful,train,,,
+2859092693,gbif,0,not_useful,train,CM,botany,Populus tremuloides Michx.
+608406564,inat,0,not_useful,test,,,
+607912408,inat,0,not_useful,train,,,
+463154141,inat,0,not_useful,train,,,
+446970240,inat,0,not_useful,val,,,
+2859021301,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+5893380023,gbif,0,not_useful,train,SGAV-and-NHMD,,Cephalozia connivens (Dicks.) Lindb.
+2859389576,gbif,0,not_useful,val,CM,botany,Brassica oleracea L.
+580121377,inat,0,not_useful,test,,,
+2859112612,gbif,0,not_useful,train,CM,botany,Brassica oleracea L.
+2859209412,gbif,0,not_useful,train,CM,botany,Capsicum annuum L.
+607856646,inat,0,not_useful,train,,,
+893478950,gbif,0,not_useful,train,BGBM,AlgaTerra,Scenedesmus ellipticus Corda
+608385997,inat,0,not_useful,train,,,
+2859025301,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+591651044,inat,0,not_useful,train,,,
+417188778,inat,0,not_useful,train,,,
+607870670,inat,0,not_useful,test,,,
+1258206712,gbif,0,not_useful,train,MO,Tropicos,Pelargonium odoratissimum (L.) L'Hér.
+584395201,inat,0,not_useful,train,,,
+570881901,inat,0,not_useful,train,,,
+608126571,inat,0,not_useful,train,,,
+608403737,inat,0,not_useful,train,,,
+604967722,inat,0,not_useful,train,,,
+2859028613,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859283627,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859298298,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+3461508444,gbif,0,not_useful,train,TRH,A,Lemanea fucina Bory de Saint-Vicent
+2423923780,gbif,0,not_useful,test,DBG,KHD,Callitriche palustris L.
+4116769428,gbif,0,not_useful,train,GMS,,Blidingia minima var. vexata (Setchell & Gardner) Norris
+608410141,inat,0,not_useful,val,,,
+606897562,inat,0,not_useful,train,,,
+607966736,inat,0,not_useful,val,,,
+604412003,inat,0,not_useful,train,,,
+1998491205,gbif,0,not_useful,train,GH,GH,Magnolia tripetala (L.) L.
+605631691,inat,0,not_useful,val,,,
+2859326345,gbif,0,not_useful,train,CM,botany,"Amelanchier × neglecta Eggl. ex K.R.Cushman, M.B.Burgess, E.T.Doucette & C.S.Campb."
+4849455176,gbif,0,not_useful,train,BUT,,Polytrichastrum ohioense (Renauld & Cardot) G.L.Sm.
+2859476349,gbif,0,not_useful,train,CM,botany,Solanum melongena Wall.
+606716031,inat,0,not_useful,train,,,
+2859011300,gbif,0,not_useful,train,CM,botany,Lemna turionifera Landolt
+2859010295,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+607797057,gbif,0,not_useful,train,MNHN,P,Maesa gaudichaudii A.DC.
+608108091,inat,0,not_useful,train,,,
+608278870,inat,0,not_useful,train,,,
+608131556,inat,0,not_useful,test,,,
+606006682,inat,0,not_useful,val,,,
+548398546,inat,0,not_useful,train,,,
+5893821192,gbif,0,not_useful,test,SGAV-and-NHMD,,Splachnum ampullaceum Hedw.
+608100746,inat,0,not_useful,test,,,
+466465116,inat,0,not_useful,train,,,
+608266424,inat,0,not_useful,train,,,
+608439356,inat,0,not_useful,train,,,
+588436346,inat,0,not_useful,train,,,
+607993866,inat,0,not_useful,train,,,
+608232470,inat,0,not_useful,train,,,
+595370317,inat,0,not_useful,test,,,
+2859014289,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+3498204463,gbif,0,not_useful,train,SBAC,,Tipularia discolor (Pursh) Nutt.
+608432072,inat,0,not_useful,test,,,
+604851095,inat,0,not_useful,test,,,
+608446575,inat,0,not_useful,val,,,
+608173768,inat,0,not_useful,train,,,
+4121799331,gbif,0,not_useful,val,OBI,,Targionia hypophylla L.
+606975043,inat,0,not_useful,test,,,
+4092655775,gbif,0,not_useful,train,UARK,,Drepanocladus vernicosus (Mitt.) Warnst.
+588014131,inat,0,not_useful,train,,,
+2859027310,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+600774972,inat,0,not_useful,test,,,
+608148539,inat,0,not_useful,test,,,
+576033513,inat,0,not_useful,train,,,
+3091214770,gbif,0,not_useful,val,ASC,,Sarcostemma cynanchoides subsp. hartwegii R.W.Holm
+605562242,inat,0,not_useful,train,,,
+602919072,inat,0,not_useful,val,,,
+494221761,inat,0,not_useful,train,,,
+607834330,gbif,0,not_useful,val,MNHN,P,Senecio umbrosus Waldst. & Kit.
+608321937,inat,0,not_useful,train,,,
+502799063,inat,0,not_useful,train,,,
+510457891,inat,0,not_useful,test,,,
+606836660,inat,0,not_useful,train,,,
+607834307,gbif,0,not_useful,train,MNHN,P,Oxyanthus speciosus DC.
+570823956,inat,0,not_useful,train,,,
+595028927,inat,0,not_useful,train,,,
+607315126,inat,0,not_useful,train,,,
+574436831,inat,0,not_useful,train,,,
+2859423263,gbif,0,not_useful,val,CM,botany,Consolida ambigua (L.) P.W.Ball & Heywood
+2242407165,gbif,0,not_useful,train,DBG,KHD,Spiranthes magnicamporum Sheviak
+2859015286,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608210757,inat,0,not_useful,train,,,
+2513356497,gbif,0,not_useful,val,,Botany,Discophora guianensis Miers
+4989002302,gbif,0,not_useful,train,ILLS,,Chara zeylanica Willd.
+607912406,inat,0,not_useful,train,,,
+605309276,inat,0,not_useful,train,,,
+608414982,inat,0,not_useful,train,,,
+597815013,inat,0,not_useful,train,,,
+605404963,inat,0,not_useful,val,,,
+605834649,inat,0,not_useful,test,,,
+592770223,inat,0,not_useful,train,,,
+608001596,inat,0,not_useful,test,,,
+608316401,inat,0,not_useful,val,,,
+596043729,inat,0,not_useful,train,,,
+608351514,inat,0,not_useful,train,,,
+252350829,inat,0,not_useful,train,,,
+608435517,inat,0,not_useful,train,,,
+2859109602,gbif,0,not_useful,test,CM,botany,Cucurbita L.
+366368544,inat,0,not_useful,train,,,
+583833735,inat,0,not_useful,train,,,
+607145211,inat,0,not_useful,train,,,
+108341185,inat,0,not_useful,test,,,
+608450504,inat,0,not_useful,val,,,
+2859094618,gbif,0,not_useful,test,CM,botany,Brassica oleracea L.
+2859021718,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+596032435,inat,0,not_useful,train,,,
+593651011,inat,0,not_useful,train,,,
+5893727042,gbif,0,not_useful,train,SGAV-and-NHMD,,Polygonatum multiflorum (L.) All.
+603062951,inat,0,not_useful,test,,,
+455717927,inat,0,not_useful,train,,,
+608301962,inat,0,not_useful,test,,,
+608327739,inat,0,not_useful,test,,,
+607867805,inat,0,not_useful,train,,,
+2859425394,gbif,0,not_useful,train,CM,botany,Myriophyllum humile (Raf.) Morong
+608449815,inat,0,not_useful,train,,,
+571000067,inat,0,not_useful,train,,,
+608179161,inat,0,not_useful,train,,,
+607887404,inat,0,not_useful,train,,,
+608115240,inat,0,not_useful,train,,,
+595772378,inat,0,not_useful,train,,,
+608342412,inat,0,not_useful,train,,,
+608409529,inat,0,not_useful,train,,,
+602910314,inat,0,not_useful,train,,,
+586567870,inat,0,not_useful,test,,,
+4092654855,gbif,0,not_useful,train,UARK,,Leptostomum macrocarpon (Hedw.) Bach.Pyl.
+601269724,inat,0,not_useful,val,,,
+2859025628,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+606644088,inat,0,not_useful,val,,,
+606111524,inat,0,not_useful,train,,,
+606568119,inat,0,not_useful,val,,,
+608244971,inat,0,not_useful,train,,,
+2859024616,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+606331368,inat,0,not_useful,val,,,
+608153264,inat,0,not_useful,train,,,
+4121799319,gbif,0,not_useful,train,OBI,,Grimmia pulvinata Sw.
+608409026,inat,0,not_useful,train,,,
+4849454598,gbif,0,not_useful,test,BUT,,Diphyscium foliosum (Hedw.) D.Mohr
+5922556423,gbif,0,not_useful,train,NRM,POLLENREFERENCE,Plumbago indica L.
+608245055,inat,0,not_useful,train,,,
+2859283303,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+583662747,inat,0,not_useful,train,,,
+608153696,inat,0,not_useful,train,,,
+2859305618,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859025302,gbif,0,not_useful,train,CM,botany,Lemna turionifera Landolt
+2859073332,gbif,0,not_useful,test,CM,botany,Amelanchier canadensis (L.) Medik.
+607212595,inat,0,not_useful,train,,,
+607086603,inat,0,not_useful,test,,,
+608427083,inat,0,not_useful,train,,,
+527922344,inat,0,not_useful,train,,,
+608156290,inat,0,not_useful,val,,,
+4026632425,gbif,0,not_useful,val,TU,TU(B),Mannia sibirica (Müll.Frib.) Frye & L.Clark
+607294347,inat,0,not_useful,train,,,
+533411897,inat,0,not_useful,train,,,
+608409391,inat,0,not_useful,val,,,
+346121295,inat,0,not_useful,train,,,
+606121613,inat,0,not_useful,train,,,
+602498519,inat,0,not_useful,train,,,
+2517161245,gbif,0,not_useful,train,,Botany,Callithamnion hookeri (Dillwyn) S.F.Gray
+608191028,inat,0,not_useful,test,,,
+604446379,inat,0,not_useful,val,,,
+599505657,inat,0,not_useful,val,,,
+608050060,inat,0,not_useful,test,,,
+596211622,inat,0,not_useful,test,,,
+608263578,inat,0,not_useful,train,,,
+603291577,inat,0,not_useful,test,,,
+607887439,inat,0,not_useful,train,,,
+484384057,inat,0,not_useful,val,,,
+588091979,inat,0,not_useful,test,,,
+606998631,inat,0,not_useful,train,,,
+607394107,inat,0,not_useful,train,,,
+2859330351,gbif,0,not_useful,train,CM,botany,Amelanchier canadensis (L.) Medik.
+2859010296,gbif,0,not_useful,test,CM,botany,Wolffia columbiana H.Karst.
+608435863,inat,0,not_useful,train,,,
+2859026622,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+608442766,inat,0,not_useful,train,,,
+608353022,inat,0,not_useful,test,,,
+607835128,gbif,0,not_useful,train,MNHN,P,Oxyanthus speciosus DC.
+584631535,inat,0,not_useful,train,,,
+531525546,inat,0,not_useful,val,,,
+607894282,inat,0,not_useful,train,,,
+524978265,inat,0,not_useful,train,,,
+607956471,inat,0,not_useful,val,,,
+608320664,inat,0,not_useful,train,,,
+2284428886,gbif,0,not_useful,val,USU,UTC,Myriophyllum sibiricum Kom.
+605562484,inat,0,not_useful,train,,,
+608386531,inat,0,not_useful,train,,,
+608323167,inat,0,not_useful,test,,,
+2859307303,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+585886182,inat,0,not_useful,test,,,
+600842553,inat,0,not_useful,train,,,
+600105792,inat,0,not_useful,test,,,
+4024796491,gbif,0,not_useful,test,TAM,TAM,Nymphaea candida C.Presl
+607820040,gbif,0,not_useful,train,MNHN,P,Uncaria ferrea (Blume) DC.
+1986870149,gbif,0,not_useful,train,USU,UTC,Blepharipappus scaber Hook.
+606324618,inat,0,not_useful,train,,,
+2859308636,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+608430721,inat,0,not_useful,val,,,
+2859010297,gbif,0,not_useful,val,CM,botany,Lemna minor L.
+608430555,inat,0,not_useful,test,,,
+570544808,inat,0,not_useful,val,,,
+2859017295,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859017296,gbif,0,not_useful,test,CM,botany,Lemna turionifera Landolt
+589463988,inat,0,not_useful,train,,,
+603918464,inat,0,not_useful,train,,,
+583479976,inat,0,not_useful,train,,,
+608408157,inat,0,not_useful,test,,,
+4061994201,gbif,0,not_useful,train,LBV,Tropicos,Cnestis corniculata Lam.
+604657489,inat,0,not_useful,val,,,
+2859333343,gbif,0,not_useful,train,CM,botany,Amelanchier laevis Wiegand
+2859014292,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+608320445,inat,0,not_useful,train,,,
+492280982,inat,0,not_useful,train,,,
+2859281323,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+3016532842,gbif,0,not_useful,test,TU,TU(B),Nardia scalaris Gray
+4849454977,gbif,0,not_useful,test,BUT,,Papillaria nigrescens (Sw. ex Hedw.) A.Jaeger
+598320126,inat,0,not_useful,train,,,
+607995509,inat,0,not_useful,train,,,
+607969043,inat,0,not_useful,test,,,
+604145357,inat,0,not_useful,train,,,
+2410994961,gbif,0,not_useful,train,nbf,so2-vascular,Myosotis arvensis (L.) Hill
+595770400,inat,0,not_useful,test,,,
+363949226,inat,0,not_useful,train,,,
+605109236,inat,0,not_useful,train,,,
+570543708,inat,0,not_useful,train,,,
+607826178,gbif,0,not_useful,train,MNHN,P,Morinda L.
+1947779965,gbif,0,not_useful,train,TRH,B,Mastigobryum incrassatum Steph.
+2859203383,gbif,0,not_useful,train,CM,botany,Callitriche terrestris Muhl. ex Raf.
+607964468,inat,0,not_useful,train,,,
+596344710,inat,0,not_useful,test,,,
+2859024614,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+607528881,gbif,0,not_useful,train,MNHN,P,Antirrhinum majus L.
+595886719,inat,0,not_useful,test,,,
+608267869,inat,0,not_useful,test,,,
+580894049,inat,0,not_useful,val,,,
+606136319,inat,0,not_useful,val,,,
+608417474,inat,0,not_useful,train,,,
+601943127,inat,0,not_useful,train,,,
+2859305619,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+607695097,gbif,0,not_useful,train,MNHN,P,Bouvardia ternifolia (Cav.) Schltdl.
+552507736,inat,0,not_useful,train,,,
+586382169,inat,0,not_useful,train,,,
+333837990,inat,0,not_useful,train,,,
+363954772,inat,0,not_useful,train,,,
+608161711,inat,0,not_useful,train,,,
+603138752,inat,0,not_useful,train,,,
+608406651,inat,0,not_useful,train,,,
+605094433,inat,0,not_useful,val,,,
+2859071312,gbif,0,not_useful,train,CM,botany,Amelanchier arborea (F.Michx.) Fernald
+608043778,inat,0,not_useful,train,,,
+2859021625,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+608094385,inat,0,not_useful,train,,,
+607914395,inat,0,not_useful,test,,,
+2859016299,gbif,0,not_useful,val,CM,botany,Lemna minor L.
+606456424,inat,0,not_useful,train,,,
+606741196,inat,0,not_useful,train,,,
+608401117,inat,0,not_useful,train,,,
+603354996,inat,0,not_useful,test,,,
+608313095,inat,0,not_useful,train,,,
+2859279306,gbif,0,not_useful,train,CM,botany,Lemna turionifera Landolt
+607352619,inat,0,not_useful,train,,,
+607914460,inat,0,not_useful,train,,,
+604369671,inat,0,not_useful,train,,,
+2859012300,gbif,0,not_useful,test,CM,botany,Wolffia columbiana H.Karst.
+608386083,inat,0,not_useful,train,,,
+2859015282,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+606803049,inat,0,not_useful,train,,,
+605108147,inat,0,not_useful,val,,,
+608357702,inat,0,not_useful,train,,,
+605554863,inat,0,not_useful,test,,,
+2859279624,gbif,0,not_useful,val,CM,botany,Spirodela polyrhiza (L.) Schleid.
+247713935,inat,0,not_useful,train,,,
+589311476,inat,0,not_useful,train,,,
+608322694,inat,0,not_useful,val,,,
+2859281325,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+600505605,inat,0,not_useful,train,,,
+607281568,inat,0,not_useful,train,,,
+607567788,gbif,0,not_useful,test,MNHN,P,Hymenocoleus hirsutus (Benth.) Robbr.
+2351025214,gbif,0,not_useful,val,UdeM,MT,Sanguinaria canadensis L.
+607646366,inat,0,not_useful,val,,,
+2859019618,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+452173950,inat,0,not_useful,train,,,
+4526393377,gbif,0,not_useful,test,nbf,so2-mosses,Scorpidium cossonii (Schimp.) Hedenäs
+592257960,inat,0,not_useful,train,,,
+2859019437,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+5898529968,gbif,0,not_useful,val,ILLS,,Tortula olivacea Besch. ex Mitt.
+608236823,inat,0,not_useful,train,,,
+608219608,inat,0,not_useful,test,,,
+608406243,inat,0,not_useful,val,,,
+5922590635,gbif,0,not_useful,val,NRM,POLLENREFERENCE,Sonneratia alba Sm.
+598724535,inat,0,not_useful,test,,,
+514735133,inat,0,not_useful,train,,,
+600102090,inat,0,not_useful,test,,,
+4121799333,gbif,0,not_useful,val,OBI,,Tortula princeps De Not.
+539255985,inat,0,not_useful,train,,,
+4849582423,gbif,0,not_useful,train,TTC,Bryophytes,Crossidium aberrans Holz. & E.B.Bartram
+2859078982,gbif,0,not_useful,train,CM,botany,Mirabilis jalapa L.
+608337624,inat,0,not_useful,train,,,
+1055643911,gbif,0,not_useful,train,NHMUK,BOT,Sphaeroplea soleirolii (Duby) Mont. ex Kütz
+5937425065,gbif,0,not_useful,val,SGAV-and-NHMD,,Dicranum scoparium Hedw.
+608420900,inat,0,not_useful,train,,,
+447737617,inat,0,not_useful,train,,,
+608402145,inat,0,not_useful,val,,,
+608383225,inat,0,not_useful,train,,,
+537774029,inat,0,not_useful,test,,,
+608337700,inat,0,not_useful,test,,,
+5893650117,gbif,0,not_useful,train,SGAV-and-NHMD,,Corydalis solida (L.) Clairv.
+608348396,inat,0,not_useful,train,,,
+5922589462,gbif,0,not_useful,test,NRM,POLLENREFERENCE,Oenothera deltoides Torr. & Frém.
+2859296299,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608446889,inat,0,not_useful,test,,,
+608255198,inat,0,not_useful,train,,,
+2859326344,gbif,0,not_useful,train,CM,botany,Amelanchier canadensis (L.) Medik.
+2859306628,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+608434649,inat,0,not_useful,test,,,
+607831079,gbif,0,not_useful,val,MNHN,P,Danais microcarpa Baker
+598327843,inat,0,not_useful,test,,,
+516924217,inat,0,not_useful,train,,,
+3751291750,gbif,0,not_useful,train,UHM,HAW-A,Apophlaea lyallii Hook.f. & Harv.
+1986897197,gbif,0,not_useful,train,USU,UTC,Punica granatum L.
+608403983,inat,0,not_useful,val,,,
+598863724,inat,0,not_useful,train,,,
+2824663703,gbif,0,not_useful,train,,SYKO,Sphagnum warnstorfii Russow
+608318069,inat,0,not_useful,train,,,
+605888596,inat,0,not_useful,train,,,
+502383233,inat,0,not_useful,train,,,
+579967900,inat,0,not_useful,train,,,
+2859077340,gbif,0,not_useful,train,CM,botany,Amelanchier laevis Wiegand
+585985824,inat,0,not_useful,test,,,
+608316160,inat,0,not_useful,train,,,
+608401539,inat,0,not_useful,test,,,
+529043156,inat,0,not_useful,train,,,
+538816412,inat,0,not_useful,train,,,
+607983279,inat,0,not_useful,test,,,
+608215379,inat,0,not_useful,train,,,
+3331196076,gbif,0,not_useful,train,MVSC,MVSC,Magnolia × soulangeana Soul.-Bod.
+608423017,inat,0,not_useful,test,,,
+391268935,inat,0,not_useful,test,,,
+4121799330,gbif,0,not_useful,train,OBI,,Amblystegium serpens (Hedw.) Schimp.
+608399040,inat,0,not_useful,train,,,
+2859282641,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+608389376,inat,0,not_useful,train,,,
+608407748,inat,0,not_useful,test,,,
+1258210755,gbif,0,not_useful,train,MO,Tropicos,Commiphora myrrha (T.Nees) Engl.
+607890797,inat,0,not_useful,train,,,
+608446928,inat,0,not_useful,train,,,
+2408703381,gbif,0,not_useful,train,nbf,so2-vascular,Rhododendron lapponicum (L.) Wahlenb.
+604654358,inat,0,not_useful,train,,,
+608384321,inat,0,not_useful,val,,,
+607963502,inat,0,not_useful,train,,,
+608401609,inat,0,not_useful,train,,,
+600522521,inat,0,not_useful,train,,,
+608404650,inat,0,not_useful,train,,,
+606185764,inat,0,not_useful,val,,,
+588999911,inat,0,not_useful,train,,,
+608099933,inat,0,not_useful,train,,,
+4092653833,gbif,0,not_useful,train,UARK,,Braithwaitea sulcata (Hook.) A.Jaeger & Sauerb.
+606730917,inat,0,not_useful,val,,,
+483646265,inat,0,not_useful,train,,,
+608249714,inat,0,not_useful,train,,,
+2859279591,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+608425933,inat,0,not_useful,test,,,
+4121799308,gbif,0,not_useful,train,OBI,,Polytrichum sexangulare Flörke ex Brid.
+608425250,inat,0,not_useful,train,,,
+608408718,inat,0,not_useful,val,,,
+606989591,inat,0,not_useful,train,,,
+597909085,inat,0,not_useful,test,,,
+605828017,inat,0,not_useful,train,,,
+604654475,inat,0,not_useful,test,,,
+600109042,inat,0,not_useful,train,,,
+602730451,inat,0,not_useful,train,,,
+482350687,inat,0,not_useful,train,,,
+592058139,inat,0,not_useful,train,,,
+608437307,inat,0,not_useful,train,,,
+608064966,inat,0,not_useful,train,,,
+2859098604,gbif,0,not_useful,val,CM,botany,Brassica rapa L.
+586564379,inat,0,not_useful,train,,,
+597844028,inat,0,not_useful,train,,,
+2859023303,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+588591244,inat,0,not_useful,test,,,
+1843405360,gbif,0,not_useful,train,AK,AK,Magnolia sieboldii K.Koch
+607988612,inat,0,not_useful,test,,,
+4116767673,gbif,0,not_useful,train,GMS,,"Collinsiella tuberculata Setchell & N.L.Gardner, 1903"
+556002196,inat,0,not_useful,train,,,
+608024957,inat,0,not_useful,train,,,
+4849582493,gbif,0,not_useful,train,TTC,Bryophytes,Bruchia hallii Austin
+2859280688,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+608352828,inat,0,not_useful,train,,,
+608436448,inat,0,not_useful,train,,,
+3451584352,gbif,0,not_useful,train,nbf,so2-mosses,Antitrichia curtipendula (Hedw.) Brid.
+472165383,inat,0,not_useful,train,,,
+608060156,inat,0,not_useful,train,,,
+589000861,inat,0,not_useful,train,,,
+592882178,inat,0,not_useful,train,,,
+600611319,inat,0,not_useful,val,,,
+608245052,inat,0,not_useful,train,,,
+608233018,inat,0,not_useful,test,,,
+588108789,inat,0,not_useful,train,,,
+608105527,inat,0,not_useful,test,,,
+604452146,inat,0,not_useful,train,,,
+608033498,inat,0,not_useful,test,,,
+2859020630,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859015285,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+606254649,inat,0,not_useful,train,,,
+607961748,inat,0,not_useful,train,,,
+487594742,inat,0,not_useful,train,,,
+584530838,inat,0,not_useful,train,,,
+583263919,inat,0,not_useful,train,,,
+2859238374,gbif,0,not_useful,train,CM,botany,Capsicum annuum L.
+608407687,inat,0,not_useful,train,,,
+608242761,inat,0,not_useful,train,,,
+608401642,inat,0,not_useful,train,,,
+607185990,inat,0,not_useful,train,,,
+608404737,inat,0,not_useful,train,,,
+608006491,inat,0,not_useful,train,,,
+608281058,inat,0,not_useful,val,,,
+608419974,inat,0,not_useful,train,,,
+608254930,inat,0,not_useful,train,,,
+608434797,inat,0,not_useful,train,,,
+608436378,inat,0,not_useful,train,,,
+608185536,inat,0,not_useful,train,,,
+608312820,inat,0,not_useful,test,,,
+2859282319,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608426994,inat,0,not_useful,train,,,
+475408365,inat,0,not_useful,train,,,
+2859078305,gbif,0,not_useful,train,CM,botany,Amelanchier arborea (F.Michx.) Fernald
+608326944,inat,0,not_useful,train,,,
+2423923868,gbif,0,not_useful,train,DBG,KHD,Utricularia × ochroleuca R.W.Hartm.
+605074771,inat,0,not_useful,train,,,
+2423893903,gbif,0,not_useful,train,USU,UTC,Miscanthus × giganteus J.M.Greef & Deuter ex Hodk. & Renvoize
+2859297294,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859027309,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+608153292,inat,0,not_useful,train,,,
+2859113604,gbif,0,not_useful,train,CM,botany,Cucurbita pepo L.
+599089014,inat,0,not_useful,train,,,
+606330775,inat,0,not_useful,val,,,
+582107406,inat,0,not_useful,train,,,
+608430469,inat,0,not_useful,train,,,
+602717699,inat,0,not_useful,train,,,
+608326100,inat,0,not_useful,train,,,
+607155689,inat,0,not_useful,train,,,
+608169214,inat,0,not_useful,test,,,
+608409121,inat,0,not_useful,val,,,
+2859010294,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+3344428899,gbif,0,not_useful,test,CLEMS,,Liriodendron tulipifera L.
+608225314,inat,0,not_useful,train,,,
+589477438,inat,0,not_useful,val,,,
+607066811,inat,0,not_useful,train,,,
+4092654875,gbif,0,not_useful,val,UARK,,Amblystegium varium (Hedw.) Lindb.
+608436534,inat,0,not_useful,train,,,
+601922083,inat,0,not_useful,val,,,
+599534225,inat,0,not_useful,train,,,
+595665666,inat,0,not_useful,train,,,
+2995056455,gbif,0,not_useful,train,NMR,NMR Collection,Corylus avellana L.
+608449628,inat,0,not_useful,train,,,
+1998401779,gbif,0,not_useful,train,GH,GH,Magnolia tripetala (L.) L.
+608223485,inat,0,not_useful,train,,,
+608406003,inat,0,not_useful,test,,,
+587508524,inat,0,not_useful,train,,,
+608062781,inat,0,not_useful,val,,,
+596280792,inat,0,not_useful,test,,,
+599094922,inat,0,not_useful,train,,,
+2859279303,gbif,0,not_useful,val,CM,botany,Lemna trisulca L.
+608430333,inat,0,not_useful,val,,,
+2859280312,gbif,0,not_useful,train,CM,botany,Wolffia borealis (Engelm.) Landolt
+606814190,inat,0,not_useful,test,,,
+4987946163,gbif,0,not_useful,train,ILL,,Haematococcus pluvialis Flot.
+599179358,inat,0,not_useful,val,,,
+608412236,inat,0,not_useful,train,,,
+1999301168,gbif,0,not_useful,train,GH,GH,Liriodendron tulipifera L.
+500078445,inat,0,not_useful,val,,,
+2268930414,gbif,0,not_useful,train,UNA,Tropicos,"Magnolia mercedesiarum D.A.Neill, A.Vázquez & F.Arroyo"
+604985389,inat,0,not_useful,test,,,
+608397244,inat,0,not_useful,val,,,
+604926891,inat,0,not_useful,test,,,
+607887047,inat,0,not_useful,val,,,
+2859283629,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+607806687,gbif,0,not_useful,val,MNHN,P,Mentha affinis Boreau
+2513159175,gbif,0,not_useful,train,,Botany,Magnolia singapurensis (Ridl.) H.Keng
+608395678,inat,0,not_useful,train,,,
+605137863,inat,0,not_useful,test,,,
+607795897,gbif,0,not_useful,train,MNHN,P,Rhododendron delavayi Franch.
+5922584591,gbif,0,not_useful,train,NRM,POLLENREFERENCE,Lomandra filiformis (Thunb.) Britten
+2859023307,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608256676,inat,0,not_useful,test,,,
+608408788,inat,0,not_useful,train,,,
+2859298299,gbif,0,not_useful,test,CM,botany,Wolffia brasiliensis Wedd.
+595305153,inat,0,not_useful,train,,,
+608428889,inat,0,not_useful,train,,,
+2859023625,gbif,0,not_useful,test,CM,botany,Wolffia borealis (Engelm.) Landolt
+608279096,inat,0,not_useful,train,,,
+606495830,inat,0,not_useful,val,,,
+604997588,inat,0,not_useful,train,,,
+288817509,inat,0,not_useful,train,,,
+605649983,inat,0,not_useful,train,,,
+4849454515,gbif,0,not_useful,train,BUT,,Ricciocarpos natans (L.) Corda
+2859279417,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859282320,gbif,0,not_useful,train,CM,botany,Wolffia borealis (Engelm.) Landolt
+606096161,inat,0,not_useful,train,,,
+607666113,gbif,0,not_useful,val,MNHN,P,Gentiana bavarica L.
+607762066,inat,0,not_useful,val,,,
+608159065,inat,0,not_useful,train,,,
+2266061773,gbif,0,not_useful,train,MIN,Bryophytes,Hypnum curvifolium Hedw.
+607715919,inat,0,not_useful,val,,,
+608415067,inat,0,not_useful,test,,,
+2859022620,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859281324,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859297293,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859019617,gbif,0,not_useful,val,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859283307,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608134730,inat,0,not_useful,train,,,
+606759618,inat,0,not_useful,train,,,
+607360465,inat,0,not_useful,train,,,
+605010132,inat,0,not_useful,train,,,
+607837797,gbif,0,not_useful,val,MNHN,P,Hyoscyamus albus L.
+588013892,inat,0,not_useful,train,,,
+607963374,inat,0,not_useful,train,,,
+3016573886,gbif,0,not_useful,val,TU,TU(B),Jungermannia pumila With.
+607865731,inat,0,not_useful,train,,,
+608367674,inat,0,not_useful,val,,,
+497339260,inat,0,not_useful,test,,,
+2859219964,gbif,0,not_useful,train,CM,botany,Wolffia borealis (Engelm.) Landolt
+4849455031,gbif,0,not_useful,test,BUT,,Barbilophozia attenuata (Mart.) Loeske
+605631244,inat,0,not_useful,val,,,
+608386163,inat,0,not_useful,test,,,
+2252194306,gbif,0,not_useful,val,COLO,B,Ulota phyllantha Brid.
+608406373,inat,0,not_useful,train,,,
+2859023415,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+608420544,inat,0,not_useful,train,,,
+607643013,inat,0,not_useful,test,,,
+2859467314,gbif,0,not_useful,test,CM,botany,Tropaeolum majus L.
+607879707,inat,0,not_useful,train,,,
+608180692,inat,0,not_useful,test,,,
+370085867,inat,0,not_useful,train,,,
+2859023642,gbif,0,not_useful,test,CM,botany,Orontium aquaticum L.
+608401462,inat,0,not_useful,train,,,
+608178882,inat,0,not_useful,train,,,
+2859282318,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+577383417,inat,0,not_useful,train,,,
+2859470347,gbif,0,not_useful,train,CM,botany,Capsicum annuum L.
+2859127305,gbif,0,not_useful,train,CM,botany,Galearis spectabilis (L.) Raf.
+608386794,inat,0,not_useful,test,,,
+605397013,inat,0,not_useful,train,,,
+2859307595,gbif,0,not_useful,val,CM,botany,Lemna minor L.
+588204966,inat,0,not_useful,train,,,
+572122218,inat,0,not_useful,val,,,
+607258956,inat,0,not_useful,train,,,
+608434991,inat,0,not_useful,test,,,
+608445679,inat,0,not_useful,test,,,
+4948980612,gbif,0,not_useful,val,NAU,,Johnstonella angustifolia (Torr.) Hasenstab & M.G.Simpson
+608217990,inat,0,not_useful,train,,,
+2859280423,gbif,0,not_useful,val,CM,botany,Spirodela polyrhiza (L.) Schleid.
+608445004,inat,0,not_useful,train,,,
+608278515,inat,0,not_useful,train,,,
+608446167,inat,0,not_useful,train,,,
+2859281644,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2410601979,gbif,0,not_useful,val,nbf,so2-mosses,Dicranoweisia cirrata (Hedw.) Lindb.
+608408061,inat,0,not_useful,train,,,
+608089382,inat,0,not_useful,test,,,
+608439898,inat,0,not_useful,test,,,
+565210754,inat,0,not_useful,train,,,
+1986856406,gbif,0,not_useful,train,USU,UTC,Eriogonum shockleyi var. shockleyi
+608240398,inat,0,not_useful,val,,,
+608049095,inat,0,not_useful,train,,,
+608439615,inat,0,not_useful,val,,,
+4024798528,gbif,0,not_useful,train,TAM,TAM,Geranium sibiricum L.
+603903678,inat,0,not_useful,test,,,
+607538117,gbif,0,not_useful,test,MNHN,P,Psychotria schweinfurthii Hiern
+3312931301,gbif,0,not_useful,train,CM,botany,Wolffia brasiliensis Wedd.
+1258002346,gbif,0,not_useful,val,MO,Tropicos,Clidemia D.Don
+2859070331,gbif,0,not_useful,val,CM,botany,Amelanchier canadensis (L.) Medik.
+608044708,inat,0,not_useful,test,,,
+608323312,inat,0,not_useful,val,,,
+524702321,inat,0,not_useful,train,,,
+3498204577,gbif,0,not_useful,test,SBAC,,Arisaema dracontium (L.) Schott
+608333696,inat,0,not_useful,val,,,
+472224001,inat,0,not_useful,val,,,
+598714604,inat,0,not_useful,train,,,
+607794599,gbif,0,not_useful,train,MNHN,P,Lamiaceae
+520682382,inat,0,not_useful,train,,,
+607614279,inat,0,not_useful,test,,,
+608324851,inat,0,not_useful,train,,,
+600509132,inat,0,not_useful,val,,,
+2351028232,gbif,0,not_useful,train,UdeM,MT,Polygonatum multiflorum (L.) All.
+2859010298,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+37525724,inat,0,not_useful,test,,,
+608347864,inat,0,not_useful,train,,,
+488016207,inat,0,not_useful,train,,,
+5894036798,gbif,0,not_useful,test,SGAV-and-NHMD,,Isothecium myosuroides Brid.
+2859023626,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+608339026,inat,0,not_useful,train,,,
+603935318,inat,0,not_useful,train,,,
+595392699,inat,0,not_useful,train,,,
+608267631,inat,0,not_useful,test,,,
+5922590641,gbif,0,not_useful,train,NRM,POLLENREFERENCE,Sparganium emersum Rehmann
+523290455,inat,0,not_useful,train,,,
+466464459,inat,0,not_useful,train,,,
+608426863,inat,0,not_useful,train,,,
+608150131,inat,0,not_useful,train,,,
+595888073,inat,0,not_useful,train,,,
+608328192,inat,0,not_useful,train,,,
+608149400,inat,0,not_useful,val,,,
+608226460,inat,0,not_useful,train,,,
+517421408,inat,0,not_useful,test,,,
+606638170,inat,0,not_useful,train,,,
+595675304,inat,0,not_useful,train,,,
+603676270,inat,0,not_useful,train,,,
+2859282317,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+508428674,inat,0,not_useful,train,,,
+544340196,inat,0,not_useful,val,,,
+608340631,inat,0,not_useful,train,,,
+608436903,inat,0,not_useful,train,,,
+3001129165,gbif,0,not_useful,val,TAM,TAM,Larix russica (Endl.) Sabine ex Trautv.
+4121799314,gbif,0,not_useful,train,OBI,,Gemmabryum bicolor (Dicks.) J.R.Spence
+2859020631,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+2859283306,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2408527483,gbif,0,not_useful,val,nbf,so2-mosses,Solenostoma gracillimum (Sm.) R.M.Schust.
+577463314,inat,0,not_useful,train,,,
+607771065,inat,0,not_useful,train,,,
+607358652,inat,0,not_useful,train,,,
+3762225327,gbif,0,not_useful,train,NMR,NMR Collection,Dioclea reflexa Hook.f.
+607973357,inat,0,not_useful,train,,,
+5922559663,gbif,0,not_useful,train,NRM,POLLENREFERENCE,Fuchsia magellanica Lam.
+2859308728,gbif,0,not_useful,val,CM,botany,Wolffia brasiliensis Wedd.
+608367573,inat,0,not_useful,val,,,
+1260854080,gbif,0,not_useful,train,QCNE,Tropicos,Magnolia bankardiorum M.O.Dillon & Sánchez Vega
+608031226,inat,0,not_useful,train,,,
+606831285,inat,0,not_useful,train,,,
+2859281528,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608133750,inat,0,not_useful,val,,,
+4987944761,gbif,0,not_useful,train,ILL,,Actinastrum hantzschii Lagerh.
+2242360546,gbif,0,not_useful,train,DBG,KHD,Ceratophyllum demersum L.
+608036477,inat,0,not_useful,train,,,
+2859281645,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+605958421,inat,0,not_useful,test,,,
+586566080,inat,0,not_useful,train,,,
+607327424,inat,0,not_useful,val,,,
+608447556,inat,0,not_useful,train,,,
+608223506,inat,0,not_useful,train,,,
+2859304630,gbif,0,not_useful,test,CM,botany,Wolffia columbiana H.Karst.
+607967005,inat,0,not_useful,train,,,
+2859306627,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859163307,gbif,0,not_useful,test,CM,botany,Daucus carota L.
+607185313,inat,0,not_useful,val,,,
+608318197,inat,0,not_useful,train,,,
+606680278,inat,0,not_useful,train,,,
+606848882,inat,0,not_useful,train,,,
+2859305620,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2242417770,gbif,0,not_useful,test,DBG,KHD,Wolffia columbiana H.Karst.
+607798299,gbif,0,not_useful,train,MNHN,P,Galiniera saxifraga (Hochst.) Bridson
+4121799361,gbif,0,not_useful,test,OBI,,Rhizomnium glabrescens (Kindb.) T.J.Kop.
+607983641,inat,0,not_useful,test,,,
+579935653,inat,0,not_useful,val,,,
+598513182,inat,0,not_useful,val,,,
+607281508,inat,0,not_useful,test,,,
+608244727,inat,0,not_useful,train,,,
+608347939,inat,0,not_useful,train,,,
+606965391,inat,0,not_useful,test,,,
+589836996,inat,0,not_useful,test,,,
+2859279625,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+608406156,inat,0,not_useful,val,,,
+375257479,inat,0,not_useful,train,,,
+584574606,inat,0,not_useful,train,,,
+574786238,gbif,0,not_useful,train,RBGE,E,Senecio decurrens DC.
+2859361319,gbif,0,not_useful,test,CM,botany,Amelanchier lucida (Fernald) Fernald
+608244565,inat,0,not_useful,train,,,
+2859304304,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+607212148,inat,0,not_useful,val,,,
+608216412,inat,0,not_useful,train,,,
+607201892,inat,0,not_useful,train,,,
+608446393,inat,0,not_useful,train,,,
+2859022433,gbif,0,not_useful,train,CM,botany,Lemna valdiviana Phil.
+608400249,inat,0,not_useful,train,,,
+608385089,inat,0,not_useful,val,,,
+606510053,inat,0,not_useful,test,,,
+605324036,inat,0,not_useful,test,,,
+2859280313,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+605896902,inat,0,not_useful,train,,,
+599470319,inat,0,not_useful,train,,,
+603877148,inat,0,not_useful,train,,,
+4092653608,gbif,0,not_useful,test,UARK,,Dichelyma falcatum (Hedw.) Myrin
+607345110,inat,0,not_useful,train,,,
+4092655458,gbif,0,not_useful,train,UARK,,Catagonium politum (Hook. & Wilson) Dusén ex Broth.
+608436839,inat,0,not_useful,train,,,
+608401647,inat,0,not_useful,train,,,
+608100733,inat,0,not_useful,train,,,
+607982597,inat,0,not_useful,train,,,
+608429065,inat,0,not_useful,train,,,
+555999009,inat,0,not_useful,test,,,
+607396853,inat,0,not_useful,train,,,
+2859016300,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+607767619,inat,0,not_useful,train,,,
+608244758,inat,0,not_useful,train,,,
+607144013,inat,0,not_useful,val,,,
+221741886,inat,0,not_useful,train,,,
+608421339,inat,0,not_useful,test,,,
+604145261,inat,0,not_useful,train,,,
+4849455113,gbif,0,not_useful,train,BUT,,Physcomitrium pyriforme (Hedw.) Brid.
+607137332,inat,0,not_useful,train,,,
+600514095,inat,0,not_useful,train,,,
+2859280637,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+593039061,inat,0,not_useful,val,,,
+592609042,inat,0,not_useful,train,,,
+608349798,inat,0,not_useful,train,,,
+4849454643,gbif,0,not_useful,val,BUT,,Rhaphidostegium carolinianum (Müll.Hal.) A.Jaeger
+608221755,inat,0,not_useful,train,,,
+606458622,inat,0,not_useful,train,,,
+608430447,inat,0,not_useful,train,,,
+608429936,inat,0,not_useful,train,,,
+608387371,inat,0,not_useful,train,,,
+608430106,inat,0,not_useful,train,,,
+607849879,inat,0,not_useful,train,,,
+498833892,inat,0,not_useful,val,,,
+608358248,inat,0,not_useful,train,,,
+2859305617,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+5083026531,gbif,0,not_useful,train,K,Herbarium,Maireana triptera (Benth.) Paul G.Wilson
+608091339,inat,0,not_useful,test,,,
+2859306596,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+472895947,inat,0,not_useful,train,,,
+608449663,inat,0,not_useful,val,,,
+608113778,inat,0,not_useful,train,,,
+593959330,inat,0,not_useful,train,,,
+602152135,inat,0,not_useful,train,,,
+586794140,inat,0,not_useful,test,,,
+3751300076,gbif,0,not_useful,test,UHM,HAW-A,Chaetophora lobata Schrank
+608440070,inat,0,not_useful,val,,,
+5138132229,gbif,0,not_useful,train,DUL,,Amphidium lapponicum (Hedw.) Schimp.
+3751291314,gbif,0,not_useful,train,UHM,HAW-A,Cladophora glomerata (L.) Kütz.
+608244589,inat,0,not_useful,train,,,
+608399593,inat,0,not_useful,train,,,
+607983307,inat,0,not_useful,train,,,
+608428474,inat,0,not_useful,train,,,
+604226272,inat,0,not_useful,train,,,
+600288623,inat,0,not_useful,test,,,
+2859307628,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859014290,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+2859280636,gbif,0,not_useful,train,CM,botany,Wolffia borealis (Engelm.) Landolt
+2859014291,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608036128,inat,0,not_useful,train,,,
+606999268,inat,0,not_useful,val,,,
+608380223,inat,0,not_useful,train,,,
+607966588,inat,0,not_useful,test,,,
+501542157,inat,0,not_useful,val,,,
+607492324,inat,0,not_useful,test,,,
+694847157,gbif,0,not_useful,val,MSB,MSBvplantscoll,Peucedanum longibracteolatum Parolly & Nordt
+608397887,inat,0,not_useful,val,,,
+2243353667,gbif,0,not_useful,train,USU,UTC,Parodia × erubescens (Osten) D.R.Hunt
+608338697,inat,0,not_useful,test,,,
+5922593415,gbif,0,not_useful,train,NRM,POLLENREFERENCE,Stegnosperma halimifolium Benth.
+607517011,gbif,0,not_useful,train,MNHN,P,Diodia L.
+2859027635,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+607200782,inat,0,not_useful,train,,,
+2859021302,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+335387845,inat,0,not_useful,train,,,
+606125560,inat,0,not_useful,val,,,
+607256510,inat,0,not_useful,test,,,
+608421538,inat,0,not_useful,val,,,
+598209313,inat,0,not_useful,train,,,
+2859308301,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+606572853,inat,0,not_useful,train,,,
+473338425,inat,0,not_useful,train,,,
+603258794,inat,0,not_useful,test,,,
+608278160,inat,0,not_useful,train,,,
+2859304301,gbif,0,not_useful,train,CM,botany,Lemna trisulca L.
+608384263,inat,0,not_useful,train,,,
+608306877,inat,0,not_useful,train,,,
+2859130822,gbif,0,not_useful,train,CM,botany,Allium cepa L.
+605892568,inat,0,not_useful,train,,,
+2859023304,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+452135940,inat,0,not_useful,test,,,
+608133587,inat,0,not_useful,train,,,
+2883349393,gbif,0,not_useful,train,AK,AK,Magnolia doltsopa (Buch.-Ham. ex DC.) Figlar
+2859021627,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+578052948,inat,0,not_useful,train,,,
+608088116,inat,0,not_useful,val,,,
+608243452,inat,0,not_useful,train,,,
+605812952,inat,0,not_useful,test,,,
+589000423,inat,0,not_useful,train,,,
+606812879,inat,0,not_useful,train,,,
+608106351,inat,0,not_useful,val,,,
+608145266,inat,0,not_useful,train,,,
+608149088,inat,0,not_useful,val,,,
+585069891,inat,0,not_useful,train,,,
+2859074323,gbif,0,not_useful,train,CM,botany,Amelanchier canadensis (L.) Medik.
+3807822301,gbif,0,not_useful,train,nbf,so2-algae,Palmaria palmata (L.) F.Weber & D.Mohr
+2859304628,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+2859279626,gbif,0,not_useful,test,CM,botany,Lemna turionifera Landolt
+608420945,inat,0,not_useful,test,,,
+597263221,inat,0,not_useful,train,,,
+606993612,inat,0,not_useful,test,,,
+3001195852,gbif,0,not_useful,val,TAM,TAM,Hottonia palustris L.
+2859019619,gbif,0,not_useful,train,CM,botany,Wolffia borealis (Engelm.) Landolt
+4092655539,gbif,0,not_useful,train,UARK,,Hedwigia ciliata (Hedw.) P.Beauv.
+608409849,inat,0,not_useful,train,,,
+608444102,inat,0,not_useful,val,,,
+2859307625,gbif,0,not_useful,val,CM,botany,Lemna minor L.
+608081527,inat,0,not_useful,train,,,
+164505205,inat,0,not_useful,train,,,
+604350532,inat,0,not_useful,test,,,
+605025711,inat,0,not_useful,train,,,
+605847313,inat,0,not_useful,train,,,
+2859283305,gbif,0,not_useful,train,CM,botany,Lemna turionifera Landolt
+2859298295,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+608243449,inat,0,not_useful,val,,,
+608407118,inat,0,not_useful,train,,,
+607487771,inat,0,not_useful,train,,,
+582889425,inat,0,not_useful,train,,,
+581989384,inat,0,not_useful,train,,,
+608409766,inat,0,not_useful,train,,,
+599994877,inat,0,not_useful,train,,,
+5893313071,gbif,0,not_useful,train,SGAV-and-NHMD,,Fissidens bryoides Hedw.
+2859025630,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+238783826,inat,0,not_useful,train,,,
+608434966,inat,0,not_useful,train,,,
+595675257,inat,0,not_useful,train,,,
+381107836,inat,0,not_useful,train,,,
+3016532361,gbif,0,not_useful,train,TU,TU(B),Papaver radicatum Rottb.
+2859273865,gbif,0,not_useful,train,CM,botany,Eleocharis acicularis (L.) Roem. & Schult.
+606552484,inat,0,not_useful,train,,,
+2859325332,gbif,0,not_useful,val,CM,botany,Amelanchier canadensis (L.) Medik.
+597396756,inat,0,not_useful,train,,,
+2859307626,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+480978212,inat,0,not_useful,train,,,
+608092539,inat,0,not_useful,train,,,
+594377545,inat,0,not_useful,val,,,
+606018738,inat,0,not_useful,val,,,
+606568105,inat,0,not_useful,val,,,
+608427013,inat,0,not_useful,val,,,
+397361831,inat,0,not_useful,test,,,
+2859281694,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+600723163,inat,0,not_useful,train,,,
+2859306626,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+5922557578,gbif,0,not_useful,train,NRM,POLLENREFERENCE,Stylidium elongatum Benth.
+2859082741,gbif,0,not_useful,train,CM,botany,Drosera rotundifolia L.
+604403034,inat,0,not_useful,test,,,
+606330783,inat,0,not_useful,train,,,
+593048532,inat,0,not_useful,test,,,
+2859023624,gbif,0,not_useful,train,CM,botany,Wolffia columbiana H.Karst.
+2859306629,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+603873286,inat,0,not_useful,train,,,
+569865266,inat,0,not_useful,train,,,
+5138134916,gbif,0,not_useful,test,DUL,,Diphyscium foliosum (Hedw.) D.Mohr
+608326634,inat,0,not_useful,test,,,
+608189739,inat,0,not_useful,train,,,
+597909274,inat,0,not_useful,val,,,
+325456323,gbif,0,not_useful,train,BGBM,AlgaTerra,Chlorogonium elongatum (P.A.Dangeard) Francé
+2859295300,gbif,0,not_useful,test,CM,botany,Lemna turionifera Landolt
+607282507,inat,0,not_useful,train,,,
+520339475,inat,0,not_useful,test,,,
+607901371,inat,0,not_useful,val,,,
+607681690,gbif,0,not_useful,train,MNHN,P,Galium murale (L.) All.
+2859502320,gbif,0,not_useful,val,CM,botany,Salvia splendens Sellow ex Nees
+607022429,inat,0,not_useful,test,,,
+2859014287,gbif,0,not_useful,val,CM,botany,Lemna perpusilla Torr.
+603689356,inat,0,not_useful,test,,,
+2515156008,gbif,0,not_useful,val,,Botany,Tolypella glomerata (Desv.) Leonh.
+5922593395,gbif,0,not_useful,val,NRM,POLLENREFERENCE,Staphylea bumalda DC.
+577980776,inat,0,not_useful,train,,,
+608401527,inat,0,not_useful,val,,,
+608349824,inat,0,not_useful,test,,,
+605415422,inat,0,not_useful,train,,,
+607875072,inat,0,not_useful,train,,,
+608126564,inat,0,not_useful,train,,,
+585908491,inat,0,not_useful,train,,,
+608196291,inat,0,not_useful,val,,,
+607181392,inat,0,not_useful,train,,,
+607882998,inat,0,not_useful,val,,,
+608284248,inat,0,not_useful,train,,,
+608243267,inat,0,not_useful,train,,,
+3439483701,gbif,0,not_useful,test,H,,Magnolia guatemalensis Donn.Sm.
+601096909,inat,0,not_useful,train,,,
+608339040,inat,0,not_useful,train,,,
+557093149,inat,0,not_useful,train,,,
+608133921,inat,0,not_useful,train,,,
+2859010500,gbif,0,not_useful,test,CM,botany,Sciadopitys verticillata (Thunb.) Siebold & Zucc.
+607316009,inat,0,not_useful,train,,,
+3751292309,gbif,0,not_useful,val,UHM,HAW-A,Uronema confervicola Lagerh.
+603420682,inat,0,not_useful,test,,,
+591157963,inat,0,not_useful,test,,,
+607921980,inat,0,not_useful,test,,,
+599874655,inat,0,not_useful,test,,,
+608435266,inat,0,not_useful,test,,,
+602980543,inat,0,not_useful,train,,,
+2859356593,gbif,0,not_useful,train,CM,botany,Brassica rapa L.
+606317049,inat,0,not_useful,train,,,
+2859026624,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+578460984,inat,0,not_useful,train,,,
+608276520,inat,0,not_useful,val,,,
+2859018285,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+605296722,inat,0,not_useful,train,,,
+2859298296,gbif,0,not_useful,val,CM,botany,Lemna turionifera Landolt
+608298476,inat,0,not_useful,train,,,
+608389395,inat,0,not_useful,train,,,
+2859283628,gbif,0,not_useful,test,CM,botany,Lemna minor L.
+607950914,inat,0,not_useful,val,,,
+608409689,inat,0,not_useful,val,,,
+607724261,gbif,0,not_useful,train,MNHN,P,Ardisia humilis Vahl
+608333583,inat,0,not_useful,train,,,
+2859308304,gbif,0,not_useful,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+597382089,inat,0,not_useful,train,,,
+2859111595,gbif,0,not_useful,train,CM,botany,Cucurbita maxima Wall.
+575793398,inat,0,not_useful,test,,,
+608266857,inat,0,not_useful,val,,,
+3898346337,gbif,0,not_useful,train,US,US,Cephaloziella starkei var. ericetorum C.E.O.Jensen
+499344635,inat,0,not_useful,val,,,
+607784830,inat,0,not_useful,test,,,
+605015800,inat,0,not_useful,train,,,
+572316619,inat,0,not_useful,train,,,
+608105464,inat,0,not_useful,test,,,
+2859304627,gbif,0,not_useful,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+604984992,inat,0,not_useful,train,,,
+605308665,inat,0,not_useful,val,,,
+608333748,inat,0,not_useful,test,,,
+608312832,inat,0,not_useful,train,,,
+2859279307,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+3751298317,gbif,0,not_useful,val,UHM,HAW-A,Batrachospermum gelatinosum (L.) DC.
+1986856405,gbif,0,not_useful,train,USU,UTC,Eriogonum shockleyi S.Watson
+607808139,gbif,0,not_useful,train,MNHN,P,Blackstonia perfoliata (L.) Huds.
+2859011299,gbif,0,not_useful,train,CM,botany,Lemna minor L.
+607749818,gbif,0,not_useful,train,MNHN,P,Psychotria L.
+599477666,inat,0,not_useful,train,,,
+736268660,gbif,0,not_useful,test,BGBM,AlgaTerra,Spermatozopsis exsultans Korshikov
+599677623,inat,0,not_useful,val,,,
+502802539,inat,0,not_useful,val,,,
+2859471349,gbif,0,not_useful,train,CM,botany,Verbena L.
+601408344,inat,0,not_useful,train,,,
+608444832,inat,0,not_useful,val,,,
+607503284,inat,0,not_useful,val,,,
+407631327,inat,0,not_useful,train,,,
+608314714,inat,0,not_useful,train,,,
+608224164,inat,0,not_useful,train,,,
+2859297295,gbif,0,not_useful,test,CM,botany,Wolffia columbiana H.Karst.
+2859472326,gbif,0,not_useful,val,CM,botany,Coleus blumei Benth.
+3023068309,gbif,0,not_useful,train,Western Australian Herbarium,GFBio201900230SNSB,Tribulopis pentandra R.Br.
+583181753,inat,0,not_useful,val,,,
+607817392,gbif,0,not_useful,train,MNHN,P,Saurauia oreadum Diels
+2242355626,gbif,1,aberrant,train,DBG,KHD,Lemna minor L.
+2859379758,gbif,1,aberrant,train,CM,botany,Frankenia nothria Thunb.
+2859295630,gbif,1,aberrant,val,CM,botany,Pinus rigida Mill.
+912171873,gbif,1,aberrant,test,K,Herbarium,Diplotropis ferruginea Benth.
+2859282744,gbif,1,aberrant,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+4146076309,gbif,1,aberrant,train,CM,botany,Pinus serotina Michx.
+2859416900,gbif,1,aberrant,train,CM,botany,Gymnocladus dioicus (L.) K.Koch
+2859099178,gbif,1,aberrant,train,CM,botany,Cucurbita pepo L.
+2859403691,gbif,1,aberrant,val,CM,botany,Castanea dentata (Marshall) Borkh.
+3856109424,gbif,1,aberrant,train,LMM,,Ribes nigrum L.
+2859193243,gbif,1,aberrant,test,CM,botany,Rhus glabra L.
+2859368129,gbif,1,aberrant,val,CM,botany,Carya ovata (Mill.) K.Koch
+912172151,gbif,1,aberrant,val,K,Herbarium,Zollernia ilicifolia (Brongn.) Vogel
+2859166951,gbif,1,aberrant,train,CM,botany,Dirca palustris L.
+3024612452,gbif,1,aberrant,val,M-Lichens,BSMlichenscoll,Betula pendula Roth
+4146079308,gbif,1,aberrant,train,CM,botany,Quercus macrocarpa Michx.
+2859099320,gbif,1,aberrant,train,CM,botany,Diospyros virginiana L.
+1804492211,gbif,1,aberrant,train,CMN,CANM,Sphagnum squarrosum Crome
+2859269647,gbif,1,aberrant,train,CM,botany,Pinus cembra L.
+2859135890,gbif,1,aberrant,val,CM,botany,Cimicifuga americana Michx.
+4924374603,gbif,1,aberrant,train,MSB-3028,Herbarium,Hydnora africana Thunb.
+2981802780,gbif,1,aberrant,train,O,B,Cephaloziella hampeana (Nees) Schiffn.
+1258207975,gbif,1,aberrant,test,MO,Tropicos,Nothofagus cunninghamii (Hook.) Oerst.
+864923576,gbif,1,aberrant,train,UdeM,MT,Dracaena cubensis Vict.
+63861105,gbif,1,aberrant,train,BRM,AWI-Herbarium Marine Macroalgae,Cruoria pellita (Lyngbye) Fries
+2859308740,gbif,1,aberrant,val,CM,botany,Spirodela polyrhiza (L.) Schleid.
+3856126107,gbif,1,aberrant,train,LMM,,Narthecium ossifragum (L.) Huds.
+2859119528,gbif,1,aberrant,train,CM,botany,Carya ovata (Mill.) K.Koch
+2859011647,gbif,1,aberrant,train,CM,botany,Pinus contorta Douglas ex Loudon
+4924375253,gbif,1,aberrant,train,MSB-3028,Herbarium,Hydnora africana Thunb.
+2859026716,gbif,1,aberrant,test,CM,botany,Lemna minor L.
+3893510373,gbif,1,aberrant,val,USCH,BRYOPHYTE,Archidium donnellii Austin
+2859377088,gbif,1,aberrant,train,CM,botany,Dioscorea Plum. ex L.
+2859027391,gbif,1,aberrant,train,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+3028973830,gbif,1,aberrant,train,JE,Herbarium Haussknecht JE,Dicranum flagellare Hedw.
+2859404163,gbif,1,aberrant,train,CM,botany,Carya tomentosa (Lam.) Nutt.
+2242368347,gbif,1,aberrant,train,DBG,KHD,Koenigia islandica L.
+1061098245,gbif,1,aberrant,train,UCMP,P,Salix laevigata Bebb
+2859123167,gbif,1,aberrant,train,CM,botany,Quercus coccinea Münchh.
+4891616354,gbif,1,aberrant,test,MM,Herbarium,Marsippospermum grandiflorum (L.fil.) Hook.fil.
+2859272644,gbif,1,aberrant,val,CM,botany,Pinus flexilis E.James
+1057357915,gbif,1,aberrant,val,NHMUK,BOT,Bourreria domingensis (A.DC.) Griseb.
+2859402145,gbif,1,aberrant,train,CM,botany,Corylus L.
+2859443486,gbif,1,aberrant,train,CM,botany,Ilex verticillata (L.) A.Gray
+2859174101,gbif,1,aberrant,train,CM,botany,Robinia pseudoacacia L.
+2859205320,gbif,1,aberrant,test,CM,botany,Sesamum indicum L.
+4987946738,gbif,1,aberrant,train,ILL,,Coccomyxa dispar Schmidle
+2859270652,gbif,1,aberrant,train,CM,botany,Pinus sylvestris L.
+4987951817,gbif,1,aberrant,train,ILL,,Hildenbrandia prototypus Nardo
+5904911232,gbif,1,aberrant,train,MSB-3159,Herbarium,Montinia caryophyllacea Thunb.
+2859426918,gbif,1,aberrant,train,CM,botany,Eugenia caryophyllus (Spreng.) Bullock & S.G.Harrison
+2242417109,gbif,1,aberrant,train,DBG,KHD,Lemna minor L.
+2859403693,gbif,1,aberrant,train,CM,botany,Quercus rubra var. rubra
+2859095203,gbif,1,aberrant,val,CM,botany,Sechium edule (Jacq.) Sw.
+2859433720,gbif,1,aberrant,train,CM,botany,Laurus nobilis L.
+2859015634,gbif,1,aberrant,val,CM,botany,Picea glauca (Moench) Voss
+2859281320,gbif,1,aberrant,test,CM,botany,Lemna turionifera Landolt
+1998561397,gbif,1,aberrant,train,A,A,Magnolia denudata var. purpurascens Rehder & E.H.Wilson
+4035437021,gbif,1,aberrant,test,HIFP,HIFP,"Crepidomanes parvulum (Poir.) Nivart, Senterre & Dubuisson"
+2859429729,gbif,1,aberrant,train,CM,botany,Laurus nobilis L.
+2859024321,gbif,1,aberrant,test,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+2859150761,gbif,1,aberrant,test,CM,botany,Cinnamomum zeylanicum Blume
+4891616383,gbif,1,aberrant,train,MM,Herbarium,Misodendrum punctulatum Sol. ex G.Forst.
+2859432702,gbif,1,aberrant,val,CM,botany,Sassafras albidum (Nutt.) Nees
+2859430708,gbif,1,aberrant,train,CM,botany,Nelumbo nucifera Gaertn.
+4924375108,gbif,1,aberrant,train,MSB-3028,Herbarium,Hydnora africana Thunb.
+2858991934,gbif,1,aberrant,train,CM,botany,Zea mays subsp. mays
+2859027409,gbif,1,aberrant,train,CM,botany,Lemna minor L.
+575347150,gbif,1,aberrant,val,RBGE,E,Calymperopsis tjibodensis (M.Fleisch.) M.Fleisch.
+2859124169,gbif,1,aberrant,train,CM,botany,Juglans nigra L.
+2859269642,gbif,1,aberrant,train,CM,botany,Pinus ponderosa Douglas ex C.Lawson
+2859108507,gbif,1,aberrant,test,CM,botany,Carya glabra (Mill.) Sweet
+2859015635,gbif,1,aberrant,train,CM,botany,Picea mariana (Mill.) Britton et al.
+4116769718,gbif,1,aberrant,train,GMS,,Gomontia polyrhiza (Lagerh.) Bornet & Flahault
+2242422518,gbif,1,aberrant,train,DBG,KHD,Callitriche palustris L.
+2859441992,gbif,1,aberrant,train,CM,botany,Lens esculenta Moench
+3091261871,gbif,1,aberrant,val,ASC,,Elatine rubella Rydb.
+4891616344,gbif,1,aberrant,train,MM,Herbarium,Tribeles australis Phil.
+2859243971,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+2859279653,gbif,1,aberrant,train,CM,botany,Colocasia esculenta (L.) Schott
+63864633,gbif,1,aberrant,train,BRM,AWI-Herbarium Marine Macroalgae,Porphyra coccinea J.Agardh ex Areschoug
+2859179945,gbif,1,aberrant,val,CM,botany,Dirca palustris L.
+3893509751,gbif,1,aberrant,train,USCH,BRYOPHYTE,Schwetschkeopsis denticulata (Sull.) Broth.
+2859015433,gbif,1,aberrant,val,CM,botany,Ephedra Tourn. ex L.
+2859384737,gbif,1,aberrant,val,CM,botany,Magnolia acuminata (L.) L.
+3091261877,gbif,1,aberrant,train,ASC,,Elatine rubella Rydb.
+2859371300,gbif,1,aberrant,train,CM,botany,Bertholletia excelsa Bonpl.
+5053738319,gbif,1,aberrant,train,UERJ,HB,Aglaothamnion uruguayense (W.R.Taylor) N.Aponte et al.
+2859403141,gbif,1,aberrant,test,CM,botany,Quercus alba L.
+2859109148,gbif,1,aberrant,train,CM,botany,Juglans nigra L.
+3802230190,gbif,1,aberrant,test,O,B,Sphagnum russowii Warnst.
+2859010631,gbif,1,aberrant,test,CM,botany,Pinus rigida Mill.
+3041591504,gbif,1,aberrant,train,UdeM,MT,Apios americana Medik.
+1927836340,gbif,1,aberrant,train,NY,NY,Magnolia macrophylla Michx.
+3503094303,gbif,1,aberrant,val,CINC,,"Bazzania denudata (Torr. ex Gottsche, Lindenb. & Nees) Trevis."
+2859367778,gbif,1,aberrant,train,CM,botany,Quercus alba L.
+4941133445,gbif,1,aberrant,train,,Herbarium,Althaea officinalis L.
+2859192257,gbif,1,aberrant,val,CM,botany,Litchi chinensis Sonn.
+1144156761,gbif,1,aberrant,val,BG,S,Festuca ovina L.
+2859440983,gbif,1,aberrant,train,CM,botany,Vigna unguiculata (L.) Walp.
+2859402150,gbif,1,aberrant,test,CM,botany,Juglans nigra L.
+5838964301,gbif,1,aberrant,train,DBG,KHD,Lemna minuta Kunth
+4866715821,gbif,1,aberrant,train,CM,botany,Carya laciniosa (F.Michx.) G.Don
+2859145449,gbif,1,aberrant,test,CM,botany,Euonymus americanus L.
+2859415073,gbif,1,aberrant,train,CM,botany,Astragalus membranaceus Moench
+2859015547,gbif,1,aberrant,train,CM,botany,Pinus elliottii Engelm.
+1061098250,gbif,1,aberrant,train,UCMP,P,Clematis heracleifolia DC.
+2859369589,gbif,1,aberrant,train,CM,botany,Chenopodium quinoa Willd.
+2859109147,gbif,1,aberrant,test,CM,botany,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.
+4116770004,gbif,1,aberrant,test,GMS,,Capsosiphon fulvescens (C.Agardh) Setch. & N.L.Gardner
+1230523106,gbif,1,aberrant,test,W,Herbarium W,Crossomitrium ulei Müll.Hal.
+2859121175,gbif,1,aberrant,val,CM,botany,Quercus montana Willd.
+2859026715,gbif,1,aberrant,test,CM,botany,Wolffia brasiliensis Wedd.
+2984657625,gbif,1,aberrant,test,YPM,YU,Enteromorpha minima Nägeli
+4924374365,gbif,1,aberrant,train,MSB-3028,Herbarium,Hydnora triceps Drège & E.Mey.
+2859027727,gbif,1,aberrant,train,CM,botany,Wolffia brasiliensis Wedd.
+2859298642,gbif,1,aberrant,train,CM,botany,Pinus rigida Mill.
+4499689325,gbif,1,aberrant,train,NHMUK,BOT,Bolusia resupinata Milne-Redh.
+5004403034,gbif,1,aberrant,train,W,Herbarium W,Cheilolejeunea lineata (Lehm. & Lindenb.) Schiffn.
+2858998898,gbif,1,aberrant,train,CM,botany,Sorghum bicolor (L.) Moench
+2859366483,gbif,1,aberrant,test,CM,botany,Carya ovata (Mill.) K.Koch
+1061097695,gbif,1,aberrant,test,UCMP,P,Gleditsia triacanthos L.
+1144170113,gbif,1,aberrant,train,BG,S,Equisetum palustre L.
+2859295640,gbif,1,aberrant,train,CM,botany,Pinus resinosa Aiton
+2858996934,gbif,1,aberrant,train,CM,botany,Zea mays L.
+2859439202,gbif,1,aberrant,train,CM,botany,Casimiroa edulis S.Watson
+4891616335,gbif,1,aberrant,test,MM,Herbarium,Pilgerodendron uviferum (D.Don) Florin
+2242357439,gbif,1,aberrant,train,DBG,KHD,Lemna trisulca L.
+2859271658,gbif,1,aberrant,train,CM,botany,Pinus glabra Walter
+2859499786,gbif,1,aberrant,val,CM,botany,Herminiera elaphroxylon Guill. & Perr.
+2859296431,gbif,1,aberrant,train,CM,botany,Pinus rigida Mill.
+3028992300,gbif,1,aberrant,train,JE,Herbarium Haussknecht JE,Herzogiella seligeri (Brid.) Z.Iwats.
+3028983332,gbif,1,aberrant,train,JE,Herbarium Haussknecht JE,Kiaeria glacialis (Berggr.) I.Hagen
+2242404776,gbif,1,aberrant,test,DBG,KHD,Pinus ponderosa var. scopulorum Engelm.
+2859017604,gbif,1,aberrant,train,CM,botany,Pinus taeda L.
+2859171100,gbif,1,aberrant,test,CM,botany,Gymnocladus dioicus (L.) K.Koch
+5956731383,gbif,1,aberrant,train,IWEP FEB RAS,KHA,Erythranthe tenella (Bunge) G.L.Nesom
+473553237,gbif,1,aberrant,val,UdeM,MT,Ulmus americana L.
+2859442966,gbif,1,aberrant,test,CM,botany,Phaseolus vulgaris L.
+2827959745,gbif,1,aberrant,train,NSW,NSW,Pandanus spiralis R.Br.
+2859269637,gbif,1,aberrant,train,CM,botany,Pinus teocote Schiede ex Schltdl. & Cham.
+2859027689,gbif,1,aberrant,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2428986439,gbif,1,aberrant,train,K,Economic Botany,Michelia champaca L.
+2859110514,gbif,1,aberrant,train,CM,botany,Abelmoschus esculentus (L.) Moench
+1231069898,gbif,1,aberrant,test,W,Herbarium W,Rhizogonium badakense M.Fleisch. ex Broth.
+1258209143,gbif,1,aberrant,train,MO,Tropicos,Smilax aristolochiifolia Mill.
+2858982566,gbif,1,aberrant,train,CM,botany,Potamogeton crispus L.
+2859105191,gbif,1,aberrant,train,CM,botany,Quercus hypoleuca Miq.
+2859281747,gbif,1,aberrant,train,CM,botany,Lemna minor L.
+4419088301,gbif,1,aberrant,val,CM,botany,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.
+2859282351,gbif,1,aberrant,train,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+2242383090,gbif,1,aberrant,train,DBG,KHD,Wolffia borealis (Engelm.) Landolt
+3028979654,gbif,1,aberrant,train,JE,Herbarium Haussknecht JE,Splachnobryum obtusum (Brid.) Müll.Hal.
+3751285939,gbif,1,aberrant,train,HAW,,Glossadelphus limnobioides Broth.
+5904906547,gbif,1,aberrant,train,MSB-3054,Herbarium,Talinum caffrum (Thunb.) Eckl. & Zeyh.
+2859366954,gbif,1,aberrant,train,CM,botany,Hamamelis virginiana L.
+1998354888,gbif,1,aberrant,val,A,A,Michelia dandyi Hu
+5053738310,gbif,1,aberrant,train,UERJ,HB,Hypnea musciformis
+4987941322,gbif,1,aberrant,train,ILLS,,Phycodrys rubens (L.) Batters
+2598863963,gbif,1,aberrant,val,COI,COI,Strychnos cocculoides Baker
+2859216803,gbif,1,aberrant,test,CM,botany,Fabaceae
+1061098097,gbif,1,aberrant,test,UCMP,P,Acer cissifolium (Siebold & Zucc.) K.Koch
+3534851213,gbif,1,aberrant,test,O,B,Tortula hoppeana (Schultz) Ochyra
+2242411323,gbif,1,aberrant,train,DBG,KHD,Polygonum kelloggii Greene
+2859438272,gbif,1,aberrant,train,CM,botany,"Salvia officinalis Pall., 1795"
+2859020724,gbif,1,aberrant,train,CM,botany,Wolffia borealis (Engelm.) Landolt
+2859401134,gbif,1,aberrant,train,CM,botany,Quercus chrysolepis Liebm.
+2418962127,gbif,1,aberrant,val,BRI,Herbrecs,Elatine gratioloides A.Cunn.
+2859010649,gbif,1,aberrant,train,CM,botany,Picea glauca (Moench) Voss
+2859271664,gbif,1,aberrant,train,CM,botany,Pinus armandii Franch.
+5872089521,gbif,1,aberrant,val,UFRRJ,RBR,Cyperus L.
+2242388566,gbif,1,aberrant,test,DBG,KHD,Spirodela polyrhiza (L.) Schleid.
+2859054591,gbif,1,aberrant,train,CM,botany,Artemisia L.
+2859097176,gbif,1,aberrant,train,CM,botany,Ryania speciosa var. minor Monach.
+2859408960,gbif,1,aberrant,val,CM,botany,Jatropha multifida L.
+3813135606,gbif,1,aberrant,train,UdeM,MT,Abies balsamea (L.) Mill.
+2859015645,gbif,1,aberrant,train,CM,botany,Picea pungens Engelm.
+1258207836,gbif,1,aberrant,train,MO,Tropicos,Acer saccharum Marshall
+2859145153,gbif,1,aberrant,train,CM,botany,Glycine max (L.) Merr.
+4987941393,gbif,1,aberrant,train,ILLS,,Zygogonium ericetorum Kütz.
+2242414532,gbif,1,aberrant,val,DBG,KHD,Lemna minor L.
+1657179472,gbif,1,aberrant,train,GZU,Herbarium GZU,Dicranum orthophyllum Broth.
+63861487,gbif,1,aberrant,train,BRM,AWI-Herbarium Marine Macroalgae,Derbesia marina (Lyngbye) Kjellman
+2859010622,gbif,1,aberrant,train,CM,botany,Pinus pungens Lamb.
+63860668,gbif,1,aberrant,train,BRM,AWI-Herbarium Marine Macroalgae,Cladophora dalmatica Kützing
+3856124992,gbif,1,aberrant,test,LMM,,Carex heleonastes Ehrh. ex L.f.
+2859010613,gbif,1,aberrant,train,CM,botany,Pinus clausa (Chapm.) Vasey
+4941133629,gbif,1,aberrant,train,,Herbarium,Saccharum officinarum L.
+4987945149,gbif,1,aberrant,train,ILL,,Amphiroa fragilissima (L.) J.V.Lamour.
+1061097828,gbif,1,aberrant,test,UCMP,P,Zanthoxylum clava-herculis L.
+2859120180,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+2859508946,gbif,1,aberrant,train,CM,botany,Pinus resinosa Aiton
+2859406001,gbif,1,aberrant,train,CM,botany,Phaseolus vulgaris L.
+3028985067,gbif,1,aberrant,train,JE,Herbarium Haussknecht JE,Diphyscium domingense (Brid.) W.R.Buck & Steere
+2859419081,gbif,1,aberrant,train,CM,botany,Phaseolus lunatus L.
+2859012655,gbif,1,aberrant,test,CM,botany,Picea pungens Engelm.
+3713481248,gbif,1,aberrant,test,TUR,,Pseudoleskeella papillosa (Lindb.) Kindb.
+2859436209,gbif,1,aberrant,train,CM,botany,Aesculus glabra Willd.
+2859160941,gbif,1,aberrant,train,CM,botany,Euphorbia whellanii L.C.Leach
+2859190245,gbif,1,aberrant,train,CM,botany,Rhus typhina L.
+1657187195,gbif,1,aberrant,train,GZU,Herbarium GZU,Lophozia obtusa var. densa Schiffn.
+2859508496,gbif,1,aberrant,train,CM,botany,Carya tomentosa (Lam.) Nutt.
+2013232941,gbif,1,aberrant,train,UCSB,,Reticulobotrys catalinae
+3091207160,gbif,1,aberrant,val,ASC,,Wolffia borealis (Engelm.) Landolt
+4872686378,gbif,1,aberrant,train,DBG,KHD,Pellia neesiana (Gottsche) Limpr.
+4911369408,gbif,1,aberrant,val,CM,Botany,Wolffia columbiana H.Karst.
+4987949906,gbif,1,aberrant,val,ILL,,Gonium pectorale O.F.Müll.
+2859121183,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+2428985687,gbif,1,aberrant,train,K,Economic Botany,Michelia champaca L.
+2859471835,gbif,1,aberrant,train,CM,botany,Fabaceae
+2859120181,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+5831548796,gbif,1,aberrant,test,PH,,Magnolia umbrella Desr.
+2859022621,gbif,1,aberrant,test,CM,botany,Lemna perpusilla Torr.
+1061097898,gbif,1,aberrant,val,UCMP,P,Erythroxylum rotundifolium Lunan
+2859119709,gbif,1,aberrant,test,CM,botany,Carya cordiformis (Wangenh.) K.Koch
+1228151680,gbif,1,aberrant,train,F,Botany,Arrabidaea lauta Bureau & K.Schum.
+4443252214,gbif,1,aberrant,train,UT,Botany,Cephalosphaera usambarensis (Warb.) Warb.
+4987950551,gbif,1,aberrant,test,ILL,,"Lemanea fucina var. rigida Atkinson, 1890"
+2859365538,gbif,1,aberrant,test,CM,botany,Castanea dentata (Marshall) Borkh.
+2242421613,gbif,1,aberrant,train,DBG,KHD,Lemna minor L.
+2859404168,gbif,1,aberrant,test,CM,botany,Quercus rubra L.
+1657200320,gbif,1,aberrant,val,GZU,Herbarium GZU,Radula castlei Grolle
+2827459729,gbif,1,aberrant,val,NSW,NSW,Hypertelis cerviana (L.) Thulin
+2858998970,gbif,1,aberrant,val,CM,botany,Cymbopogon flexuosus (Nees ex Steud.) W.Watson
+5082175558,gbif,1,aberrant,train,PI,Herbarium Horti Botanici Pisani (PI),Fegatella conica (L.) Corda
+5068048436,gbif,1,aberrant,train,Keene State University,KESC,Koeberlinia spinosa Zucc.
+2242421784,gbif,1,aberrant,train,DBG,KHD,Lemna minor L.
+2859011459,gbif,1,aberrant,train,CM,botany,Picea abies (L.) H.Karst.
+2859014606,gbif,1,aberrant,train,CM,botany,Pinus pungens Lamb.
+2858992936,gbif,1,aberrant,train,CM,botany,Zea mays L.
+2859368130,gbif,1,aberrant,train,CM,botany,Juglans nigra L.
+2859122171,gbif,1,aberrant,train,CM,botany,Quercus macrocarpa Michx.
+3312934302,gbif,1,aberrant,val,CM,botany,Spirodela polyrhiza (L.) Schleid.
+3856111748,gbif,1,aberrant,train,LMM,,Spinulum annotinum (L.) A.Haines
+2859440896,gbif,1,aberrant,train,CM,botany,Euphorbia obesa Hook.f.
+2858989954,gbif,1,aberrant,train,CM,botany,Oryza sativa L.
+4924375181,gbif,1,aberrant,train,MSB-3028,Herbarium,Hydnora triceps Drège & E.Mey.
+2859450080,gbif,1,aberrant,test,CM,botany,Vigna radiata (L.) R.Wilczek
+2859407949,gbif,1,aberrant,train,CM,botany,Aleurites moluccanus (L.) Willd.
+2242408206,gbif,1,aberrant,train,DBG,KHD,Pinus flexilis E.James
+2859023674,gbif,1,aberrant,train,CM,botany,Phytelephas macrocarpa Ruiz & Pav.
+3813137601,gbif,1,aberrant,train,UdeM,MT,Abies balsamea (L.) Mill.
+2859170085,gbif,1,aberrant,train,CM,botany,Cicer arietinum L.
+4924375372,gbif,1,aberrant,train,MSB-3028,Herbarium,Hydnora africana Thunb.
+2859427939,gbif,1,aberrant,train,CM,botany,Pimenta dioica (L.) Merr.
+2859023305,gbif,1,aberrant,train,CM,botany,Wolffia brasiliensis Wedd.
+2859367948,gbif,1,aberrant,test,CM,botany,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.
+2242417656,gbif,1,aberrant,val,DBG,KHD,Wolffia columbiana H.Karst.
+1091170969,gbif,1,aberrant,val,CHR,CHR,Bazzania polyodus (Casp.) Grolle
+4941133554,gbif,1,aberrant,train,,Herbarium,Mentha pulegium L.
+2859178899,gbif,1,aberrant,val,CM,botany,Rhus glabra L.
+2859156118,gbif,1,aberrant,val,CM,botany,Robinia pseudoacacia L.
+2859017632,gbif,1,aberrant,val,CM,botany,Pinus contorta Douglas ex Loudon
+2859286313,gbif,1,aberrant,train,CM,botany,Lycopodium annotinum L.
+5070860493,gbif,1,aberrant,train,MARY,,Nelumbo nucifera Gaertn.
+2859107702,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+2859009648,gbif,1,aberrant,val,CM,botany,Picea pungens Engelm.
+4891616388,gbif,1,aberrant,train,MM,Herbarium,Maytenus magellanica (Lam.) Hook.fil.
+2242357724,gbif,1,aberrant,train,DBG,KHD,Lemna minor L.
+3028987627,gbif,1,aberrant,test,JE,Herbarium Haussknecht JE,Trichotemnoma corrugatum (Steph.) R.M.Schust.
+2859501742,gbif,1,aberrant,train,CM,botany,Fabaceae
+5231984324,gbif,1,aberrant,test,A,A,Liriodendron chinense (Hemsl.) Sarg.
+2859298424,gbif,1,aberrant,train,CM,botany,Tsuga canadensis (L.) Carrière
+2859367608,gbif,1,aberrant,test,CM,botany,Quercus rubra L.
+3978874779,gbif,1,aberrant,test,TAC,,Achillea millefolium L.
+864922280,gbif,1,aberrant,val,UdeM,MT,Lemna minor L.
+2859315157,gbif,1,aberrant,val,CM,botany,Helianthus annuus L.
+4075522312,gbif,1,aberrant,train,MICH,,"Endoderma wittrockii (Wille) De Toni, 1889"
+4891616393,gbif,1,aberrant,val,MM,Herbarium,Gunnera magellanica Lam.
+2859298451,gbif,1,aberrant,test,CM,botany,Picea chihuahuana Martínez
+3706056984,gbif,1,aberrant,train,O,B,Pohlia wahlenbergii var. glacialis (Schleich. ex Brid.) E.F.Warb.
+2859018172,gbif,1,aberrant,test,CM,botany,Najas gracillima (A.Braun ex Engelm.) Magnus
+3230416333,gbif,1,aberrant,train,B,Herbarium Berolinense,Dactylanthus taylorii Hook.fil.
+4010919303,gbif,1,aberrant,train,CM,botany,Pinus muricata D.Don
+2428984688,gbif,1,aberrant,test,K,Economic Botany,Michelia champaca L.
+2859011640,gbif,1,aberrant,test,CM,botany,Pinus rigida Mill.
+2859018284,gbif,1,aberrant,train,CM,botany,Lemna minor L.
+2859226232,gbif,1,aberrant,train,CM,botany,Capsicum annuum L.
+3091262450,gbif,1,aberrant,train,ASC,,Elatine rubella Rydb.
+2859140441,gbif,1,aberrant,test,CM,botany,Vanilla planifolia Andrews
+2859192262,gbif,1,aberrant,train,CM,botany,Rhus typhina L.
+63860066,gbif,1,aberrant,test,BRM,AWI-Herbarium Marine Macroalgae,Chlorochytrium cohnii E.P.Wright
+2859154057,gbif,1,aberrant,train,CM,botany,Apium graveolens L.
+2859364686,gbif,1,aberrant,test,CM,botany,Carya glabra (Mill.) Sweet
+4891616304,gbif,1,aberrant,test,MM,Herbarium,Viola reichei Skottsb.
+2859010632,gbif,1,aberrant,train,CM,botany,Pinus taeda L.
+1931121866,gbif,1,aberrant,train,NY,NY,Bryum truncorum (Brid.) Brid.
+2859280669,gbif,1,aberrant,train,CM,botany,Cocos nucifera L.
+3024615797,gbif,1,aberrant,test,M-Lichens,BSMlichenscoll,Fraxinus excelsior L.
+2859106168,gbif,1,aberrant,train,CM,botany,Carya laciniosa (F.Michx.) G.Don
+2859409003,gbif,1,aberrant,test,CM,botany,Phaseolus vulgaris L.
+3028977433,gbif,1,aberrant,train,JE,Herbarium Haussknecht JE,"Syzygiella undata (Mont.) K.Feldberg, Váňa, Hentschel & Heinrichs"
+2859120176,gbif,1,aberrant,train,CM,botany,Carya illinoinensis (Wangenh.) K.Koch
+4010923301,gbif,1,aberrant,train,CM,botany,Pinus monticola Douglas ex D.Don
+2859119964,gbif,1,aberrant,test,CM,botany,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.
+5893442610,gbif,1,aberrant,test,SGAV-and-NHMD,,Verbascum nigrum L.
+2859242573,gbif,1,aberrant,train,CM,botany,Zea mays L.
+1024637981,gbif,1,aberrant,val,UdeM,MT,Elatine minima (Nutt.) Fisch. & C.A.Mey.
+2859246003,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+2859112169,gbif,1,aberrant,train,CM,botany,Gossypium hirsutum L.
+2859295638,gbif,1,aberrant,train,CM,botany,Abies × vilmorinii Mast.
+2859364685,gbif,1,aberrant,test,CM,botany,Carya glabra (Mill.) Sweet
+2859234821,gbif,1,aberrant,train,CM,botany,Fabaceae
+63867065,gbif,1,aberrant,val,BRM,AWI-Herbarium Marine Macroalgae,Ulva tenera Kornmann & Sahling
+2859215826,gbif,1,aberrant,train,CM,botany,Codonopsis lanceolata (Siebold & Zucc.) Benth. & Hook.f. ex Trautv.
+2859014633,gbif,1,aberrant,test,CM,botany,Pinus albicaulis Engelm.
+1148644509,gbif,1,aberrant,train,,TALL,Magnolia obovata Thunb.
+1258210714,gbif,1,aberrant,train,MO,Tropicos,Juglans nigra L.
+2859399019,gbif,1,aberrant,test,CM,botany,Anethum graveolens L.
+2859407992,gbif,1,aberrant,train,CM,botany,Phaseolus vulgaris L.
+4987941316,gbif,1,aberrant,train,ILLS,,Protosiphon botryoides (Kuetzing) Klebs
+1998537208,gbif,1,aberrant,train,A,A,Magnolia sargentiana var. robusta Rehder & E.H.Wilson
+1986901219,gbif,1,aberrant,train,USU,UTC,Lemna minor L.
+2859138921,gbif,1,aberrant,train,CM,botany,Zingiber officinale Roscoe
+2859022371,gbif,1,aberrant,train,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+2242378251,gbif,1,aberrant,train,DBG,KHD,Lemna minor L.
+2859120187,gbif,1,aberrant,train,CM,botany,Juglans nigra L.
+3001125715,gbif,1,aberrant,test,TAM,TAM,Epipactis palustris (L.) Crantz
+2859136453,gbif,1,aberrant,train,CM,botany,Magnolia grandiflora L.
+2859503372,gbif,1,aberrant,val,CM,botany,Capsicum frutescens L.
+4513877308,gbif,1,aberrant,train,CM,Botany,Carya glabra (Mill.) Sweet
+2859402954,gbif,1,aberrant,train,CM,botany,Quercus macrocarpa Michx.
+5067991754,gbif,1,aberrant,train,Univesity of New Hampshire,NHA,Celastrus orbiculatus Thunb.
+2859194220,gbif,1,aberrant,train,CM,botany,Acer douglasii Hook.
+3802209622,gbif,1,aberrant,train,O,B,Diphyscium foliosum (Hedw.) D.Mohr
+2859295654,gbif,1,aberrant,train,CM,botany,Pinus rigida Mill.
+2242411992,gbif,1,aberrant,train,DBG,KHD,Picea engelmannii f. engelmannii
+5872078160,gbif,1,aberrant,train,UFRRJ,RBR,Euphorbia thymifolia L.
+2859403006,gbif,1,aberrant,train,CM,botany,Betula papyrifera Marshall
+2859295639,gbif,1,aberrant,train,CM,botany,Cedrus libani A.Rich.
+2859149748,gbif,1,aberrant,test,CM,botany,Papaver somniferum L.
+2859121172,gbif,1,aberrant,train,CM,botany,Carya cordiformis (Wangenh.) K.Koch
+2859272455,gbif,1,aberrant,val,CM,botany,Pinus echinata Mill.
+2859307659,gbif,1,aberrant,train,CM,botany,Cocos nucifera L.
+3001073617,gbif,1,aberrant,test,TAM,TAM,Plantae
+2859220017,gbif,1,aberrant,train,CM,botany,Ostrya virginiana (Mill.) K.Koch
+2859399778,gbif,1,aberrant,val,CM,botany,Quercus velutina Lam.
+2859253956,gbif,1,aberrant,test,CM,botany,Zea mays L.
+3856112402,gbif,1,aberrant,val,LMM,,Botrychium lunaria (L.) Sw.
+2859281692,gbif,1,aberrant,val,CM,botany,Manicaria saccifera Gaertn.
+4095767348,gbif,1,aberrant,val,HTTU,,Phaeoceros laevis (L.) Prosk.
+1638396133,gbif,1,aberrant,train,GZU,Herbarium GZU,Fissidens taxifolius subsp. acutifolius Nog.
+4891616365,gbif,1,aberrant,train,MM,Herbarium,Pinguicula antarctica Vahl
+2859231818,gbif,1,aberrant,test,CM,botany,Salvia L.
+3966012352,gbif,1,aberrant,train,CM,botany,Wolffia columbiana H.Karst.
+2859365679,gbif,1,aberrant,train,CM,botany,Carya glabra (Mill.) Sweet
+2418969977,gbif,1,aberrant,train,BRI,Herbrecs,Thismia rodwayi F.Muell.
+2859367679,gbif,1,aberrant,test,CM,botany,Juglans nigra L.
+2234622167,gbif,1,aberrant,train,NCU,Vascular Plants,Magnolia virginiana L.
+2859503766,gbif,1,aberrant,train,CM,botany,Lycium chinense Mill.
+2242417918,gbif,1,aberrant,test,DBG,KHD,Lemna minor L.
+3856118977,gbif,1,aberrant,test,LMM,,Tofieldia pusilla (Michx.) Pers.
+2859271667,gbif,1,aberrant,train,CM,botany,Pinus rigida Mill.
+2859106702,gbif,1,aberrant,train,CM,botany,Quercus coccinea Münchh.
+2859120184,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+2859283729,gbif,1,aberrant,val,CM,botany,Lemna minor L.
+3019975803,gbif,1,aberrant,train,TAAM,TAA,Cuscuta europaea L.
+1702246833,gbif,1,aberrant,train,O,O-V,Equisetum hyemale L.
+2859281401,gbif,1,aberrant,test,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+2247972134,gbif,1,aberrant,test,nbf,so2-algae,Paludicola turfosa (Bory) M.L.Vis & Necchi
+2859012648,gbif,1,aberrant,train,CM,botany,Picea glauca (Moench) Voss
+3024596139,gbif,1,aberrant,test,M-Lichens,BSMlichenscoll,Sorbus aucuparia L.
+2517580230,gbif,1,aberrant,val,,Botany,Leptomeria scrobiculata R.Br.
+2859367216,gbif,1,aberrant,train,CM,botany,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.
+2828789124,gbif,1,aberrant,test,NSW,NSW,Riccardia colensoi (Steph.) W.Martin
+2859456060,gbif,1,aberrant,val,CM,botany,Trigonella foenum-graecum L.
+1064686463,gbif,1,aberrant,test,RBGE,E,Plocosperma buxifolium Benth.
+2859401689,gbif,1,aberrant,val,CM,botany,Carya glabra (Mill.) Sweet
+3856106337,gbif,1,aberrant,train,LMM,,Equisetum palustre L.
+4539838740,gbif,1,aberrant,train,YPM,YU,Plantae
+2859149447,gbif,1,aberrant,train,CM,botany,Magnolia obovata (W.T.Aiton) Link
+1061097742,gbif,1,aberrant,train,UCMP,P,Rhamnus ilicifolia Kellogg
+1061097837,gbif,1,aberrant,train,UCMP,P,Styrax redivivus (Torr.) L.C.Wheeler
+4987941325,gbif,1,aberrant,train,ILLS,,Hydrodictyon reticulatum (L.) Lagerh.
+2859366781,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+2242383875,gbif,1,aberrant,val,DBG,KHD,Lemna minuta Kunth
+3331193534,gbif,1,aberrant,train,MVSC,MVSC,Magnolia tripetala (L.) L.
+3041582501,gbif,1,aberrant,test,UdeM,MT,Apios americana Medik.
+4948993304,gbif,1,aberrant,train,SBAC,,Arisaema dracontium (L.) Schott
+473432146,gbif,1,aberrant,train,UdeM,MT,Utricularia geminiscapa Benj.
+2859297424,gbif,1,aberrant,test,CM,botany,Pinus virginiana Mill.
+575132243,gbif,1,aberrant,train,RBGE,E,Tayloria hornschuchii (Grev. & Arn.) Broth.
+2418907251,gbif,1,aberrant,val,BRI,Herbrecs,Ailanthus triphysa (Dennst.) Alston
+1057613679,gbif,1,aberrant,test,NHMUK,BOT,Michelia koordersiana Noot.
+2859366139,gbif,1,aberrant,train,CM,botany,Carya ovata (Mill.) K.Koch
+2859278940,gbif,1,aberrant,train,CM,botany,Zea mays subsp. mays
+2242417827,gbif,1,aberrant,test,DBG,KHD,Wolffia columbiana H.Karst.
+1091207167,gbif,1,aberrant,train,CHR,CHR,Bryum harriottii R.Br.bis
+2859104717,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+4924375437,gbif,1,aberrant,train,MSB-3028,Herbarium,Hydnora africana Thunb.
+2242413782,gbif,1,aberrant,test,DBG,KHD,Wolffia columbiana H.Karst.
+2859105193,gbif,1,aberrant,train,CM,botany,Quercus macrocarpa Michx.
+2859402156,gbif,1,aberrant,train,CM,botany,Quercus alba L.
+2859470784,gbif,1,aberrant,train,CM,botany,"Crescentia cujete Vell., 1829"
+5956740124,gbif,1,aberrant,val,IWEP FEB RAS,KHA,Veronica densiflora Ledeb.
+1929519886,gbif,1,aberrant,val,NY,NY,Rhizoclonium riparium (Roth) Harvey
+2859017608,gbif,1,aberrant,val,CM,botany,Pinus lambertiana Douglas
+2859018635,gbif,1,aberrant,train,CM,botany,Pinus pungens Lamb.
+2859298630,gbif,1,aberrant,val,CM,botany,Pinus flexilis E.James
+2859010628,gbif,1,aberrant,train,CM,botany,Pinus palustris Mill.
+4443261867,gbif,1,aberrant,val,UT,Botany,Pinus lambertiana Douglas
+1056644510,gbif,1,aberrant,train,NHMUK,BOT,Gloiopeltis furcata (Postels & Ruprecht) J.Agardh
+864923550,gbif,1,aberrant,train,UdeM,MT,Dracaena cubensis Vict.
+2859483495,gbif,1,aberrant,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+3751289171,gbif,1,aberrant,train,HAW,,Fabronia nietneri Müll.Hal.
+4116769790,gbif,1,aberrant,train,GMS,,Monostroma oxyspermum (Kütz.) Doty
+2859432994,gbif,1,aberrant,test,CM,botany,Pimpinella anisum S.G.Gmel.
+4891616308,gbif,1,aberrant,train,MM,Herbarium,Luzuriaga marginata (Gaertn.) Benth. & Hook.f.
+2859151461,gbif,1,aberrant,train,CM,botany,Asimina triloba (L.) Dunal
+2859177870,gbif,1,aberrant,train,CM,botany,Rhus glabra L.
+2859394898,gbif,1,aberrant,test,CM,botany,Kaempferia galanga L.
+2859137749,gbif,1,aberrant,train,CM,botany,Umbellularia californica (Hook. & Arn.) Nutt.
+2859400711,gbif,1,aberrant,test,CM,botany,Carya ovata (Mill.) K.Koch
+2859106175,gbif,1,aberrant,train,CM,botany,Quercus lyrata Walter
+4146077307,gbif,1,aberrant,test,CM,botany,Carya tomentosa (Lam.) Nutt.
+2859121180,gbif,1,aberrant,val,CM,botany,Quercus rubra L.
+2859014615,gbif,1,aberrant,test,CM,botany,Pinus strobus L.
+4172824448,gbif,1,aberrant,train,DR,Herbarium Dresdense,Ctenidium molluscum (Hedw.) Mitt.
+3751287402,gbif,1,aberrant,train,HAW,,Antitrichia californica Sull.
+3856111682,gbif,1,aberrant,train,LMM,,Selaginella selaginoides (L.) Schrank & C.F.P.Mart.
+2859239579,gbif,1,aberrant,test,CM,botany,Zizania aquatica L.
+4132061536,gbif,1,aberrant,test,UdeM,MT,Elatine americana (Pursh) Arn.
+1148621221,gbif,1,aberrant,train,,TALL,Magnolia kobus DC.
+2859018413,gbif,1,aberrant,train,CM,botany,Juniperus virginiana L.
+2859098174,gbif,1,aberrant,train,CM,botany,Hibiscus sabdariffa L.
+2859357156,gbif,1,aberrant,val,CM,botany,Bixa orellana L.
+2859105184,gbif,1,aberrant,train,CM,botany,Juglans regia L.
+2859027420,gbif,1,aberrant,train,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859107174,gbif,1,aberrant,train,CM,botany,Carya ovata (Mill.) K.Koch
+63863299,gbif,1,aberrant,train,BRM,AWI-Herbarium Marine Macroalgae,"Monostroma arcticum Wittrock, 1866"
+2859279675,gbif,1,aberrant,train,CM,botany,Lemna trisulca L.
+28593571561,inat,1,aberrant,train,,,
+2242387408,gbif,1,aberrant,val,DBG,KHD,Cherleria obtusiloba (Rydb.) A.J.Moore & Dillenb.
+63866095,gbif,1,aberrant,train,BRM,AWI-Herbarium Marine Macroalgae,Rhodochorton membranaceum (Magnus) Hauck
+1928187260,gbif,1,aberrant,val,NY,NY,Magnolia guatemalensis Donn.Sm.
+4924374655,gbif,1,aberrant,train,MSB-3028,Herbarium,Hydnora africana Thunb.
+2859120532,gbif,1,aberrant,val,CM,botany,Carya ovata (Mill.) K.Koch
+2859436034,gbif,1,aberrant,test,CM,botany,Canarium album (Lour.) Raeusch.
+2859122168,gbif,1,aberrant,train,CM,botany,Carya tomentosa (Lam.) Nutt.
+2859432822,gbif,1,aberrant,val,CM,botany,Musa L.
+3856108944,gbif,1,aberrant,train,LMM,,Parnassia palustris L.
+2859231809,gbif,1,aberrant,train,CM,botany,Ocimum basilicum L.
+2859015573,gbif,1,aberrant,train,CM,botany,Pinus leiophylla var. chihuahuana (Engelm.) Shaw
+1929865774,gbif,1,aberrant,train,NY,NY,Talauma ovata A.St.-Hil.
+2451559610,gbif,1,aberrant,train,DBG,KHD,Lemna minor L.
+3535179250,gbif,1,aberrant,train,O,B,Riccardia palmata (Hedw.) Carruth.
+2873255314,gbif,1,aberrant,val,PRC,TEX,Jatropha curcas L.
+3751288927,gbif,1,aberrant,test,HAW,,Scouleria aquatica Hook.
+2859152452,gbif,1,aberrant,train,CM,botany,Magnolia obovata (W.T.Aiton) Link
+2859407003,gbif,1,aberrant,train,CM,botany,Phaseolus vulgaris L.
+2859365135,gbif,1,aberrant,train,CM,botany,Juglans nigra L.
+1928136230,gbif,1,aberrant,train,NY,NY,Marchantia polymorpha L.
+3535074985,gbif,1,aberrant,train,O,B,Plagiomnium undulatum (Hedw.) T.J.Kop.
+2858995936,gbif,1,aberrant,test,CM,botany,Zea mays subsp. mays
+5053738314,gbif,1,aberrant,train,UERJ,HB,Halimeda discoidea Decne.
+2859121699,gbif,1,aberrant,train,CM,botany,Quercus macrocarpa Michx.
+2859144051,gbif,1,aberrant,test,CM,botany,Piper nigrum L.
+2859396719,gbif,1,aberrant,train,CM,botany,Illicium verum Hook.fil.
+2859015636,gbif,1,aberrant,train,CM,botany,Pinus rigida Mill.
+4987941366,gbif,1,aberrant,val,ILLS,,Bulbochaete intermedia var. depressa Wittr.
+1061097718,gbif,1,aberrant,train,UCMP,P,Liquidambar styraciflua L.
+2859217372,gbif,1,aberrant,test,CM,botany,Fabaceae
+2859473857,gbif,1,aberrant,train,CM,botany,Rhus typhina L.
+63866139,gbif,1,aberrant,train,BRM,AWI-Herbarium Marine Macroalgae,Rhodochorton floridulum (Dillwyn) Nägeli
+2859186323,gbif,1,aberrant,train,CM,botany,Sesamum indicum L.
+3713481978,gbif,1,aberrant,train,TUR,,Leucodon sciuroides (Hedw.) Schwägr.
+2859270642,gbif,1,aberrant,val,CM,botany,Pinus taeda L.
+2859242480,gbif,1,aberrant,train,CM,botany,Potamogeton foliosus Raf.
+2268933794,gbif,1,aberrant,train,MO,Tropicos,Picramnia antidesma Sw.
+4987947284,gbif,1,aberrant,val,ILL,,"Delesseria quercifolia Bory, 1825"
+2859106180,gbif,1,aberrant,train,CM,botany,Quercus rubra L.
+2859438563,gbif,1,aberrant,train,CM,botany,Couepia chrysocalyx (Poepp.) Benth. ex Hook.fil.
+2592224752,gbif,1,aberrant,train,US,US,Magnolia acuminata (L.) L.
+1061097939,gbif,1,aberrant,train,UCMP,P,Nyssa aquatica L.
+2859122701,gbif,1,aberrant,train,CM,botany,Quercus velutina Lam.
+4116769363,gbif,1,aberrant,train,GMS,,Bossiella orbigniana var. dichotoma
+2859454048,gbif,1,aberrant,train,CM,botany,Phaseolus lunatus L.
+2242354115,gbif,1,aberrant,train,DBG,KHD,Lemna minuta Kunth
+4987941395,gbif,1,aberrant,train,ILLS,,Stichococcus subtilis (Kützing) Klercker
+2268927411,gbif,1,aberrant,train,MO,Tropicos,Styrax benzoin Dryand.
+2859026658,gbif,1,aberrant,train,CM,botany,Rhektophyllum mirabile N.E.Br.
+2859272422,gbif,1,aberrant,train,CM,botany,Larix laricina (Du Roi) K.Koch
+5053432737,gbif,1,aberrant,val,STNF,,Allium cratericola Eastw.
+3856108955,gbif,1,aberrant,test,LMM,,Saxifraga hirculus L.
+4924375316,gbif,1,aberrant,test,MSB-3028,Herbarium,Hydnora africana Thunb.
+2859241577,gbif,1,aberrant,train,CM,botany,Hordeum vulgare L.
+2859396024,gbif,1,aberrant,train,CM,botany,Foeniculum vulgare Mill.
+4132065584,gbif,1,aberrant,test,UdeM,MT,Utricularia geminiscapa Benj.
+2242394206,gbif,1,aberrant,train,DBG,KHD,Lemna turionifera Landolt
+2234622767,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+5070875918,gbif,2,typical,val,MARY,,Centaurea dubia Suter
+1987015233,gbif,2,typical,test,USU,UTC,Tetratheca viminea Lindl.
+2859023677,gbif,2,typical,train,CM,botany,Lemna trisulca L.
+2859354348,gbif,2,typical,train,CM,botany,Carica papaya L.
+1699836737,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Vellozia macrosiphonia Taub.
+4899269456,gbif,2,typical,train,TMP,,Gymnocarpium dryopteris (L.) Newman
+4067741167,gbif,2,typical,train,TAWES,,Uvularia pudica Fernald
+5028825936,gbif,2,typical,train,UTC,UCHT,Heuchera villosa Michx.
+1849137598,gbif,2,typical,train,USCH,MAIN,Magnolia tripetala (L.) L.
+4866715920,gbif,2,typical,test,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3707746471,gbif,2,typical,train,MMNS,,Magnolia macrophylla Michx.
+5070866690,gbif,2,typical,train,MARY,,Butomus umbellatus L.
+4986965496,gbif,2,typical,train,UdeM,MT,Philodendron megalophyllum Schott
+3978743319,gbif,2,typical,train,BAYLU,BAYLU,Talinum paniculatum (Jacq.) Gaertn.
+4905595643,gbif,2,typical,val,AWC,,Berberis haematocarpa Wooton
+2513101686,gbif,2,typical,test,,Botany,Magnolia betongensis (Craib) H.Keng
+5106285157,gbif,2,typical,test,UNCC,UNCC,Magnolia tripetala (L.) L.
+2859027370,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+4851011361,gbif,2,typical,train,TUR-A,,Androsace filiformis Retz.
+1986869257,gbif,2,typical,train,GMDRC,UTC,Astragalus convallarius var. convallarius
+2859025549,gbif,2,typical,train,CM,botany,Spathiphyllum ortgiesii Regel
+5209430539,gbif,2,typical,train,YAV,,Cuscuta europaea L.
+473284772,gbif,2,typical,train,UdeM,MT,Coccothrinax yuraguana León
+4948980431,gbif,2,typical,train,NAU,,Eriogonum deflexum Torr.
+3385480641,gbif,2,typical,train,PI,Herbarium Horti Botanici Pisani (PI),Viscum laxum Boiss. & Reut.
+5937539038,gbif,2,typical,val,SMM,Plant,Dioscorea villosa L.
+4035439230,gbif,2,typical,train,HIFP,HIFP,Theriophonum minutum (Willd.) Baill.
+5105499803,gbif,2,typical,train,Samara National Research University,SMR,Ephedra distachya L.
+4877458954,gbif,2,typical,val,TMP,,Lysimachia thyrsiflora L.
+4905329605,gbif,2,typical,train,TMP,,Delphinium consolida L.
+3898510328,gbif,2,typical,train,Mohonk Preserve,DSRC,Vitis aestivalis Michx.
+5003488787,gbif,2,typical,train,HACAM,HACAM,Musa × paradisiaca L.
+3710018326,gbif,2,typical,test,GA,,Magnolia macrophylla Michx.
+1503205832,gbif,2,typical,train,USF,Herb,Magnolia macrophylla Michx.
+2417210762,gbif,2,typical,train,USU,UTC,Putranjiva roxburghii Wall.
+3352088702,gbif,2,typical,test,Tula State University,TULGU,Bunias orientalis L.
+5068049061,gbif,2,typical,val,Keene State University,KESC,Claytonia caroliniana Michx.
+5067988760,gbif,2,typical,train,Univesity of New Hampshire,NHA,Euonymus maackii Rupr.
+5162418230,gbif,2,typical,train,BG,S,Aphloia theiformis (Vahl) Benn.
+2859024553,gbif,2,typical,train,CM,botany,Zantedeschia rehmannii Engl.
+2859019494,gbif,2,typical,train,CM,botany,Anthurium bucayanum Croat
+1986868268,gbif,2,typical,test,SDSU,SDC,Spergularia rubra (L.) J.Presl & C.Presl
+5072734625,gbif,2,typical,train,PEMB,,Euonymus americanus L.
+4116764613,gbif,2,typical,train,GMS,,"Botryocladia pseudodichotoma (Farlow) Kylin, 1931"
+2981283177,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Clutia pentheriana Gand.
+5053439346,gbif,2,typical,train,UCSB,,Astelia alpina R.Br.
+4948980526,gbif,2,typical,train,NAU,,Chamaesyce pediculifera (Engelm.) Rose & Standl.
+2859023531,gbif,2,typical,val,CM,botany,Anthurium crystallinum Linden & André
+2859410146,gbif,2,typical,train,CM,botany,Hyacinthus orientalis L.
+4858644158,gbif,2,typical,val,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Acorus calamus L.
+3874892454,gbif,2,typical,train,GJO,Herbarium GJO,Mimulus guttatus DC.
+5157276960,gbif,2,typical,train,BG,S,Glossocalyx longicuspis Benth.
+3978707391,gbif,2,typical,train,BAYLU,BAYLU,Amoreuxia wrightii A.Gray
+2417907210,gbif,2,typical,val,,MNHNL-HERB-LUX,Mentha × verticillata L.
+2564274844,gbif,2,typical,val,MACF,,Pelliciera rhizophorae Triana & Planch.
+2265933700,gbif,2,typical,train,DUL,,Menispermum canadense L.
+3813132739,gbif,2,typical,train,UdeM,MT,Philodendron gloriosum André
+1638429079,gbif,2,typical,test,GZU,Herbarium GZU,Sedum caroli-henrici Kit Tan
+3470668828,gbif,2,typical,test,CAU,,Polypodium polypodioides (L.) Watt.
+5072734301,gbif,2,typical,val,PEMB,,Erythronium americanum Ker Gawl.
+2859022559,gbif,2,typical,train,CM,botany,Spathiphyllum Schott
+1848898570,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Costus comosus var. bakeri (K.Schum.) Maas
+3898509700,gbif,2,typical,train,Mohonk Preserve,DSRC,Woodwardia virginica (L.) Sm.
+1302911737,gbif,2,typical,train,O,O-V,Symplocos lanceolata (Mart.) A.DC.
+4601543341,gbif,2,typical,test,Utah Tech University,UTU,Cryptantha pusilla (Torr. & A.Gray) Greene
+2418679636,gbif,2,typical,test,BRI,Herbrecs,Solanum esuriale Lindl.
+5937530688,gbif,2,typical,train,SMM,Plant,Lysimachia thyrsiflora L.
+2859282586,gbif,2,typical,train,CM,botany,Alocasia macrorrhizos (L.) G.Don
+1503303733,gbif,2,typical,train,USF,Herb,Magnolia virginiana L.
+2859190826,gbif,2,typical,val,CM,botany,Aptandra zenkeri Engl.
+5074155470,gbif,2,typical,val,MU,,Calandrinia quadrivalvis F.Muell.
+2900388964,gbif,2,typical,val,US,US,Heliconia bihai (L.) L.
+2859023739,gbif,2,typical,train,CM,botany,Typha latifolia L.
+1702134377,gbif,2,typical,train,O,O-V,Plantae
+2859019368,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3091192972,gbif,2,typical,train,ASU,Plants,Quercus palmeri (Engelm.) Engelm.
+1849189269,gbif,2,typical,train,USCH,MAIN,Magnolia acuminata (L.) L.
+4977565519,gbif,2,typical,train,K,Herbarium,Dendrotrophe varians (Blume) Miq.
+4877460336,gbif,2,typical,test,TMP,,Geranium bohemicum L.
+5000156827,gbif,2,typical,train,SPF,Herbarium,Homalolepis ferruginea (A.St.-Hil.) Devecchi & Pirani
+1998673810,gbif,2,typical,train,NEBC,NEBC,Magnolia acuminata (L.) L.
+2876013759,gbif,2,typical,test,ERE,Herbarium ERE,Oenothera acutissima W.L.Wagner
+1077080246,gbif,2,typical,test,REG,REGvplantscoll,Peucedanum pungens E.Mey. ex Sond.
+3352087887,gbif,2,typical,train,Tula State University,TULGU,Butomus umbellatus L.
+2234623377,gbif,2,typical,train,NCU,Vascular Plants,Magnolia macrophylla Michx.
+2859091993,gbif,2,typical,train,CM,botany,Populus balsamifera L.
+2859028551,gbif,2,typical,train,CM,botany,Amorphophallus konjac K.Koch
+5106284676,gbif,2,typical,test,UNCC,UNCC,Magnolia tripetala (L.) L.
+2859025548,gbif,2,typical,val,CM,botany,Spathiphyllum wallisii Regel
+2235993148,gbif,2,typical,train,US,US,Phlox drummondii Hook.
+2859010588,gbif,2,typical,train,CM,botany,Widdringtonia nodiflora (L.) Powrie
+2859049721,gbif,2,typical,train,CM,botany,Chrysanthemum parthenium (L.) Bernh.
+5028868073,gbif,2,typical,train,UTC,UCHT,Capparis tomentosa Lam.
+3330114315,gbif,2,typical,train,CM,Botany,Paulownia tomentosa (Thunb.) Steud.
+2859305363,gbif,2,typical,val,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3439872934,gbif,2,typical,train,H,,Magnolia × loebneri Kache
+4986957365,gbif,2,typical,test,UdeM,MT,Monstera deliciosa Liebm.
+2005019948,gbif,2,typical,train,NHA,,Polyides rotunda (Hudson) Gaillon
+2859022363,gbif,2,typical,train,CM,botany,Xanthosoma mafaffa Schott
+5053433296,gbif,2,typical,train,STNF,,Draperia systyla (A.Gray) Torr.
+2234622444,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+2234623602,gbif,2,typical,test,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+2859270633,gbif,2,typical,train,CM,botany,Pinus sylvestris L.
+3757680362,gbif,2,typical,train,TUR,,Myriophyllum alterniflorum DC.
+3091193237,gbif,2,typical,train,ASU,Plants,Equisetum hyemale L.
+3982603977,gbif,2,typical,train,"The Tula Region State Institution of Culture ""Tula Museum Association""",TKM,Philadelphus pubescens Loisel.
+2859025566,gbif,2,typical,train,CM,botany,Amorphophallus konjac K.Koch
+3356290440,gbif,2,typical,train,"The Tula Region State Institution of Culture ""Tula Museum Association""",TKM,Linum flavum L.
+3855539569,gbif,2,typical,train,UF,,Magnolia macrophylla Michx.
+2859095637,gbif,2,typical,train,CM,botany,Franklinia alatamaha W.Bartram ex Marshall
+4948116718,gbif,2,typical,val,GBS RAN - Glavny Botanichesky Sad Rossijskoj Akademii Nauk,MHA,Staphylea pinnata L.
+3037039373,gbif,2,typical,train,PRC,Herbarium PRC,Utricularia × cornigera Studnicka
+2859024595,gbif,2,typical,train,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+4925661845,gbif,2,typical,train,GDRC,,Eriodictyon californicum (Hook. & Arn.) Greene
+2859159931,gbif,2,typical,test,CM,botany,Euphorbia pulcherrima Willd. ex Klotzsch
+694846965,gbif,2,typical,val,MSB,MSBvplantscoll,Gymnospermium sylvaticum (Freitag) Browicz
+5068048592,gbif,2,typical,train,Keene State University,KESC,Vitis riparia Michx.
+4905595335,gbif,2,typical,val,AWC,,Ceratophyllum demersum L.
+2859375720,gbif,2,typical,val,CM,botany,Aletris farinosa L.
+5904915119,gbif,2,typical,test,MSB-3159,Herbarium,Erythrophysa alata (Eckl. & Zeyh.) Hutch.
+4067740367,gbif,2,typical,train,TAWES,,Hydrangea arborescens L.
+4853883556,gbif,2,typical,train,UFG,Herbarium,Croton macrosepalus Sodré & M.J.Silva
+2859167648,gbif,2,typical,train,CM,botany,Lachnaea striata (Lam.) Meisn.
+4877458344,gbif,2,typical,train,TMP,,Convallaria majalis L.
+4987941318,gbif,2,typical,train,ILLS,,Euthora cristata (C.Agardh) J.Agardh
+4440251370,gbif,2,typical,val,TRH,V,Hydrangea arborescens L.
+4035424721,gbif,2,typical,test,HIFP,HIFP,Garcinia talbotii Raizada
+2418868153,gbif,2,typical,train,BRI,Herbrecs,Rhaphidospora cavernarum (F.Muell.) R.M.Barker
+5905526860,gbif,2,typical,train,UdeM,MT,Canella winterana (L.) Gaertn.
+3331197594,gbif,2,typical,val,MVSC,MVSC,Magnolia tripetala (L.) L.
+4067739051,gbif,2,typical,test,TAWES,,Selaginella apoda (L.) C.Morren
+3470662277,gbif,2,typical,train,CAU,,Azolla rubra R.Br.
+5937539041,gbif,2,typical,train,SMM,Plant,Echinocystis lobata (Michx.) Torr. & A.Gray
+4102067901,gbif,2,typical,test,BRIT,NLU,Magnolia macrophylla Michx.
+2859298592,gbif,2,typical,val,CM,botany,Widdringtonia nodiflora (L.) Powrie
+3352097146,gbif,2,typical,test,"The State Museum-Preserve ""The Kulikovo pole""",KULPOL,Stuckenia pectinata (L.) Börner
+1849150496,gbif,2,typical,train,USCH,MAIN,Ficus auriculata Lour.
+4850284505,gbif,2,typical,train,MU,,Bhesa indica (Bedd.) Ding Hou
+2859304370,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+4866715302,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2859020532,gbif,2,typical,train,CM,botany,Cercestis mirabilis (N.E.Br.) Bogner
+4977446842,gbif,2,typical,val,UERJ,HB,Luxemburgia flexuosa Sastre
+2234622299,gbif,2,typical,train,NCU,Vascular Plants,Magnolia fraseri Walter
+1078831979,gbif,2,typical,test,TUB,TUBvplantscoll,Nymphaea capensis Thunb.
+2859304563,gbif,2,typical,train,CM,botany,Zantedeschia elliottiana (W.Watson) Engl.
+2859408513,gbif,2,typical,train,CM,botany,Euonymus alatus (Thunb.) Siebold
+2859169175,gbif,2,typical,train,CM,botany,Leucadendron strictum R.Br.
+5162374215,gbif,2,typical,val,BG,S,Pistacia mutica Raul. ex Boiss.
+2234623802,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+3734049088,gbif,2,typical,test,Kuzbass Botanical Garden,KUZ,Polypodium virginianum L.
+2859157019,gbif,2,typical,val,CM,botany,Glycine max (L.) Merr.
+2859305539,gbif,2,typical,val,CM,botany,Monstera deliciosa Liebm.
+2859022540,gbif,2,typical,train,CM,botany,Aglaonema commutatum Schott
+4925661548,gbif,2,typical,train,GDRC,,Nemophila menziesii Hook. & Arn.
+3075957362,gbif,2,typical,train,Kuzbass Botanical Garden,KUZ,Carex lasiocarpa Ehrh.
+2859279542,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+3091268292,gbif,2,typical,train,ASC,,Echinocereus coccineus (Engelm.) Engelm.
+2242401467,gbif,2,typical,test,DBG,KHD,Clethra alnifolia L.
+3470661474,gbif,2,typical,train,CAU,,Codium fragile (Suringar) Har.
+2859424946,gbif,2,typical,val,CM,botany,Cuphea P.Browne
+3091199591,gbif,2,typical,val,ASC,,Hypericum apocynifolium Small
+5067990759,gbif,2,typical,val,Univesity of New Hampshire,NHA,Paxistima canbyi A.Gray
+2234621487,gbif,2,typical,test,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+5904909836,gbif,2,typical,val,MSB-3159,Herbarium,Pseudodictamnus africanus (L.) Salmaki & Siadati
+144874940,gbif,2,typical,train,B,Herbarium Berolinense,Lophosoria quadripinnata (J.F.Gmel.) C.Chr.
+3855115865,gbif,2,typical,train,DR,Herbarium Dresdense,Rehmannia piasezkii Maxim.
+1038969617,gbif,2,typical,test,YPM,CBS,Pachysandra terminalis Siebold & Zucc.
+1844418777,gbif,2,typical,train,BOON,,Impatiens capensis Meerb.
+2859308554,gbif,2,typical,val,CM,botany,Philodendron gloriosum André
+2417013895,gbif,2,typical,train,GBS RAN - Glavny Botanichesky Sad Rossijskoj Akademii Nauk,MHA,Vitis labrusca L.
+1457755169,gbif,2,typical,val,UF,,Magnolia macrophylla var. ashei (Weath.) D.L.Johnson
+4027614331,gbif,2,typical,train,TUR,,Reissekia smilacina (Sm.) Steud.
+4903562004,gbif,2,typical,train,CHR,CHR,Cassinia sifton Orchard
+4443309235,gbif,2,typical,test,UT,Botany,Eugenia brasiliensis Lam.
+1935655893,gbif,2,typical,train,GJO,Herbarium GJO,Betula nana L.
+5068046431,gbif,2,typical,test,Keene State University,KESC,Pera benensis Rusby
+2859021545,gbif,2,typical,train,CM,botany,Alocasia cuprea (H.Low ex Sankey) K.Koch
+4116765280,gbif,2,typical,test,GMS,,Opuntiella californica (Farlow) Kylin
+4977459340,gbif,2,typical,train,UERJ,HRJ,Serpocaulon latipes (Langsd. & L.Fisch.) A.R.Sm.
+4519454322,gbif,2,typical,val,HUEFS,Herbarium,Balfourodendron molle (Miq.) Pirani
+1077080793,gbif,2,typical,train,REG,REGvplantscoll,Ximenia americana var. inermis Hochst.
+2859413146,gbif,2,typical,train,CM,botany,Tulipa L.
+1038957475,gbif,2,typical,train,YPM,YU,Piriqueta viscosa Griseb.
+1038925665,gbif,2,typical,train,YPM,YU,Malva sylvestris L.
+1077080574,gbif,2,typical,test,REG,REGvplantscoll,Tamarix usneoides E.Mey.
+2859021565,gbif,2,typical,train,CM,botany,Xanthosoma Schott
+1077070563,gbif,2,typical,train,REG,REGvplantscoll,Bersama abyssinica Fresen.
+2859295422,gbif,2,typical,train,CM,botany,Pinus rigida Mill.
+473484195,gbif,2,typical,val,UdeM,MT,Physostegia virginiana subsp. virginiana
+4977571249,gbif,2,typical,val,MISC-993,Herbarium,"Lepidagathis ushae Borude, Gosavi & Chandore"
+2859028533,gbif,2,typical,train,CM,botany,Alocasia cuprea (H.Low ex Sankey) K.Koch
+4443350570,gbif,2,typical,val,UT,Botany,Adenostoma fasciculatum Hook. & Arn.
+2981278307,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Stephanocereus luetzelburgii (Vaupel) N.P.Taylor & Eggli
+2859119302,gbif,2,typical,train,CM,botany,Begonia L.
+4443349557,gbif,2,typical,val,UT,Botany,Polygala brevifolia Nutt.
+5060958376,gbif,2,typical,val,UNLV,,Nemacladus sigmoideus G.T.Robbins
+4067739045,gbif,2,typical,train,TAWES,,Asplenium rhizophyllum L.
+4858710327,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Macrozamia spiralis (Salisb.) Miq.
+4877458772,gbif,2,typical,test,TMP,,Viburnum opulus L.
+4925661742,gbif,2,typical,train,GDRC,,Delphinium decorum subsp. tracyi Ewan
+5183097353,gbif,2,typical,train,PRC,Herbarium PRC,Dysphania botrys (L.) Mosyakin & Clemants
+3352098364,gbif,2,typical,test,"The State Museum-Preserve ""The Kulikovo pole""",KULPOL,Elodea canadensis Michx.
+2242391898,gbif,2,typical,test,DBG,KHD,Heliconia episcopalis Vell.
+1699804475,gbif,2,typical,test,HBG,HBGSpermatophyta - Herbarium Hamburgense,Bactris bahiensis Noblick ex A.J.Hend.
+1987004693,gbif,2,typical,val,USU,UTC,Roridula dentata L.
+5904907153,gbif,2,typical,train,MSB-3054,Herbarium,Teucrium africanum Thunb.
+2859298297,gbif,2,typical,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+4420518390,gbif,2,typical,val,RBGE,E,Orobanche ramosa L.
+5028865545,gbif,2,typical,test,UTC,UCHT,Dionaea muscipula Ellis
+1699819745,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Iryanthera juruensis Warb.
+4948879439,gbif,2,typical,train,UNLV,,Muilla transmontana Greene
+2859470312,gbif,2,typical,test,CM,botany,Saintpaulia ionantha H.Wendl.
+1701253393,gbif,2,typical,train,TRH,V,Myrica gale L.
+3978742918,gbif,2,typical,test,BAYLU,BAYLU,Oligomeris linifolia (Vahl ex Hornem.) J.F.Macbr.
+3037052745,gbif,2,typical,train,PRC,Herbarium PRC,Tamarix florida Bunge
+3470663028,gbif,2,typical,train,CAU,,Mentzelia dispersa S.Watson
+2564273685,gbif,2,typical,val,MACF,,Hypoxis sessilis L.
+4519449972,gbif,2,typical,train,USM,Herbarium,Malesherbia tubulosa (Cav.) J.St.-Hil.
+5761260356,gbif,2,typical,test,TRH,V,Vitis vinifera L.
+2859110627,gbif,2,typical,test,CM,botany,Cucurbita L.
+2859220542,gbif,2,typical,train,CM,botany,Veratrum viride Aiton
+2859028576,gbif,2,typical,train,CM,botany,Amorphophallus konjac K.Koch
+4929781213,gbif,2,typical,train,UNLV,,Salvia columbariae Benth.
+4008138335,gbif,2,typical,test,Tula State University,TULGU,Sagittaria sagittifolia L.
+3899023760,gbif,2,typical,test,SMNH-NASU,LWS,Melampyrum saxosum Baumg.
+1230510190,gbif,2,typical,train,W,Herbarium W,Begonia angulata Vell.
+2234622251,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4519451400,gbif,2,typical,train,HUEFS,Herbarium,Lamanonia ternata Vell.
+2562089995,gbif,2,typical,train,PI,Herbarium Horti Botanici Pisani (PI),Marattia raddii Desv.
+2859306525,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+2859024701,gbif,2,typical,train,CM,botany,Philodendron Schott
+2859028523,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+4948108810,gbif,2,typical,train,GBS RAN - Glavny Botanichesky Sad Rossijskoj Akademii Nauk,MHA,Peganum harmala L.
+2859019538,gbif,2,typical,train,CM,botany,Spathiphyllum ortgiesii Regel
+3091222054,gbif,2,typical,val,ASC,,Azolla filiculoides Lam.
+2859026574,gbif,2,typical,test,CM,botany,Philodendron bipinnatifidum Schott ex Endl.
+1930689149,gbif,2,typical,train,NY,NY,Magnolia macrophylla Michx.
+4850298877,gbif,2,typical,val,MU,,Ilex pubescens Hook. & Arn.
+2828278904,gbif,2,typical,test,NSW,NSW,Negria rhabdothamnoides F.Muell.
+1077072558,gbif,2,typical,test,REG,REGvplantscoll,Heeria dispar (C.Presl) Kuntze
+5068050373,gbif,2,typical,test,Keene State University,KESC,Piper tuberculatum Jacq.
+2859279559,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+2592264113,gbif,2,typical,test,US,US,Magnolia tripetala (L.) L.
+1055411121,gbif,2,typical,train,NHMUK,BOT,Liquidambar formosana Hance
+4926612350,gbif,2,typical,train,SMNH-NASU,LWS,Juncus triglumis subsp. triglumis
+4853917426,gbif,2,typical,train,UFG,Herbarium,Croton uliginosus Sodré & M.J.Silva
+2265956595,gbif,2,typical,train,DUL,,Streptopus lanceolatus (Aiton) Reveal
+3001114177,gbif,2,typical,test,TAM,TAM,Campanula persicifolia L.
+2859306548,gbif,2,typical,train,CM,botany,Dieffenbachia seguine (Jacq.) Schott
+3899026952,gbif,2,typical,test,SMNH-NASU,LWS,Chrysosplenium alpinum (Schur) Schur
+2859013386,gbif,2,typical,val,CM,botany,Taxus canadensis Marshall
+5904915139,gbif,2,typical,train,MSB-3028,Herbarium,Erica capitata L.
+5053431674,gbif,2,typical,train,STNF,,Shepherdia canadensis (L.) Nutt.
+3395965375,gbif,2,typical,val,MACF,,Proserpinaca palustris L.
+3091239723,gbif,2,typical,train,ASU,Plants,Pseudotsuga menziesii (Mirb.) Franco
+2859279531,gbif,2,typical,test,CM,botany,Xanthosoma Schott
+4999695305,gbif,2,typical,train,UERJ,HRJ,Sesuvium portulacastrum (L.) L.
+2981279288,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Phytolacca stricta Hoffm.
+5236087616,gbif,2,typical,test,K,Herbarium,Ruppia maritima L.
+4440457089,gbif,2,typical,val,SMNH-NASU,LWS,Rhodiola rosea L.
+4067792566,gbif,2,typical,train,MCA,,Floerkea proserpinacoides Willd.
+5203980624,gbif,2,typical,train,HACAM,HACAM,Goeppertia effusa Saka & Lombardi
+2859208230,gbif,2,typical,val,CM,botany,Nicotiana tabacum L.
+1056170427,gbif,2,typical,val,NHMUK,BOT,Petalostigma banksii Britten & S.Moore
+5937537482,gbif,2,typical,train,SMM,Plant,Myriophyllum tenellum Bigelow
+5138100306,gbif,2,typical,train,HACAM,HACAM,Microtea celosioides (Spreng.) Moq. ex Sennikov & Sukhor.
+2564276145,gbif,2,typical,test,MACF,,Plantago erecta subsp. erecta
+2859304550,gbif,2,typical,train,CM,botany,Alocasia macrorrhizos (L.) G.Don
+2234623186,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4877459205,gbif,2,typical,train,TMP,,Pteridium aquilinum (L.) Kuhn
+3037051392,gbif,2,typical,train,PRC,Herbarium PRC,Vochysia lucida C.Presl
+5937533264,gbif,2,typical,test,SMM,Plant,Cystopteris bulbifera (L.) Bernh.
+2859028596,gbif,2,typical,train,CM,botany,Synandrospadix vermitoxicus (Griseb.) Engl.
+2564276278,gbif,2,typical,train,MACF,,Rhizophora mangle L.
+3326042823,gbif,2,typical,test,W,Herbarium W,Podocarpus parlatorei Pilg.
+3470663304,gbif,2,typical,train,CAU,,Ailanthus altissima (Mill.) Swingle
+2859282651,gbif,2,typical,val,CM,botany,Amorphophallus konjac K.Koch
+864893731,gbif,2,typical,train,B,Herbarium Berolinense,Elaeocarpus kaniensis Schltr.
+1024638569,gbif,2,typical,test,UdeM,MT,Philodendron megalophyllum Schott
+3695167794,gbif,2,typical,train,UAM,,Camellia oleifera Abel.
+1987000474,gbif,2,typical,val,USU,UTC,Rhipogonum papuanum C.T.White
+1077070719,gbif,2,typical,train,REG,REGvplantscoll,Craterostigma pumilum Hochst.
+2859308723,gbif,2,typical,test,CM,botany,Philodendron Schott
+1699826724,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Phryma leptostachya L.
+5904909065,gbif,2,typical,train,MSB-3049,Herbarium,Canthium vanwykii Tilney & Kok
+5209430629,gbif,2,typical,val,YAV,,Reseda lutea L.
+2859412146,gbif,2,typical,train,CM,botany,Iris Tourn. ex L.
+4601543412,gbif,2,typical,train,Utah Tech University,UTU,Cryptantha virginensis (M.E.Jones) Payson
+1321053039,gbif,2,typical,test,US,US,Marsilea vestita Hook. & Grev.
+1986868169,gbif,2,typical,train,Utah State University,UTC,Phacelia heterophylla Pursh
+2859023383,gbif,2,typical,test,CM,botany,Spirodela polyrhiza (L.) Schleid.
+2859308367,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+4444400968,gbif,2,typical,train,B,Herbarium Berolinense,Ailanthus altissima (Mill.) Swingle
+2859228088,gbif,2,typical,train,CM,botany,Syringa vulgaris L.
+5912076933,gbif,2,typical,train,HAW,,Elaeagnus triflora Roxb.
+5904914245,gbif,2,typical,train,MSB-3054,Herbarium,Grielum grandiflorum (L.) Druce
+3899028651,gbif,2,typical,train,SMNH-NASU,LWS,Plantago atrata subsp. carpathica (Soó) Soó
+5028836037,gbif,2,typical,train,UTC,UCHT,Sideroxylon lycioides L.
+2859022541,gbif,2,typical,test,CM,botany,Amorphophallus konjac K.Koch
+4067736749,gbif,2,typical,val,TAWES,,Ligustrum vulgare L.
+3470666421,gbif,2,typical,train,CAU,,Cystopteris tennesseensis Shaver
+4858695099,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Grevillea robusta A.Cunn. ex R.Br.
+2859028676,gbif,2,typical,val,CM,botany,Philodendron pterotum K.Koch & Augustin
+2859305528,gbif,2,typical,test,CM,botany,Anthurium scherzerianum Schott
+2859023544,gbif,2,typical,train,CM,botany,Philodendron × domesticum G.S.Bunting
+2242387003,gbif,2,typical,val,DBG,KHD,Typha latifolia L.
+473284849,gbif,2,typical,train,UdeM,MT,Hemithrinax ekmaniana Burret
+3091207279,gbif,2,typical,train,ASC,,Vitis acerifolia Raf.
+4905594547,gbif,2,typical,train,AWC,,Oligomeris linifolia (Vahl ex Hornem.) J.F.Macbr.
+2981270179,gbif,2,typical,test,M-VascularPlants,BSMvplantscoll,Hydrostachys hildebrandtii Engl.
+4853871088,gbif,2,typical,test,UFG,Herbarium,Croton ramosissimus Sodré & M.J.Silva
+2859015255,gbif,2,typical,train,CM,botany,Aponogeton undulatus Roxb.
+4444398857,gbif,2,typical,test,B,Herbarium Berolinense,Epilobium tetragonum L.
+3978753436,gbif,2,typical,train,BAYLU,BAYLU,Burmannia capitata (Walter ex J.F.Gmel.) Mart.
+5068046232,gbif,2,typical,train,Keene State University,KESC,Lacistema aggregatum (P.J.Bergius) Rusby
+2859280697,gbif,2,typical,test,CM,botany,Philodendron davidsonii subsp. bocatoranum Croat
+2234623795,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+3439730928,gbif,2,typical,val,H,,Magnolia macrophylla Michx.
+2464693694,gbif,2,typical,train,USF,Herb,Magnolia acuminata (L.) L.
+2571444186,gbif,2,typical,train,US,US,Austrobaileya scandens C.T.White
+899739936,gbif,2,typical,train,MSB,MSBvplantscoll,Astragalus pendulus DC.
+4433551089,gbif,2,typical,train,BAYLU,BAYLU,Asimina parviflora (Michx.) Dunal
+4035422622,gbif,2,typical,train,HIFP,HIFP,Bergia capensis L.
+2234636606,gbif,2,typical,train,NCU,Vascular Plants,Heteropogon melanocarpus (Elliott) Benth.
+2234624810,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4925661391,gbif,2,typical,test,GDRC,,Gilia capitata subsp. pacifica V.E.Grant
+2859027554,gbif,2,typical,train,CM,botany,Philodendron × domesticum G.S.Bunting
+2461263102,gbif,2,typical,train,Weber State University,WSCO,Smilax ecirrhata (Engelm. ex Kunth) S.Watson
+5904906746,gbif,2,typical,train,MSB-3049,Herbarium,Dodonaea viscosa ssp. .)Benth. (L.f.) Benth.
+4876043575,gbif,2,typical,val,UARK,,Magnolia tripetala (L.) L.
+2859304336,gbif,2,typical,train,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+2265961038,gbif,2,typical,test,DUL,,Casuarina equisetifolia L.
+1457822083,gbif,2,typical,val,UF,,Magnolia macrophylla var. ashei (Weath.) D.L.Johnson
+4535508979,gbif,2,typical,train,PNH,Herbarium,Oryza sativa L.
+2876012015,gbif,2,typical,train,ERE,Herbarium ERE,Cornus australis C.A.Mey.
+1987015720,gbif,2,typical,train,USU,UTC,Mitreola petiolata (J.F.Gmel.) Torr. & A.Gray
+3978881780,gbif,2,typical,test,PI,Herbarium Horti Botanici Pisani (PI),Hedera helix subsp. helix
+2265961100,gbif,2,typical,val,DUL,,Nyssa sylvatica Marshall
+4403482372,gbif,2,typical,test,TTC,GUMO,Talinum aurantiacum Engelm.
+3091257878,gbif,2,typical,train,ASC,,Lythrum lineare L.
+2859417887,gbif,2,typical,train,CM,botany,Lotus corniculatus L.
+2859022561,gbif,2,typical,test,CM,botany,Xanthosoma Schott
+1701507708,gbif,2,typical,test,W,Herbarium W,Cissus erosa (L.) Rich.
+3352097271,gbif,2,typical,val,"The State Museum-Preserve ""The Kulikovo pole""",KULPOL,Polygonatum odoratum var. odoratum
+3707736309,gbif,2,typical,train,MMNS,,Magnolia tripetala (L.) L.
+4866896302,gbif,2,typical,train,TUR-A,,Gentiana pneumonanthe L.
+864901214,gbif,2,typical,train,B,Herbarium Berolinense,Lepicolea ramenifissa Herzog
+2859307371,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+1986868530,gbif,2,typical,train,RENO,V,Cleomella parviflora A.Gray
+4105532491,gbif,2,typical,test,DR,Herbarium Dresdense,Butomus umbellatus L.
+2859020550,gbif,2,typical,train,CM,botany,Philodendron burle-marxii G.M.Barroso
+1986868350,gbif,2,typical,train,Utah State University,UTC,Carex praegracilis W.Boott
+5937539295,gbif,2,typical,train,SMM,Plant,Andromeda glaucophylla Link
+4905595573,gbif,2,typical,train,AWC,,Simmondsia chinensis (Link) C.K.Schneid.
+2859134287,gbif,2,typical,test,CM,botany,Platanthera orbiculata (Pursh) Lindl.
+1702087824,gbif,2,typical,train,O,O-V,Caryocar brasiliense A.St.-Hil.
+1986943882,gbif,2,typical,train,USU,UTC,Marattia salicina Sm.
+2876013395,gbif,2,typical,train,ERE,Herbarium ERE,Galium armenum Schanzer
+4443308964,gbif,2,typical,val,UT,Botany,Gaura coccinea Nutt. ex Pursh
+2859024350,gbif,2,typical,test,CM,botany,Xanthosoma sagittifolium (L.) Schott
+4132072650,gbif,2,typical,test,UdeM,MT,Anthurium salviniae Hemsl.
+2859092681,gbif,2,typical,train,CM,botany,Populus grandidentata Michx.
+575031471,gbif,2,typical,train,RBGE,E,Petrosavia stellaris Becc.
+2234623476,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+3696545785,gbif,2,typical,train,UCSB,,"Bryopsis corticulans Setch.In Collins et al., 1899"
+1038924465,gbif,2,typical,test,YPM,CBS,Lygodium palmatum (Bernh.) Sw.
+2859282385,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2234623118,gbif,2,typical,val,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4899945042,gbif,2,typical,train,RBGE,E,Prionium palmita E.Mey.
+3886928847,gbif,2,typical,val,HTTU,,Elodea canadensis Michx.
+2859377152,gbif,2,typical,train,CM,botany,Tulipa L.
+2234622023,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+1697242101,gbif,2,typical,val,Moscow State University,MW,Magnolia obovata Thunb.
+4986955825,gbif,2,typical,test,UdeM,MT,Anthurium magnificum W.Bull
+4975943594,gbif,2,typical,test,MU,,Banisteriopsis nummifera (A.Juss.) B.Gates
+1986868558,gbif,2,typical,train,RENO,V,Olsynium douglasii var. inflatum (Suksd.) Cholewa & Douglass M.Hend.
+2242395502,gbif,2,typical,test,DBG,KHD,Stanhopea frymirei Dodson
+5105499887,gbif,2,typical,train,Samara National Research University,SMR,Melampyrum cristatum L.
+3037052119,gbif,2,typical,train,PRC,Herbarium PRC,Lasiandra muricata C.Presl
+5068049680,gbif,2,typical,test,Keene State University,KESC,Nelumbo nucifera Gaertn.
+4986964882,gbif,2,typical,train,UdeM,MT,Dieffenbachia pittieri Engl. & K.Krause
+1077071540,gbif,2,typical,test,REG,REGvplantscoll,Ehretia zeyheriana H.Buek ex Harv.
+2859106219,gbif,2,typical,train,CM,botany,Morus L.
+3855132962,gbif,2,typical,train,DR,Herbarium Dresdense,Casuarina equisetifolia L.
+5067990142,gbif,2,typical,train,University of New Hampshire,NHA,Anemia adiantifolia (L.) Sw.
+4980087080,gbif,2,typical,test,NSW,NSW,Ensete ventricosum (Welw.) Cheesman
+2562086340,gbif,2,typical,val,PI,Herbarium Horti Botanici Pisani (PI),Alstroemeria aurantiaca D.Don
+2859210077,gbif,2,typical,val,CM,botany,Sinningia Nees
+2859500403,gbif,2,typical,train,CM,botany,Kolkwitzia amabilis Graebn.
+2859178215,gbif,2,typical,val,CM,botany,Staphylea pinnata L.
+5003486129,gbif,2,typical,train,HACAM,HACAM,Iryanthera ulei Warb.
+1849100408,gbif,2,typical,test,USCH,MAIN,Peltandra virginica (L.) Schott
+3340049699,gbif,2,typical,test,TTC,,Dryopteris thelypteris (L.) A.Gray
+4905595339,gbif,2,typical,test,AWC,,Achyronychia cooperi A.Gray
+4102155798,gbif,2,typical,val,BRIT,VDB,Magnolia macrophylla Michx.
+4920949010,gbif,2,typical,train,CHR,CHR,Aciphylla glaucescens W.R.B.Oliv.
+4035429959,gbif,2,typical,train,HIFP,HIFP,Persicaria punctata (Elliott) Small
+2827322822,gbif,2,typical,val,NSW,NSW,Drypetes deplanchei (Brongn. & Gris) Merr.
+5904915732,gbif,2,typical,train,MSB-3054,Herbarium,Codon royenii L.
+3744720926,gbif,2,typical,train,UNA,,Magnolia macrophylla Michx.
+4511673320,gbif,2,typical,train,Utah Tech University,UTU,Mahonia fremontii (Torr.) Fedde
+5904912525,gbif,2,typical,train,MSB-3054,Herbarium,Myrica serrata Lam.
+4858695133,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Cinnamomum camphora (L.) J.Presl
+5068009522,gbif,2,typical,train,University of New Hampshire,NHA,Peritoma arborea (Nutt. ex Torr. & A.Gray) Iltis
+1699827216,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Pleiokirkia leandrii Capuron
+3091228359,gbif,2,typical,train,ASC,,Heliotropium curassavicum L.
+2598864067,gbif,2,typical,train,COI,COI,Sclerocephalus arabicus Boiss.
+5060958363,gbif,2,typical,train,UNLV,,Utricularia macrorhiza Leconte
+2859307370,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2859307546,gbif,2,typical,test,CM,botany,Caladium lindenii (André) Madison
+2981262940,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Anisophyllea polyneura Floret
+5209430801,gbif,2,typical,test,YAV,,Euphorbia cyparissias L.
+5003488631,gbif,2,typical,train,HACAM,HACAM,Araucaria heterophylla (Salisb.) Franco
+3886951091,gbif,2,typical,train,HTTU,,Impatiens capensis Meerb.
+3091236454,gbif,2,typical,train,ASU,Plants,Agrostis stolonifera L.
+2242382549,gbif,2,typical,train,DBG,KHD,Asclepias uncialis Greene
+4866715305,gbif,2,typical,train,CM,botany,Xanthosoma dodsonii Croat
+1056192515,gbif,2,typical,train,NHMUK,BOT,Aconitum kongboense Lauener
+1457758244,gbif,2,typical,train,UF,,Magnolia macrophylla Michx.
+2859499355,gbif,2,typical,train,CM,botany,Lycopersicon esculentum var. cerasiforme Alef.
+1986868621,gbif,2,typical,train,Utah State University,UTC,Ceanothus martini M.E.Jones
+1702417084,gbif,2,typical,train,O,O-V,Erigeron humilis Graham
+2234622288,gbif,2,typical,train,NCU,Vascular Plants,Magnolia macrophylla Michx.
+2859245782,gbif,2,typical,train,CM,botany,Magnolia tripetala (L.) L.
+3898510617,gbif,2,typical,train,Mohonk Preserve,DSRC,Erythronium americanum Ker Gawl.
+1078802047,gbif,2,typical,val,TUB,TUBvplantscoll,Clutia natalensis Bernh.
+4519447334,gbif,2,typical,train,HUEFS,Herbarium,Stigmaphyllon caatingicola R.F.Almeida & Amorim
+5028856863,gbif,2,typical,val,UTC,UCHT,Krameria spathulata Small
+3855133665,gbif,2,typical,test,DR,Herbarium Dresdense,Joinvillea ascendens Gaudich. ex Brongn. & Gris
+2876005098,gbif,2,typical,train,ERE,Herbarium ERE,Saxifraga brachypetala Malyschev
+2859015404,gbif,2,typical,test,CM,botany,Pinus resinosa Aiton
+4433281671,gbif,2,typical,val,WVW,,Magnolia tripetala (L.) L.
+3352099611,gbif,2,typical,val,"The State Museum-Preserve ""The Kulikovo pole""",KULPOL,Primula veris L.
+2859286152,gbif,2,typical,test,CM,botany,Pityrogramma calomelanos (L.) Link
+2242393567,gbif,2,typical,val,DBG,KHD,Alocasia macrorrhizos (L.) G.Don
+475052649,gbif,2,typical,val,B,Herbarium Berolinense,Melianthus comosus Vahl
+2859026544,gbif,2,typical,train,CM,botany,Anthurium andraeanum Linden
+5162388066,gbif,2,typical,train,BG,S,Carpodetus serratus J.R.Forst. & G.Forst.
+4608090338,gbif,2,typical,train,UCSB,,Gleichenia bifida (Willd.) Spreng.
+4850326034,gbif,2,typical,train,MU,,Ribes tenue Jancz.
+4987946770,gbif,2,typical,train,ILL,,Caulerpa crassifolia (C.Ag.) J.Ag.
+3029001152,gbif,2,typical,val,JE,Herbarium Haussknecht JE,Goodenia dimorpha var. angustifolia Maiden & Betche
+3978746456,gbif,2,typical,train,BAYLU,BAYLU,Floerkea proserpinacoides Willd.
+5067997020,gbif,2,typical,train,University of New Hampshire,NHA,Krameria bicolor S.Watson
+5904911223,gbif,2,typical,train,MSB-3159,Herbarium,Crassula undulata Haw.
+3435183046,gbif,2,typical,train,TUR-A,,Fontinalis hypnoides Hartm.
+4535504955,gbif,2,typical,val,PNH,Herbarium,Oryza sativa L.
+2234622373,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+1986869022,gbif,2,typical,train,RENO,V,Pyrola asarifolia var. asarifolia
+4905595527,gbif,2,typical,train,AWC,,Fouquieria splendens subsp. splendens
+4067769999,gbif,2,typical,test,MCA,,Linum striatum Walter
+4511673315,gbif,2,typical,train,Utah Tech University,UTU,Mahonia aquifolium (Pursh) Nutt.
+3037055750,gbif,2,typical,train,PRC,Herbarium PRC,Anemia speciosa C.Presl
+4986948512,gbif,2,typical,train,UdeM,MT,Aeschynanthus boschianus de Vriese
+2513100183,gbif,2,typical,val,,Botany,Magnolia betongensis (Craib) H.Keng
+4948980429,gbif,2,typical,test,NAU,,Mentzelia involucrata S.Watson
+4132068212,gbif,2,typical,val,UdeM,MT,Rhododendron tomentosum subsp. decumbens (Aiton) Elven & D.F.Murray
+4067772628,gbif,2,typical,train,MCA,,Campanula aparinoides Pursh
+2859283374,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+1986868414,gbif,2,typical,train,RM,UTC,Solanum elaeagnifolium Cav.
+4977594527,gbif,2,typical,train,MISC-993,Herbarium,"Lepidagathis sabui Chandore, Borude, Madhav & S.R.Yadav"
+5067991750,gbif,2,typical,test,Univesity of New Hampshire,NHA,Euonymus americanus var. obovatus (Nutt.) Dippel
+2859112745,gbif,2,typical,train,CM,botany,Viola tricolor L.
+1986868513,gbif,2,typical,train,Utah State University,UTC,Peraphyllum ramosissimum Nutt.
+2418756016,gbif,2,typical,train,BRI,Herbrecs,Dicranopteris linearis var. linearis
+2242392962,gbif,2,typical,test,DBG,KHD,Pleiostachya pruinosa (Regel) K.Schum.
+2859019557,gbif,2,typical,val,CM,botany,Xanthosoma Schott
+4977585076,gbif,2,typical,train,MISC-993,Herbarium,"Vicoa gokhalei Gosavi, Madhav, Chandore & S.R.Yadav"
+2859432837,gbif,2,typical,val,CM,botany,Strelitzia nicolai Regel & Körn.
+5004381407,gbif,2,typical,train,GJO,Herbarium GJO,Peucedanum cervaria (L.) Lapeyr.
+2234622159,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+3978726455,gbif,2,typical,test,BAYLU,BAYLU,Bomarea hirsuta (Kunth) Herb.
+1056362761,gbif,2,typical,test,NHMUK,BOT,Bergia sessiliflora Griseb.
+3695168201,gbif,2,typical,train,UAM,,Syngonanthus flavidulus (Michx.) Ruhland
+2859022523,gbif,2,typical,test,CM,botany,Syngonium podophyllum Schott
+2859280572,gbif,2,typical,train,CM,botany,Alocasia macrorrhizos (L.) G.Don
+1078802033,gbif,2,typical,train,TUB,TUBvplantscoll,Cleome pentaphylla L.
+3748528328,gbif,2,typical,train,TUR,,Epipactis helleborine (L.) Crantz
+1457819131,gbif,2,typical,test,UF,,Magnolia macrophylla var. ashei (Weath.) D.L.Johnson
+5138132176,gbif,2,typical,train,DUL,,Onoclea sensibilis L.
+4519447073,gbif,2,typical,train,ICN,Herbarium,Piriqueta pampeana Cabreira & Miotto
+4010920321,gbif,2,typical,train,CM,botany,Reynoutria sachalinensis (F.Schmidt) Nakai
+2876004296,gbif,2,typical,train,ERE,Herbarium ERE,Gymnandra stolonifera K.Koch
+5105500133,gbif,2,typical,test,Samara National Research University,SMR,Erysimum diffusum Ehrh.
+4095564449,gbif,2,typical,val,MACF,,Cercidiphyllum japonicum Siebold & Zucc. ex J.J.Hoffm. & J.H.Schult.bis
+3352099517,gbif,2,typical,train,"The State Museum-Preserve ""The Kulikovo pole""",KULPOL,Berteroa incana (L.) DC.
+3864982742,gbif,2,typical,train,PH,,Lotus corniculatus L.
+2859376160,gbif,2,typical,test,CM,botany,Tulipa L.
+4925661771,gbif,2,typical,train,GDRC,,Achillea millefolium L.
+4116768311,gbif,2,typical,train,GMS,,"Callithamnion pikeanum Harvey, 1853"
+2859151915,gbif,2,typical,train,CM,botany,Pitcairnia ancuashii L.B.Sm. & Read
+2859022602,gbif,2,typical,val,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+4910122663,gbif,2,typical,train,SAT,,Magnolia macrophylla Michx.
+3041584489,gbif,2,typical,val,UdeM,MT,Oxalis stricta L.
+1038970011,gbif,2,typical,train,YPM,YU,Lomariopsis fendleri D.C.Eaton
+2859304369,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3744705927,gbif,2,typical,val,UNA,,Magnolia macrophylla Michx.
+2859119878,gbif,2,typical,val,CM,botany,Quercus palustris Münchh.
+4977582410,gbif,2,typical,test,MISC-993,Herbarium,"Eriocaulon shrirangii Chandore, Borude, Bhalekar, Madhav & Gosavi"
+3340054890,gbif,2,typical,train,TTC,,Pinus virginiana Mill.
+2859307536,gbif,2,typical,train,CM,botany,Anthurium cordatum (L.) Schott
+1657193221,gbif,2,typical,train,GZU,Herbarium GZU,Paeonia emodi Wall. ex Royle
+2859021365,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+5904911013,gbif,2,typical,test,MSB-3159,Herbarium,Blepharis mitrata C.B.Clarke
+2242395112,gbif,2,typical,train,DBG,KHD,Anthurium dolichostachyum Sodiro
+5956733258,gbif,2,typical,train,IWEP FEB RAS,KHA,Linaria melampyroides Kuprian.
+5937529942,gbif,2,typical,test,SMM,Plant,Lycopus virginicus L.
+5068050534,gbif,2,typical,test,Keene State University,KESC,Terminalia dichotoma G.Mey.
+4977573687,gbif,2,typical,train,K,Herbarium,Pharnaceum confertum (DC.) Eckl. & Zeyh.
+3028994656,gbif,2,typical,train,JE,Herbarium Haussknecht JE,Tamarix smyrnensis Bunge
+2859022604,gbif,2,typical,val,CM,botany,Synandrospadix vermitoxicus (Griseb.) Engl.
+4443327230,gbif,2,typical,train,UT,Botany,Grevillea robusta A.Cunn. ex R.Br.
+4519453940,gbif,2,typical,train,BOT,Herbarium,Myricaria germanica (L.) Desv.
+4925661532,gbif,2,typical,train,GDRC,,Triteleia hyacinthina (Lindl.) Greene
+2859378141,gbif,2,typical,train,CM,botany,Hyacinthus orientalis L.
+4420466953,gbif,2,typical,train,RBGE,E,"Canella alba T.Nees, 1828"
+2859410145,gbif,2,typical,train,CM,botany,Tulipa L.
+2859021562,gbif,2,typical,train,CM,botany,Amorphophallus konjac K.Koch
+5904906322,gbif,2,typical,test,MSB-3049,Herbarium,Leucospermum tomentosum (Thunb.) R.Br.
+2859214347,gbif,2,typical,val,CM,botany,Spathodea campanulata Beauverd
+2859462426,gbif,2,typical,train,CM,botany,Sacoglottis gabonensis (Baill.) Urb.
+5162387425,gbif,2,typical,train,BG,S,Galium cespitosum Lam.
+4866715767,gbif,2,typical,test,CM,botany,Philodendron bethoweniae Croat
+3091245532,gbif,2,typical,train,DES,,Bolboschoenus maritimus subsp. paludosus (A.Nelson) T.Koyama
+5904909064,gbif,2,typical,val,MSB-3049,Herbarium,Pelargonium fulgidum (L.) L'Hér.
+1699836570,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Utricularia juncea Vahl
+4850321333,gbif,2,typical,val,MU,,Aristolochia tubiflora Dunn
+5912074514,gbif,2,typical,train,HAW,,Clermontia arborescens (H.Mann) Hillebr.
+2859280594,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+3091239719,gbif,2,typical,train,ASU,Plants,Erysimum capitatum (Douglas ex Hook.) Greene
+1844411886,gbif,2,typical,test,BOON,,Araucaria columnaris (J.R.Forst.) Hook.
+694846864,gbif,2,typical,test,MSB,MSBvplantscoll,Calceolaria densifolia subsp. laxa C.Ehrh.
+2242394655,gbif,2,typical,train,DBG,KHD,Opuntia engelmannii Salm-Dyck
+2859026709,gbif,2,typical,test,CM,botany,Philodendron Schott
+2859279544,gbif,2,typical,train,CM,botany,Philodendron imbe Schott ex Endl.
+4986802129,gbif,2,typical,val,SPF,Herbarium,Rinorea gemmulata J.F.C.Oliveira & L.P.Queiroz
+2859304564,gbif,2,typical,train,CM,botany,Philodendron bipinnatifidum Schott ex Endl.
+2242385944,gbif,2,typical,train,DBG,KHD,Escobaria vivipara (Nutt.) Buxb.
+1986869477,gbif,2,typical,val,GMDRC,UTC,Eriogonum heermannii var. argense (M.E.Jones) Munz
+3897286358,gbif,2,typical,train,CM,botany,Solanaceae
+3091280796,gbif,2,typical,train,ASC,,Fouquieria splendens Engelm.
+5169836420,gbif,2,typical,val,HACAM,HACAM,Physalis pubescens L.
+4977898602,gbif,2,typical,test,STNF,,Calycanthus occidentalis Hook. & Arn.
+3312499692,gbif,2,typical,train,RBGE,E,Pouzolzia pentandra (Roxb.) Benn.
+3115536323,gbif,2,typical,test,GJO,Herbarium GJO,Polypodium vulgare L.
+2859305518,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+2859132192,gbif,2,typical,train,CM,botany,Tulipa L.
+2859414172,gbif,2,typical,test,CM,botany,Tulipa L.
+1457746192,gbif,2,typical,val,UF,,Magnolia macrophylla var. ashei (Weath.) D.L.Johnson
+2597553839,gbif,2,typical,train,W,Herbarium W,Pittosporum pickeringii A.Gray
+4535501968,gbif,2,typical,train,PNH,Herbarium,Oryza sativa L.
+2859014389,gbif,2,typical,train,CM,botany,Pinus rigida Mill.
+2242412628,gbif,2,typical,test,DBG,KHD,Paulownia tomentosa (Thunb.) Steud.
+2859478764,gbif,2,typical,train,CM,botany,Sedum sarmentosum Bunge
+4987941356,gbif,2,typical,train,ILLS,,Cladophora glomerata (L.) Kütz.
+2564276282,gbif,2,typical,train,MACF,,Paeonia californica Nutt.
+4977565268,gbif,2,typical,train,MISC-993,Herbarium,Chlorophytum tillariense S.R.Yadav & Chandore
+4535502971,gbif,2,typical,test,PNH,Herbarium,Oryza sativa L.
+2859330965,gbif,2,typical,train,CM,botany,Fagopyrum esculentum Moench
+3016597155,gbif,2,typical,train,TU,TU(B),Puccinellia capillaris (Lilj.) Jansen
+5067991748,gbif,2,typical,train,Univesity of New Hampshire,NHA,Euonymus fortunei (Turcz.) Hand.-Mazz.
+2859013191,gbif,2,typical,train,CM,botany,Najas flexilis (Willd.) Rostk. & W.L.E.Schmidt
+2859025586,gbif,2,typical,train,CM,botany,Pistia stratiotes L.
+1844413260,gbif,2,typical,val,BOON,,Tillandsia recurvata (L.) L.
+3352097442,gbif,2,typical,test,"The State Museum-Preserve ""The Kulikovo pole""",KULPOL,Bistorta officinalis subsp. officinalis
+5105500810,gbif,2,typical,train,Samara National Research University,SMR,Polypodium vulgare L.
+2859306529,gbif,2,typical,train,CM,botany,Colocasia esculenta (L.) Schott
+2859282573,gbif,2,typical,train,CM,botany,Dieffenbachia maculata (Lodd.) G.Don
+3470662663,gbif,2,typical,test,CAU,,Larrea tridentata (DC.) Coville
+4998486950,gbif,2,typical,val,SPF,Herbarium,"Turnera capitata A.St.-Hil., Juss. & Cambess."
+1986960172,gbif,2,typical,train,USU,UTC,Ginkgo biloba L.
+2859280589,gbif,2,typical,train,CM,botany,Alocasia macrorrhizos (L.) G.Don
+4519462088,gbif,2,typical,train,USM,Herbarium,Dalea smithii J.F.Macbr.
+2859225212,gbif,2,typical,train,CM,botany,Nicotiana tabacum L.
+2859304575,gbif,2,typical,test,CM,botany,Alocasia macrorrhizos (L.) G.Don
+2859220405,gbif,2,typical,val,CM,botany,Philodendron leyvae García-Barr.
+1417513432,gbif,2,typical,train,UdeM,MT,Degeneria vitiensis L.W.Bailey & A.C.Sm.
+4866715921,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+1657203638,gbif,2,typical,test,GZU,Herbarium GZU,Solanum indicum var. pubescens Dunal
+2859025333,gbif,2,typical,train,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+2859308555,gbif,2,typical,test,CM,botany,Monstera deliciosa Liebm.
+1986957516,gbif,2,typical,val,USU,UTC,Calathea lutea (Aubl.) E.Mey. ex Schult.
+3734049864,gbif,2,typical,train,Kuzbass Botanical Garden,KUZ,Aconitum volubile Pall.
+2859025590,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+4519458007,gbif,2,typical,val,USM,Herbarium,Weberbauerella raimondiana Ferreyra
+3028992078,gbif,2,typical,train,JE,Herbarium Haussknecht JE,Hypericum olympicum L.
+3734048711,gbif,2,typical,test,Kuzbass Botanical Garden,KUZ,"Asplenium cuneifolium subsp. woronowii (Christ) Reichst., Viane, Rasbach & Schneller"
+2418603344,gbif,2,typical,train,BRI,Herbrecs,Galbulimima baccata F.M.Bailey
+3762951447,gbif,2,typical,test,Weber State University,WSCO,Calochortus nuttallii Torr.
+2859020602,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+2859305704,gbif,2,typical,train,CM,botany,Homalomena Schott
+3091301182,gbif,2,typical,train,ASC,,Eucnide urens (Parry ex A.Gray) Parry
+2859388217,gbif,2,typical,train,CM,botany,Berberis thunbergii var. atropurpurea Chenault
+5067992756,gbif,2,typical,test,Univesity of New Hampshire,NHA,Euonymus fortunei (Turcz.) Hand.-Mazz.
+2234623501,gbif,2,typical,test,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4858725673,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Poranthera ericifolia Rudge
+4519446356,gbif,2,typical,train,HUEFS,Herbarium,Anamaria heterophylla (Giul. & V.C.Souza) V.C.Souza
+4926614314,gbif,2,typical,train,SMNH-NASU,LWS,Drosera rotundifolia L.
+4925661746,gbif,2,typical,train,GDRC,,Darlingtonia californica Torr.
+2859470029,gbif,2,typical,train,CM,botany,Sinningia Nees
+2430684494,gbif,2,typical,train,USCH,MAIN,Pyracantha coccinea M.Roem.
+2981277915,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Myriophyllum sibiricum Kom.
+2981277035,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Frankenia pomonensis Pohnert
+3395223437,gbif,2,typical,train,Weber State University,WSCO,Alisma gramineum Lej.
+5900597336,gbif,2,typical,val,HACAM,HACAM,Alternanthera brasiliana (L.) Kuntze
+3744703115,gbif,2,typical,train,UNA,,Magnolia macrophylla Michx.
+1701563292,gbif,2,typical,train,TRH,V,Salix pentandra L.
+4035424478,gbif,2,typical,train,HIFP,HIFP,Schefflera wallichiana (Wight & Arn.) Harms
+4850291120,gbif,2,typical,val,MU,,Eberhardtia aurata (Pierre ex Dubard) Lecomte
+4977555301,gbif,2,typical,train,MISC-993,Herbarium,"Curculigo konkanensis Chandore, Mane & Borude, 2023"
+3001125616,gbif,2,typical,test,TAM,TAM,Prunus spinosa L.
+4443261774,gbif,2,typical,val,UT,Botany,Sciadopitys verticillata (Thunb.) Siebold & Zucc.
+5070870506,gbif,2,typical,train,MARY,,Limonium carolinianum (Walter) Britton
+1986867187,gbif,2,typical,train,USU,UTC,Veronica arvensis L.
+5053431809,gbif,2,typical,val,STNF,,Athyrium distentifolium var. americanum (Butters) B.Boivin
+4986959430,gbif,2,typical,test,UdeM,MT,Montrichardia arborescens (L.) Schott
+3091300836,gbif,2,typical,val,ASC,,Fouquieria splendens Engelm.
+2234622065,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+2234623748,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+2859307602,gbif,2,typical,train,CM,botany,Anthurium lancetillense Croat
+5214733318,gbif,2,typical,test,GJO,Herbarium GJO,Pterocladia pinnata (Huds.) Papenf.
+2270289556,gbif,2,typical,train,UCSB,,Odontostomum hartwegii Torr.
+2859078994,gbif,2,typical,val,CM,botany,Gomphrena globosa L.
+1078830303,gbif,2,typical,test,TUB,TUBvplantscoll,Misopates orontium (L.) Raf.
+4443251475,gbif,2,typical,train,UT,Botany,Lycopodium clavatum L.
+2859019363,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2859304371,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+5904914503,gbif,2,typical,train,MSB-3049,Herbarium,Lampranthus falciformis (Haw.) N.E.Br.
+2859280555,gbif,2,typical,train,CM,botany,Philodendron imbe Schott ex Endl.
+4929795850,gbif,2,typical,test,UNLV,,Castilleja miniata Douglas ex Hook.
+4067757654,gbif,2,typical,val,MCA,,Woodwardia areolata (L.) T.Moore
+2418913296,gbif,2,typical,train,BRI,Herbrecs,Polystichum formosum Tindale
+1987014527,gbif,2,typical,test,USU,UTC,Turnera diffusa Willd. ex Schult.
+5067989766,gbif,2,typical,train,Univesity of New Hampshire,NHA,Euonymus fortunei (Turcz.) Hand.-Mazz.
+5053431673,gbif,2,typical,train,STNF,,Solanum parishii A.Heller
+3744543304,gbif,2,typical,val,Utah Tech University,UTU,Amaranthus paniculatus L.
+4858684051,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Kochia laniflora (S.G.Gmel.) Borbás
+1986868930,gbif,2,typical,train,RENO,V,Nemacladus sigmoideus G.T.Robbins
+2859175143,gbif,2,typical,test,CM,botany,Acer palmatum var. dissectum (Thunb.) Miq.
+4020850357,gbif,2,typical,val,"The Tula Region State Institution of Culture ""Tula Museum Association""",TKM,Phacelia tanacetifolia Benth.
+899784188,gbif,2,typical,train,MSB,MSBvplantscoll,Tiquilia ferreyrae (I.M.Johnst.) A.T.Richardson
+4866715304,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3470663730,gbif,2,typical,train,CAU,,Magnolia virginiana L.
+2242395652,gbif,2,typical,train,DBG,KHD,Anthurium dolichostachyum Sodiro
+4067759590,gbif,2,typical,train,MCA,,Polypodium pectinatum L.
+1849120329,gbif,2,typical,test,USCH,MAIN,Magnolia tripetala (L.) L.
+2418930310,gbif,2,typical,train,BRI,Herbrecs,Batis argillicola Royen
+3696547440,gbif,2,typical,train,UCSB,,"Chondracanthus spinosus (Kützing) Guiry, 1993"
+4948980430,gbif,2,typical,val,NAU,,Fagonia laevis Standl.
+5922530358,gbif,2,typical,train,S,VascularPlants,Cryptogramma stelleri (S.G.Gmel.) Prantl
+5070879080,gbif,2,typical,train,MARY,,Hypolepis repens J.Sm.
+3855116890,gbif,2,typical,train,DR,Herbarium Dresdense,Zamia media Jacq.
+2859019537,gbif,2,typical,train,CM,botany,Alocasia zebrina Schott ex Van Houtte
+2461263437,gbif,2,typical,train,Weber State University,WSCO,"Scirpus acutus Willd. ex Kunth, 1837"
+4519456997,gbif,2,typical,train,USM,Herbarium,Dalea smithii J.F.Macbr.
+2859019358,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2859105309,gbif,2,typical,train,CM,botany,Begonia L.
+5067925749,gbif,2,typical,train,University of New Hampshire,NHA,Impatiens capensis Meerb.
+2859020582,gbif,2,typical,train,CM,botany,Philodendron bipinnatifidum Schott ex Endl.
+2859471015,gbif,2,typical,train,CM,botany,Sinningia Nees
+3898511029,gbif,2,typical,val,Mohonk Preserve,DSRC,Sciadopitys verticillata (Thunb.) Siebold & Zucc.
+2242392120,gbif,2,typical,train,DBG,KHD,Anthurium watermaliense L.H.Bailey & Nash
+3751306376,gbif,2,typical,train,UHM,HAW-A,Amphiroa anceps (Lam.) Decne.
+2461263344,gbif,2,typical,train,Weber State University,WSCO,Tradescantia occidentalis (Britton) Smyth
+1849178013,gbif,2,typical,train,USCH,MAIN,Magnolia macrophylla Michx.
+2242406290,gbif,2,typical,test,DBG,KHD,Carya illinoinensis (Wangenh.) K.Koch
+1844415024,gbif,2,typical,train,BOON,,Streptopus lanceolatus (Aiton) Reveal
+1986868693,gbif,2,typical,train,RENO,V,Aliciella monoensis J.M.Porter & A.G.Day
+2564275066,gbif,2,typical,train,MACF,,Habenaria dilatata var. leucostachys (Lindl.) Ames
+2234623554,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+1078815684,gbif,2,typical,test,TUB,TUBvplantscoll,Diosma oppositifolia L.
+4926612668,gbif,2,typical,train,SMNH-NASU,LWS,Ornithogalum umbellatum L.
+2859161537,gbif,2,typical,test,CM,botany,Euonymus fortunei (Turcz.) Hand.-Mazz.
+3091261920,gbif,2,typical,test,ASC,,Nelumbo lutea Willd.
+4948980339,gbif,2,typical,train,NAU,,Phacelia crenulata Torr. ex S.Watson
+2859279558,gbif,2,typical,train,CM,botany,Aglaonema commutatum Schott
+4977459212,gbif,2,typical,train,UERJ,HRJ,Pterocarpus rohrii Vahl
+2270253017,gbif,2,typical,train,UCSB,,Anemopsis californica (Nutt.) Hook. & Arn.
+3757680498,gbif,2,typical,test,TUR,,Acer platanoides L.
+5904910351,gbif,2,typical,train,MSB-3159,Herbarium,Sisyndite spartea E.Mey. ex Sond.
+1699822969,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Magnolia pealiana King
+5068009551,gbif,2,typical,train,University of New Hampshire,NHA,Triphasia trifolia (Burm.fil.) P.Wilson
+4900707551,gbif,2,typical,train,MU,,Selaginella arbuscula (Kaulf.) Spring
+3898510143,gbif,2,typical,train,Mohonk Preserve,DSRC,Sarracenia purpurea L.
+4535509964,gbif,2,typical,train,PNH,Herbarium,Oryza sativa L.
+2876007813,gbif,2,typical,val,ERE,Herbarium ERE,Sambucus tigranii Troitsky
+4067756721,gbif,2,typical,train,MCA,,Gentiana crinita Froel.
+2859418115,gbif,2,typical,train,CM,botany,Sophora japonica L.
+1057144274,gbif,2,typical,val,NHMUK,BOT,Osyris lanceolata Hochst. & Steud.
+3734048684,gbif,2,typical,train,Kuzbass Botanical Garden,KUZ,Sceptridium multifidum (S.G.Gmel.) M.Nishida ex Tagawa
+4536643715,gbif,2,typical,val,DUKE,,Magnolia macrophylla Michx.
+2859283561,gbif,2,typical,train,CM,botany,Zantedeschia albomaculata (Hook.) Baill.
+1699833364,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Stylobasium lineare Nees
+3041578435,gbif,2,typical,test,UdeM,MT,Nuphar variegata Engelm. ex Durand
+2234623970,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+5072733733,gbif,2,typical,train,PEMB,,Clethra alnifolia L.
+5077516001,gbif,2,typical,test,WIS,,Monotropa hypopitys var. americana (DC.) Domin
+63859422,gbif,2,typical,train,BRM,AWI-Herbarium Marine Macroalgae,Ahnfeltia plicata (Huds.) Fr.
+1699825607,gbif,2,typical,test,HBG,HBGSpermatophyta - Herbarium Hamburgense,Ochna holstii Engl.
+2234622437,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+2859306547,gbif,2,typical,test,CM,botany,Aglaonema commutatum Schott
+2859235041,gbif,2,typical,train,CM,botany,Heliotropium peruvianum L.
+4977571250,gbif,2,typical,train,MISC-993,Herbarium,Pinda shrirangii Gosavi & Chandore
+2859307674,gbif,2,typical,test,CM,botany,Philodendron schmidtiae Croat & Cerón
+3886959589,gbif,2,typical,train,HTTU,,Woodsia scopulina D.C.Eaton
+1701915451,gbif,2,typical,train,O,O-V,Viola palustris L.
+4986795929,gbif,2,typical,train,SPF,Herbarium,Heliotropium funkiae Feuillet
+5956733691,gbif,2,typical,train,IWEP FEB RAS,KHA,Linaria vulgaris Mill.
+1077080744,gbif,2,typical,train,REG,REGvplantscoll,Viscum nervosum Hochst.
+2859025740,gbif,2,typical,train,CM,botany,Acorus gramineus Aiton
+5067990762,gbif,2,typical,train,Univesity of New Hampshire,NHA,Celastrus scandens L.
+4116763733,gbif,2,typical,train,GMS,,Schimmelmannia plumosa
+2859465340,gbif,2,typical,train,CM,botany,Impatiens sultani Hook.fil.
+4519443525,gbif,2,typical,train,PERTH,Herbarium,Leucopogon spectabilis Hislop & A.R.Chapm.
+5132708823,gbif,2,typical,train,K,Herbarium,Magnolia persuaveolens subsp. rigida Noot.
+5070870541,gbif,2,typical,val,MARY,,Tamarix parviflora DC.
+4926614354,gbif,2,typical,test,SMNH-NASU,LWS,Typha shuttleworthii W.D.J.Koch & Sond.
+2876004221,gbif,2,typical,val,ERE,Herbarium ERE,Verbascum hajastanicum Bordz.
+4519451421,gbif,2,typical,train,HUEFS,Herbarium,Vellozia pyrantha A.A.Conc.
+3459803320,gbif,2,typical,test,TUR-A,,Goodyera repens (L.) R.Br.
+5956732626,gbif,2,typical,val,IWEP FEB RAS,KHA,Linaria vulgaris Mill.
+3411479385,gbif,2,typical,test,NY,NY,Pinus merkusii Jungh. & de Vriese
+2859101008,gbif,2,typical,train,CM,botany,Populus grandidentata Michx.
+2859021361,gbif,2,typical,train,CM,botany,Xanthosoma poeppigii Schott
+2270273112,gbif,2,typical,val,UCSB,,Ribes montigenum McClatchie
+2461262629,gbif,2,typical,train,Weber State University,WSCO,Zigadenus elegans Pursh
+694847072,gbif,2,typical,test,MSB,MSBvplantscoll,Linaria salangensis Podlech & Iranshahr
+4511673302,gbif,2,typical,val,Utah Tech University,UTU,Impatiens capensis Meerb.
+4519443361,gbif,2,typical,test,HUEFS,Herbarium,Krameria bahiana B.B.Simpson
+2859280588,gbif,2,typical,val,CM,botany,Amorphophallus konjac K.Koch
+1321121353,gbif,2,typical,train,US,US,Endocladia muricata (Endlichter) J.Agardh
+5904915990,gbif,2,typical,train,MSB-3049,Herbarium,Cyanella hyacinthoides Royen ex L.
+5912077151,gbif,2,typical,train,HAW,,Clematis pickeringii A.Gray
+2234624435,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+1457787177,gbif,2,typical,train,UF,,Magnolia macrophylla var. ashei (Weath.) D.L.Johnson
+3863213629,gbif,2,typical,train,PI,Herbarium Horti Botanici Pisani (PI),Saurauia macrophylla Linden
+2234622125,gbif,2,typical,test,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+3091206358,gbif,2,typical,train,ASC,,Opuntia basilaris var. basilaris
+1935728351,gbif,2,typical,test,GJO,Herbarium GJO,Triglochin palustre L.
+1935688151,gbif,2,typical,train,GJO,Herbarium GJO,Euphorbia dulcis L.
+2425463969,gbif,2,typical,train,GBS RAN - Glavny Botanichesky Sad Rossijskoj Akademii Nauk,MHA,Echinocystis lobata (Michx.) Torr. & A.Gray
+1935719005,gbif,2,typical,train,GJO,Herbarium GJO,Ruppia cirrhosa (Petagna) Grande
+2859499994,gbif,2,typical,train,CM,botany,Melissa officinalis L.
+3435888466,gbif,2,typical,train,TUR,,Acanthophyllum bracteatum Boiss.
+3344469967,gbif,2,typical,test,CLEMS,,Magnolia macrophylla Michx.
+5904912296,gbif,2,typical,train,MSB-3054,Herbarium,Utricularia bisquamata Schrank
+2242389347,gbif,2,typical,val,DBG,KHD,Erysimum asperum (Nutt.) DC.
+4850291249,gbif,2,typical,test,MU,,Limonium suffruticosum (L.) Kuntze
+4095564421,gbif,2,typical,train,MACF,,Chilopsis linearis (Cav.) Sweet
+1319262536,gbif,2,typical,train,US,US,"Passiflora suberosa subsp. litoralis (Kunth) Port.-Utl. ex M.A.M.Azevedo, Baumgratz & Gonç.-Estev."
+1055633705,gbif,2,typical,train,NHMUK,BOT,"Brunellia almaquerensis Cuatrec., 1970"
+2859281600,gbif,2,typical,test,CM,botany,Zamioculcas zamiifolia (G.Lodd.) Engl.
+1986869273,gbif,2,typical,train,RENO,V,Juncus longistylis Torr.
+3450084043,gbif,2,typical,val,Kuzbass Botanical Garden,KUZ,Epilobium montanum L.
+5067988756,gbif,2,typical,val,Univesity of New Hampshire,NHA,Euonymus fortunei (Turcz.) Hand.-Mazz.
+2859021544,gbif,2,typical,val,CM,botany,Spathiphyllum wallisii Regel
+1319749580,gbif,2,typical,val,US,US,Ancistrocladus heyneanus Wall. ex J.Graham
+3744720892,gbif,2,typical,train,UNA,,Magnolia grandiflora L.
+5068050795,gbif,2,typical,train,Keene State University,KESC,Claytosmunda claytoniana (L.) Metzgar & Rouhan
+4866716072,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2859280540,gbif,2,typical,train,CM,botany,Xanthosoma Schott
+3798108685,gbif,2,typical,train,CS,,Carex foenea Willd.
+3898510202,gbif,2,typical,train,Mohonk Preserve,DSRC,Ilex verticillata (L.) A.Gray
+2859304534,gbif,2,typical,test,CM,botany,Colocasia esculenta (L.) Schott
+5904915077,gbif,2,typical,test,MSB-3159,Herbarium,Leipoldtia schultzei (Schltr. & Diels) Friedrich
+2859020529,gbif,2,typical,test,CM,botany,Zantedeschia aethiopica (L.) Spreng.
+4905595224,gbif,2,typical,train,AWC,,Erodium cicutarium (L.) L'Hér. ex Aiton
+2859306367,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+4853808370,gbif,2,typical,train,UFG,Herbarium,Croton macrosepalus Sodré & M.J.Silva
+3969688867,gbif,2,typical,test,BRIT,BRIT,Diapensia purpurea Diels
+1844418898,gbif,2,typical,val,BOON,,Sassafras albidum (Nutt.) Nees
+2859307526,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+4862951301,gbif,2,typical,train,TUR-A,,Erodium cicutarium (L.) L'Hér.
+3091235513,gbif,2,typical,train,ASC,,Quercus ajoensis C.H.Mull.
+5904908367,gbif,2,typical,train,MSB-3049,Herbarium,Diospyros glabra (L.) De Winter
+2242412768,gbif,2,typical,train,DBG,KHD,Calceolaria tripartita Ruiz & Pav.
+2234623563,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+5956730032,gbif,2,typical,train,IWEP FEB RAS,KHA,Veronicastrum sibiricum (L.) Pennell
+3978741030,gbif,2,typical,train,BAYLU,BAYLU,Pyxidanthera barbulata var. brevifolia (Wells) H.E.Ahles
+1986868502,gbif,2,typical,train,RM,UTC,Diplacus fremontii (Benth.) G.L.Nesom
+3041582440,gbif,2,typical,val,UdeM,MT,Celastrus scandens L.
+1038978450,gbif,2,typical,train,YPM,YU,Pontederia cordata L.
+2859026527,gbif,2,typical,val,CM,botany,Cercestis mirabilis (N.E.Br.) Bogner
+2859021364,gbif,2,typical,test,CM,botany,Xanthosoma sagittifolium (L.) Schott
+4519453023,gbif,2,typical,train,USM,Herbarium,Malesherbia tubulosa (Cav.) J.St.-Hil.
+4066820068,gbif,2,typical,train,B,Herbarium Berolinense,Rockhausenia apiculata (Sch.Bip.) D.J.N.Hind
+2234623486,gbif,2,typical,test,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+1320075218,gbif,2,typical,val,US,US,Ulvaria splendens (Rupr.) K.L.Vinogr.
+1077070617,gbif,2,typical,train,REG,REGvplantscoll,Cephalaria longifolia E.Mey.
+2859307714,gbif,2,typical,train,CM,botany,Spathiphyllum Schott
+912152086,gbif,2,typical,train,K,Herbarium,Talinum triangulare (Jacq.) Willd.
+2859412143,gbif,2,typical,train,CM,botany,Hyacinthus orientalis L.
+4858672266,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Equisetum arvense L.
+1321717823,gbif,2,typical,test,US,US,Campynema neocaledonicum Rendle
+2859027539,gbif,2,typical,train,CM,botany,Anthurium crystallinum Linden & André
+2859375156,gbif,2,typical,train,CM,botany,Tulipa L.
+3744720955,gbif,2,typical,train,UNA,,Magnolia macrophylla Michx.
+4035430480,gbif,2,typical,train,HIFP,HIFP,Sphenoclea zeylanica Gaertn.
+2981274211,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Combretum kraussii Hochst.
+5105499393,gbif,2,typical,val,Samara National Research University,SMR,Asparagus officinalis L.
+2234622100,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4008137984,gbif,2,typical,train,Tula State University,TULGU,Cornus alba L.
+2452286691,gbif,2,typical,test,US,US,Gisekia africana (Lour.) Kuntze
+4008137426,gbif,2,typical,test,Tula State University,TULGU,Sparganium erectum L.
+1987012157,gbif,2,typical,test,USU,UTC,Yucca rostrata Engelm. ex Trel.
+4519460994,gbif,2,typical,train,USM,Herbarium,Malesherbia tubulosa (Cav.) J.St.-Hil.
+2859119174,gbif,2,typical,train,CM,botany,Tulipa L.
+2859306535,gbif,2,typical,train,CM,botany,Anthurium bakeri Hook.f.
+4929774238,gbif,2,typical,test,UNLV,,Acer macrophyllum Pursh
+2859229027,gbif,2,typical,train,CM,botany,Lacistema aggregatum (P.J.Bergius) Rusby
+3357405726,gbif,2,typical,val,GMUF,Plants,Magnolia tripetala (L.) L.
+2859404219,gbif,2,typical,train,CM,botany,Ficus L.
+4067776010,gbif,2,typical,train,MCA,,Cedrela sinensis A.Juss.
+3922433322,gbif,2,typical,test,TUR,,Phlegmariurus taxifolius (Sw.) Á.Löve & D.Löve
+3898510602,gbif,2,typical,train,Mohonk Preserve,DSRC,Epipactis helleborine (L.) Crantz
+2464693668,gbif,2,typical,test,USF,Herb,Magnolia fraseri Walter
+4511673301,gbif,2,typical,train,Utah Tech University,UTU,Impatiens pallida Nutt.
+2859024587,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+1211187446,gbif,2,typical,train,UdeM,MT,Nuphar variegata Engelm. ex Durand
+4519467068,gbif,2,typical,train,USM,Herbarium,Hoffmannseggia prostrata Lag. ex DC.
+2859027376,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3886963147,gbif,2,typical,train,HTTU,,Croton glandulosus L.
+4977457996,gbif,2,typical,train,UERJ,HRJ,Casearia commersoniana Cambess.
+5067944553,gbif,2,typical,train,University of New Hampshire,NHA,Malva sylvestris L.
+5004468457,gbif,2,typical,val,W,Herbarium W,Hypodematium chrysolepis (Fée) X.P.Fan & Li Bing Zhang
+5072733732,gbif,2,typical,train,PEMB,,Helianthemum canadense (L.) Michx.
+4067760666,gbif,2,typical,test,MCA,,Taenidia integerrima (L.) Drude
+1998369372,gbif,2,typical,test,GH,GH,Magnolia ashei Weath.
+2859287136,gbif,2,typical,train,CM,botany,Adiantum petiolatum Desv.
+2859295417,gbif,2,typical,train,CM,botany,Pinus nigra J.F.Arnold
+2832013307,gbif,2,typical,train,CHR,CHR,Tectaria kouniensis Brownlie
+4858728601,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Parnassia palustris L.
+4953323068,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Bupleurum schimperi Boiss.
+5904910210,gbif,2,typical,train,MSB-3049,Herbarium,Phylica pinea Thunb.
+4854174352,gbif,2,typical,test,TUR-A,,Rosa acicularis Lindl.
+3855117253,gbif,2,typical,train,DR,Herbarium Dresdense,Cephalotaxus harringtonia (Knight ex J.Forbes) K.Koch
+5003487899,gbif,2,typical,val,HACAM,HACAM,Xiquexique gounellei (F.A.C.Weber ex K.Schum.) Lavor & Calvente
+2859304547,gbif,2,typical,val,CM,botany,Anthurium hookeri Kunth
+2859025569,gbif,2,typical,test,CM,botany,Xanthosoma Schott
+2859020551,gbif,2,typical,train,CM,botany,Spathiphyllum wallisii Regel
+4905595736,gbif,2,typical,test,AWC,,Aristolochia watsonii Wooton & Standl.
+4953324716,gbif,2,typical,train,HBG,HBGSpermatophyta - Herbarium Hamburgense,Limeum fenestratum (Fenzl) Heimerl
+2859386812,gbif,2,typical,test,CM,botany,Caulophyllum thalictroides (L.) Michx.
+4035436803,gbif,2,typical,train,HIFP,HIFP,Symingtonia populnea (R.Br. ex Griff.) Steenis
+3450085992,gbif,2,typical,train,Kuzbass Botanical Garden,KUZ,Daphne mezereum L.
+694846952,gbif,2,typical,val,MSB,MSBvplantscoll,Fessia parwanica (Speta) Speta
+5209430870,gbif,2,typical,test,YAV,,Chelidonium majus L.
+4443268370,gbif,2,typical,train,UT,Botany,Elodea canadensis Michx.
+1702164122,gbif,2,typical,train,O,O-V,Scheuchzeria palustris L.
+5904915143,gbif,2,typical,test,MSB-3159,Herbarium,Senegalia mellifera subsp. detinens (Burch.) Kyal. & Boatwr.
+4519445310,gbif,2,typical,train,HUEFS,Herbarium,Euphorbia goyazensis Boiss.
+1024641083,gbif,2,typical,test,UdeM,MT,Homalosorus pycnocarpos (Spreng.) Pic.Serm.
+4902837332,gbif,2,typical,val,TMP,,Pilularia globulifera L.
+1039024384,gbif,2,typical,train,YPM,YU,Limonium carolinianum (Walter) Britton
+4132070522,gbif,2,typical,train,UdeM,MT,Begonia lubbersii É.Morren
+2859325943,gbif,2,typical,train,CM,botany,Talinum triangulare (Jacq.) Willd.
+2858719301,gbif,2,typical,val,TRH,V,Triglochin maritima L.
+3470663634,gbif,2,typical,train,CAU,,Silene stellata (L.) Aiton
+2859497097,gbif,2,typical,train,CM,botany,Lasimorpha senegalensis Schott
+2859072757,gbif,2,typical,val,CM,botany,Claytonia caroliniana Michx.
+912420380,gbif,2,typical,test,K,Herbarium,Lygodium longifolium (Willd.) Sw.
+3470668915,gbif,2,typical,val,CAU,,Melia azedarach L.
+3744542645,gbif,2,typical,train,Weber State University,WSCO,Nothofagus menziesii (Hook.f.) Oerst.
+5162433449,gbif,2,typical,train,BG,S,Eriocaulon aquaticum (Hill) Druce
+4986785931,gbif,2,typical,val,SPF,Herbarium,Justicia brasiliana Roth
+2859022529,gbif,2,typical,val,CM,botany,Caladium bicolor (Aiton) Vent.
+5072730720,gbif,2,typical,train,PEMB,,Thelypteris kunthii (Desv.) C.V.Morton
+2265933035,gbif,2,typical,train,DUL,,Rhamnus lanceolata Pursh
+3340051434,gbif,2,typical,train,TTC,,Onoclea sensibilis L.
+3091203409,gbif,2,typical,train,ASC,,Acer macrophyllum Pursh
+2640543533,gbif,2,typical,train,NCU,Vascular Plants,Magnolia fraseri Walter
+4858676483,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Liquidambar styraciflua L.
+3813138727,gbif,2,typical,val,UdeM,MT,Philodendron melanochrysum Linden & André
+4858693484,gbif,2,typical,train,Uniwersytet Warszawski,UW: Flora Polonica i Herbarium Generale,Pterandra pyroidea A.Juss.
+2859472105,gbif,2,typical,train,CM,botany,Ocimum basilicum L.
+1078801632,gbif,2,typical,test,TUB,TUBvplantscoll,Cissus schimperi Hochst. ex A.Rich.
+2234622509,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+1844419141,gbif,2,typical,val,BOON,,Gentiana austromontana J.S.Pringle & Sharp
+912668489,gbif,2,typical,train,K,Herbarium,Bowdichia virgilioides Kunth
+2859472984,gbif,2,typical,train,CM,botany,Ocimum basilicum L.
+4905329443,gbif,2,typical,train,TMP,,Thuja occidentalis L.
+4987948346,gbif,2,typical,train,ILL,,Prionitis lanceolata
+2859307369,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2242392577,gbif,2,typical,test,DBG,KHD,Philodendron gloriosum André
+2234621029,gbif,2,typical,val,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+5904914802,gbif,2,typical,test,MSB-3054,Herbarium,Triglochin bulbosa subsp. bulbosa
+2859403186,gbif,2,typical,train,CM,botany,Quercus macrocarpa Michx.
+5832508342,gbif,2,typical,test,HACAM,HACAM,Dendropanax cuneatus (DC.) Decne. & Planch.
+1989991131,gbif,2,typical,train,TENN,,Magnolia tripetala (L.) L.
+4443324085,gbif,2,typical,test,UT,Botany,Cercidiphyllum japonicum Siebold & Zucc.
+3913399042,gbif,2,typical,train,B,Herbarium Berolinense,Parnassia trinervis Drude
+1077080331,gbif,2,typical,train,REG,REGvplantscoll,Protea effusa E.Mey. ex Meisn.
+5105488349,gbif,2,typical,val,TRH,V,Dillenia philippinensis Rolfe
+4525459640,gbif,2,typical,train,PRC,Herbarium PRC,Carex transsilvanica Schur
+2234623606,gbif,2,typical,val,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4877459132,gbif,2,typical,train,TMP,,Borago officinalis L.
+2859025533,gbif,2,typical,train,CM,botany,Anthurium andraeanum Linden
+3855124539,gbif,2,typical,train,DR,Herbarium Dresdense,Dicranopteris linearis (Burm.fil.) Underw.
+4903560927,gbif,2,typical,train,CHR,CHR,Calorophus ater L.A.S.Johnson & B.G.Briggs
+5209430679,gbif,2,typical,test,YAV,,Chamaecyparis lawsoniana (A.Murray bis) Parl.
+2859306562,gbif,2,typical,train,CM,botany,Aglaonema modestum Schott ex Engl.
+1211190722,gbif,2,typical,train,UdeM,MT,Buxus marginalis (Britton) Urb.
+3707757364,gbif,2,typical,test,MMNS,,Magnolia tripetala (L.) L.
+4866716074,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2859019579,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+2876009566,gbif,2,typical,train,ERE,Herbarium ERE,Corispermum komarovii Iljin
+5937531609,gbif,2,typical,train,SMM,Plant,Lithospermum canescens (Michx.) Lehm.
+2859499904,gbif,2,typical,train,CM,botany,Viburnum dilatatum Thunb.
+3451222303,gbif,2,typical,train,TUR-A,,Kalmia angustifolia L.
+5904910288,gbif,2,typical,train,MSB-3054,Herbarium,Clutia laxa Eckl. ex Sond.
+1849100133,gbif,2,typical,train,USCH,MAIN,Colocasia esculenta (L.) Schott
+2611613318,gbif,2,typical,test,W,Herbarium W,Crataegus rhipidophylla Gand.
+3744720935,gbif,2,typical,test,UNA,,Magnolia macrophylla Michx.
+4102157858,gbif,2,typical,train,BRIT,VDB,Magnolia macrophylla Michx.
+2234623070,gbif,2,typical,test,NCU,Vascular Plants,Magnolia fraseri Walter
+2859113544,gbif,2,typical,train,CM,botany,Bixa orellana L.
+1986868840,gbif,2,typical,val,RENO,V,Calyptridium roseum S.Watson
+2859024536,gbif,2,typical,val,CM,botany,Amorphophallus konjac K.Koch
+2859147434,gbif,2,typical,train,CM,botany,Glossopetalon nevadense A.Gray
+1039005300,gbif,2,typical,train,YPM,YU,Synapsis ilicifolia Griseb.
+3091259225,gbif,2,typical,val,ASC,,Tropaeolum majus L.
+4035437295,gbif,2,typical,train,HIFP,HIFP,Dicranopteris linearis (Burm.fil.) Underw.
+2859128280,gbif,2,typical,test,CM,botany,Liriodendron tulipifera L.
+2859307547,gbif,2,typical,val,CM,botany,Alocasia macrorrhizos (L.) G.Don
+4854207467,gbif,2,typical,train,TUR,,Drosera rotundifolia L.
+2859026361,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3744542534,gbif,2,typical,train,Weber State University,WSCO,Ostrya virginiana (Mill.) K.Koch
+2234623069,gbif,2,typical,test,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+3763004443,gbif,2,typical,train,B,Herbarium Berolinense,Peltanthera floribunda Benth.
+1989991662,gbif,2,typical,test,TENN,,Magnolia tripetala (L.) L.
+4905595744,gbif,2,typical,train,AWC,,Opuntia spinosior (Engelm.) Toumey
+2242369048,gbif,2,typical,train,DBG,KHD,Silene latifolia Poir.
+2859024519,gbif,2,typical,train,CM,botany,Anthurium andraeanum Linden
+5904911269,gbif,2,typical,test,MSB-3049,Herbarium,Rhigozum obovatum Burch.
+2859204253,gbif,2,typical,val,CM,botany,Borago officinalis L.
+1457792708,gbif,2,typical,train,UF,,Magnolia tripetala (L.) L.
+1987017384,gbif,2,typical,train,USU,UTC,Nama hispida A.Gray
+2859411163,gbif,2,typical,train,CM,botany,Tulipa L.
+5162382498,gbif,2,typical,train,BG,S,Liquidambar styraciflua L.
+2859024556,gbif,2,typical,test,CM,botany,Xanthosoma Schott
+1849144939,gbif,2,typical,train,USCH,MAIN,Magnolia tripetala (L.) L.
+5072732099,gbif,2,typical,train,PEMB,,Isoetes riparia Engelm. ex A.Braun
+1091101488,gbif,2,typical,test,CHR,CHR,Cyperus difformis L.
+3340047638,gbif,2,typical,train,TTC,,Platanus occidentalis L.
+5067996242,gbif,2,typical,train,University of New Hampshire,NHA,Nothofagus antarctica (G.Forst.) Oerst.
+2242391176,gbif,2,typical,train,DBG,KHD,Cephalotaxus harringtonia (Knight ex J.Forbes) K.Koch
+2859019362,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+4926610666,gbif,2,typical,train,SMNH-NASU,LWS,Allium schoenoprasum L.
+2859026601,gbif,2,typical,test,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+4948980340,gbif,2,typical,train,NAU,,Camissonia parvula (Nutt. ex Torr. & A.Gray) P.H.Raven
+4986965011,gbif,2,typical,val,UdeM,MT,Monstera deliciosa Liebm.
+1844411400,gbif,2,typical,train,BOON,,Juncus gymnocarpus Coville
+2859028518,gbif,2,typical,test,CM,botany,Anthurium scherzerianum Schott
+4535501967,gbif,2,typical,test,PNH,Herbarium,Oryza sativa L.
+2242403397,gbif,2,typical,test,DBG,KHD,Phyllanthus acidus (L.) Skeels
+5236129505,gbif,2,typical,val,K,Herbarium,Melinis minutiflora P.Beauv.
+1986868611,gbif,2,typical,val,Utah State University,UTC,Lotus utahensis Ottley
+5209430484,gbif,2,typical,train,YAV,,Chrysosplenium alternifolium L.
+4850378072,gbif,2,typical,val,K,Herbarium,Cucumis melo var. agrestis Naudin
+5072734233,gbif,2,typical,val,PEMB,,Agalinis tenuifolia (Vahl) Raf.
+3091239911,gbif,2,typical,train,ASU,Plants,Fendlera rupicola A.Gray
+2575402310,gbif,2,typical,train,UZH:Z,Z,Draba stylaris J.Gay ex W.D.J.Koch
+5070862369,gbif,2,typical,train,MARY,,Carya ovata (Mill.) K.Koch
+3037049778,gbif,2,typical,train,PRC,Herbarium PRC,Polypodium caesium C.Presl
+1844418042,gbif,2,typical,train,BOON,,Sambucus racemosa var. pubens (Michx.) Koehne
+5937533388,gbif,2,typical,test,SMM,Plant,Lobelia spicata Lam.
+2859130206,gbif,2,typical,val,CM,botany,Sisyrinchium angustifolium Mill.
+5209430442,gbif,2,typical,train,YAV,,Carex pilosa Scop.
+2234623368,gbif,2,typical,test,NCU,Vascular Plants,Magnolia acuminata (L.) L.
+2859025364,gbif,2,typical,val,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2859120911,gbif,2,typical,train,CM,botany,Fagus sylvatica L.
+2859021608,gbif,2,typical,train,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+5070880762,gbif,2,typical,val,MARY,,Dennstaedtia punctilobula (Michx.) T.Moore
+2859279578,gbif,2,typical,train,CM,botany,Syngonium Schott
+4519443954,gbif,2,typical,train,BOT,Herbarium,Moltkiopsis ciliata (Forssk.) I.M.Johnst.
+694846869,gbif,2,typical,train,MSB,MSBvplantscoll,Campanula ariana Podlech
+4535504956,gbif,2,typical,val,PNH,Herbarium,Oryza sativa L.
+5904915771,gbif,2,typical,train,MSB-3159,Herbarium,Deverra burchellii (DC.) Eckl. & Zeyh.
+1677436440,gbif,2,typical,train,RBGE,E,Magnolia tripetala (L.) L.
+2859016585,gbif,2,typical,train,CM,botany,Widdringtonia nodiflora (L.) Powrie
+5072733559,gbif,2,typical,train,PEMB,,Descurainia pinnata (Walter) Britton
+5904907791,gbif,2,typical,train,MSB-3054,Herbarium,Melianthus elongatus Wijnands
+5053431924,gbif,2,typical,train,STNF,,Streptopus amplexifolius var. americanus Schult. & Schult.f.
+3897281331,gbif,2,typical,train,CM,botany,Puya Molina
+2417008935,gbif,2,typical,train,GBS RAN - Glavny Botanichesky Sad Rossijskoj Akademii Nauk,MHA,Polygala amarella Crantz
+3769962550,gbif,2,typical,train,PI,Herbarium Horti Botanici Pisani (PI),Carica papaya L.
+2859026368,gbif,2,typical,train,CM,botany,Xanthosoma poeppigii Schott
+4134424351,gbif,2,typical,test,CM,botany,Symplocarpus foetidus (L.) Salisb. ex Nutt.
+2859413147,gbif,2,typical,train,CM,botany,Hyacinthus orientalis L.
+4067736703,gbif,2,typical,train,TAWES,,Staphylea trifolia L.
+2859377162,gbif,2,typical,test,CM,botany,Iris Tourn. ex L.
+4847586311,gbif,2,typical,train,TUR-A,,Thalictrum simplex L.
+2859261718,gbif,2,typical,train,CM,botany,Loxoma cunninghammii R.Br. & A.Cunn.
+2234623662,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+2859375157,gbif,2,typical,train,CM,botany,Tulipa L.
+3898511842,gbif,2,typical,val,Mohonk Preserve,DSRC,Potamogeton epihydrus Raf.
+3886937968,gbif,2,typical,train,HTTU,,Itea virginica L.
+1986868381,gbif,2,typical,train,Utah State University,UTC,Coronilla varia L.
+4519442035,gbif,2,typical,val,ICN,Herbarium,Monteiroa rubra Grings
+4906868331,gbif,2,typical,train,BOT,Herbarium,Mida fernandeziana (Phil.) Sprague & Summerh.
+4998484664,gbif,2,typical,val,SPF,Herbarium,Momordica charantia L.
+1024636216,gbif,2,typical,train,UdeM,MT,Alocasia odora (Lindl.) K.Koch
+2859411162,gbif,2,typical,train,CM,botany,Tulipa L.
+4905595878,gbif,2,typical,train,AWC,,Ailanthus altissima (Mill.) Swingle
+1024636205,gbif,2,typical,train,UdeM,MT,Anthurium upalaense Croat & R.A.Baker
+3091239720,gbif,2,typical,train,ASU,Plants,Eriogonum alatum Torr.
+1457814236,gbif,2,typical,val,UF,,Magnolia macrophylla var. ashei (Weath.) D.L.Johnson
+2859021588,gbif,2,typical,train,CM,botany,Amorphophallus konjac K.Koch
+4980087674,gbif,2,typical,train,NSW,NSW,Phytolacca octandra L.
+3751291514,gbif,2,typical,train,HAW,,Gnetum gnemon L.
+4980083431,gbif,2,typical,train,NSW,NSW,Polypremum procumbens L.
+2597550594,gbif,2,typical,train,W,Herbarium W,Euphorbia squamigera Loisel.
+2461262200,gbif,2,typical,test,Weber State University,WSCO,Ribes hudsonianum Richardson
+4929774199,gbif,2,typical,val,UNLV,,Quercus kelloggii Newb.
+5028828902,gbif,2,typical,val,UTC,UCHT,Mollugo verticillata L.
+2859024524,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+2859022452,gbif,2,typical,train,CM,botany,Eremospatha macrocarpa H.Wendl.
+5162378239,gbif,2,typical,test,BG,S,Rhopalocarpus similis Hemsl.
+3886937767,gbif,2,typical,test,HTTU,,Sarracenia alata (Alph.Wood) Alph.Wood
+5089881410,gbif,2,typical,train,K,Herbarium,Hydrostachys imbricata A.Juss.
+2859305538,gbif,2,typical,test,CM,botany,Philodendron gloriosum André
+5072730637,gbif,2,typical,train,PEMB,,Cabomba caroliniana A.Gray
+2859308536,gbif,2,typical,test,CM,botany,Zamioculcas zamiifolia (G.Lodd.) Engl.
+5904912052,gbif,2,typical,train,MSB-3159,Herbarium,Hirpicium echinus Less.
+1702158928,gbif,2,typical,train,O,O-V,Dryopteris affinis (Lowe) Fraser-Jenk.
+1657162645,gbif,2,typical,train,GZU,Herbarium GZU,Amaranthus graecizans L.
+1148627588,gbif,2,typical,val,,TALL,Magnolia acuminata (L.) L.
+4093556370,gbif,2,typical,train,GBS RAN - Glavny Botanichesky Sad Rossijskoj Akademii Nauk,MHA,Cannabis sativa var. ruderalis (Janisch.) S.Z.Liou
+2859281577,gbif,2,typical,train,CM,botany,Philodendron imbe Schott ex Endl.
+1986868342,gbif,2,typical,train,Utah State University,UTC,Pseudostellaria jamesiana (Torr.) W.A.Weber & R.L.Hartm.
+2265924711,gbif,2,typical,train,DUL,,Nama demissa A.Gray
+2859335523,gbif,2,typical,train,CM,botany,Amaranthus retroflexus L.
+5067989765,gbif,2,typical,train,Univesity of New Hampshire,NHA,Euonymus fortunei (Turcz.) Hand.-Mazz.
+3435185400,gbif,2,typical,train,TUR-A,,Hordeum vulgare L.
+2242392617,gbif,2,typical,val,DBG,KHD,Curcuma petiolata Roxb.
+2859412142,gbif,2,typical,train,CM,botany,Tulipa L.
+3029008734,gbif,2,typical,train,JE,Herbarium Haussknecht JE,Bergia ammannioides Roxb.
+1457761097,gbif,2,typical,train,UF,,Magnolia macrophylla var. ashei (Weath.) D.L.Johnson
+5070856041,gbif,2,typical,test,MARY,,Cornus stolonifera Michx.
+4442779301,gbif,2,typical,val,TUR-A,,Alisma plantago-aquatica L.
+2859028349,gbif,2,typical,test,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3881075669,gbif,2,typical,val,NHMUK,BOT,Peganum harmala L.
+2859417098,gbif,2,typical,train,CM,botany,Sophora japonica L.
+5072733008,gbif,2,typical,train,PEMB,,Nuphar lutea subsp. macrophylla (Small) Beal
+2859194234,gbif,2,typical,val,CM,botany,Koelreuteria paniculata Laxm.
+4986793463,gbif,2,typical,train,SPF,Herbarium,Parinari obtusifolium Hook.fil.
+2242389682,gbif,2,typical,train,DBG,KHD,Taxus baccata L.
+2859299273,gbif,2,typical,train,CM,botany,Aponogeton crispus Thunb.
+4925661728,gbif,2,typical,train,GDRC,,Pentagramma triangularis subsp. triangularis
+4535510970,gbif,2,typical,train,PNH,Herbarium,Oryza sativa L.
+2859377153,gbif,2,typical,train,CM,botany,Hyacinthus orientalis L.
+1317435697,gbif,2,typical,train,US,US,Krameria erecta Willd. ex Schult.
+5070849863,gbif,2,typical,train,MARY,,Isoetes engelmannii A.Braun
+3327456063,gbif,2,typical,test,PI,Herbarium Horti Botanici Pisani (PI),Drimys winteri J.R.Forst. & G.Forst.
+3751306372,gbif,2,typical,train,UHM,HAW-A,"Dasya naccarioides Harvey, 1844"
+2234622147,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4986803905,gbif,2,typical,train,SPF,Herbarium,Chamaecrista anfracta M.Cota & Rando
+2265960146,gbif,2,typical,train,DUL,,Ranunculus acris L.
+4535509967,gbif,2,typical,train,PNH,Herbarium,Oryza sativa L.
+4519450498,gbif,2,typical,train,PERTH,Herbarium,Leucopogon spectabilis Hislop & A.R.Chapm.
+5070893366,gbif,2,typical,test,MARY,,Utricularia biflora Hayata
+4904466761,gbif,2,typical,train,DBG,KHD,Paeonia brownii Douglas
+1848914763,gbif,2,typical,train,M-VascularPlants,BSMvplantscoll,Salvinia adnata Desv.
+3886956965,gbif,2,typical,train,HTTU,,Dirca palustris L.
+2859168984,gbif,2,typical,val,CM,botany,Melaleuca leucadendra (L.) L.
+1423908073,gbif,2,typical,val,JBRJ,RB,Trilepis lhotzkiana Nees ex Arn.
+4531542783,gbif,2,typical,train,Utah Tech University,UTU,Chilopsis linearis (Cav.) Sweet
+5283761257,gbif,2,typical,train,SPF,Herbarium,Lobelia hilaireana (Kanitz) E.Wimm.
+3091292974,gbif,2,typical,train,ASC,,Isoetes engelmannii A.Braun
+2562091320,gbif,2,typical,val,PI,Herbarium Horti Botanici Pisani (PI),Potamogeton pectinatus L.
+1657164395,gbif,2,typical,train,GZU,Herbarium GZU,Asphodeline rigidifolia var. foliosa Freyn & Sint.
+1986869430,gbif,2,typical,train,RENO,V,Eriophyllum lanatum var. achillaeoides (de Candolle) Jepson
+2234621996,gbif,2,typical,train,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+4511673323,gbif,2,typical,train,Utah Tech University,UTU,Epimedium pinnatum subsp. colchicum (Boiss.) N.Busch
+4926613262,gbif,2,typical,train,SMNH-NASU,LWS,Valeriana dioica subsp. simplicifolia (Rchb.) Nyman
+1078800836,gbif,2,typical,val,TUB,TUBvplantscoll,Celastrus serratus Hochst. ex A.Rich.
+5028849003,gbif,2,typical,train,UTC,UCHT,Tradescantia virginiana L.
+4948980525,gbif,2,typical,train,NAU,,Lupinus sparsiflorus Benth.
+5209430977,gbif,2,typical,val,YAV,,Veratrum lobelianum Bernh.
+5904908700,gbif,2,typical,test,MSB-3054,Herbarium,Linum thunbergii Eckl. & Zeyh.
+3091281420,gbif,2,typical,test,ASC,,Opuntia basilaris var. basilaris
+1844418739,gbif,2,typical,test,BOON,,Rumex acetosella L.
+4925661489,gbif,2,typical,train,GDRC,,Acer circinatum Pursh
+1986867877,gbif,2,typical,train,TEX,UTC,Calibrachoa parviflora (Juss.) D' Arcy
+4067736512,gbif,2,typical,train,TAWES,,Sparganium emersum Rehmann
+4903563375,gbif,2,typical,test,CHR,CHR,Pleioluma belepensis Swenson & Munzinger
+1638421293,gbif,2,typical,test,GZU,Herbarium GZU,Quisqualis densiflora Wall. ex Miq.
+694846834,gbif,2,typical,train,MSB,MSBvplantscoll,Acanthophyllum kabulicum Schiman-Czeika
+2859387230,gbif,2,typical,test,CM,botany,Berberis thunbergii DC.
+4601966572,gbif,2,typical,train,K,Herbarium,Helichrysum odoratissimum (L.) Sweet
+1844418333,gbif,2,typical,train,BOON,,Diervilla lonicera Mill.
+4535503982,gbif,2,typical,train,PNH,Herbarium,Oryza sativa L.
+2461263929,gbif,2,typical,test,Weber State University,WSCO,Calceolaria verticillata (Ortega) Kuntze
+4601543414,gbif,2,typical,train,Utah Tech University,UTU,Cryptantha virginensis (M.E.Jones) Payson
+3695317359,gbif,2,typical,val,RBGE,E,Anastrabe integerrima E.Mey. ex Benth.
+1986868133,gbif,2,typical,train,SDSU,SDC,Eriodictyon californicum (Hook. & Arn.) Torr.
+5904911990,gbif,2,typical,val,MSB-3049,Herbarium,Lobelia pinifolia L.
+912393311,gbif,2,typical,train,K,Herbarium,Tovaria diffusa (Macfad.) Fawc. & Rendle
+1986869219,gbif,2,typical,test,GMDRC,UTC,Dieteria canescens var. canescens
+1457794714,gbif,2,typical,train,UF,,Magnolia grandiflora L.
+5028851429,gbif,2,typical,train,UTC,UCHT,Fumana arabica (L.) Spach
+2234624268,gbif,2,typical,val,NCU,Vascular Plants,Magnolia macrophylla Michx.
+4948980527,gbif,2,typical,train,NAU,,Bebbia juncea (Benth.) Greene
+2418966820,gbif,2,typical,val,BRI,Herbrecs,Codonocarpus attenuatus (Hook.) H.Walter
+4948980613,gbif,2,typical,train,NAU,,Malacothrix glabrata (D.C.Eaton ex A.Gray) A.Gray
+3436424429,gbif,2,typical,test,PI,Herbarium Horti Botanici Pisani (PI),Tamarix africana Poir.
+2859479349,gbif,2,typical,train,CM,botany,Lactuca biennis (Moench) Fernald
+4977545790,gbif,2,typical,train,MISC-993,Herbarium,Pogostemon jaitapurensis Chandore & S.R.Yadav
+1024636233,gbif,2,typical,train,UdeM,MT,Anthurium clavigerum Poepp.
+3356289315,gbif,2,typical,test,"The Tula Region State Institution of Culture ""Tula Museum Association""",TKM,Quercus robur L.
+4035442577,gbif,2,typical,train,HIFP,HIFP,Connarus ritchiei Hook.fil.
+3982604103,gbif,2,typical,train,"The Tula Region State Institution of Culture ""Tula Museum Association""",TKM,Chrysosplenium alternifolium L.
+5105499918,gbif,2,typical,train,Samara National Research University,SMR,Dryopteris filix-mas (L.) Schott
+3751306356,gbif,2,typical,train,UHM,HAW-A,Bostrychia scorpioides (Huds.) Mont.
+2859026523,gbif,2,typical,test,CM,botany,Caladium bicolor (Aiton) Vent.
+1457760631,gbif,2,typical,train,UF,,Magnolia macrophylla var. ashei (Weath.) D.L.Johnson
+4067787763,gbif,2,typical,train,MCA,,Iris sibirica L.
+4977898461,gbif,2,typical,val,STNF,,Sambucus nigra subsp. caerulea (Raf.) Bolli
+3091192955,gbif,2,typical,val,EIU,,Agave parryi Engelm.
+2859281576,gbif,2,typical,train,CM,botany,Zantedeschia albomaculata (Hook.) Baill.
+4519470699,gbif,2,typical,train,USM,Herbarium,Lupinus matucanicus Ulbr.
+5937533771,gbif,2,typical,train,SMM,Plant,Apocynum androsaemifolium L.
+3091239787,gbif,2,typical,val,ASU,Plants,Monarda fistulosa var. menthifolia (Graham) Fernald
+2859121891,gbif,2,typical,train,CM,botany,Dorstenia contrajerva L.
+2859379153,gbif,2,typical,val,CM,botany,Tulipa L.
+2859328993,gbif,2,typical,test,CM,botany,Achillea millefolium L.
+1503310753,gbif,2,typical,train,USF,Herb,Magnolia macrophylla Michx.
+4067742804,gbif,2,typical,train,TAWES,,Atriplex cristata Humb. & Bonpl. ex Willd.
+2859023584,gbif,2,typical,test,CM,botany,Caladium bicolor (Aiton) Vent.
+3503188975,gbif,2,typical,val,IRVC,,Arctotheca calendula (L.) Levyns
+4067738367,gbif,2,typical,train,TAWES,,Penthorum sedoides L.
+1987015628,gbif,2,typical,test,USU,UTC,Rhexia ciliosa Michx.
+4858981245,gbif,2,typical,val,K,Herbarium,Hedyosmum brasiliense Mart.
+5068040870,gbif,2,typical,train,Keene State University,KESC,Chenopodium ambrosioides L.
+4925661545,gbif,2,typical,train,GDRC,,Cornus nuttallii Audubon ex Torr. & A.Gray
+4948722483,gbif,2,typical,test,MU,,Cyrilla racemiflora L.
+3695154060,gbif,2,typical,train,UAM,,Woodwardia areolata (L.) T.Moore
+4977445080,gbif,2,typical,val,UERJ,HB,Roupala organensis Gardner
+4977546463,gbif,2,typical,train,MISC-993,Herbarium,"Dipcadi janae-shrirangii Chandore, Borude, Bhalekar, Madhav & Gosavi"
+2859375814,gbif,2,typical,train,CM,botany,Narcissus papyraceus Ker Gawl.
+2859279582,gbif,2,typical,train,CM,botany,Caladium bicolor (Aiton) Vent.
+4067773407,gbif,2,typical,train,MCA,,Campsis radicans (L.) Bureau
+2859452096,gbif,2,typical,train,CM,botany,Medicago sativa L.
+5067933240,gbif,2,typical,train,University of New Hampshire,NHA,Vaccinium pallidum Aiton
+2859304372,gbif,2,typical,train,CM,botany,Xanthosoma dodsonii Croat
+3886952411,gbif,2,typical,test,HTTU,,Cystopteris bulbifera (L.) Bernh.
+2859026543,gbif,2,typical,train,CM,botany,Philodendron × domesticum G.S.Bunting
+5067921571,gbif,2,typical,train,University of New Hampshire,NHA,Gentiana linearis Froel.
+4866715459,gbif,2,typical,test,CM,botany,Xanthosoma sagittifolium (L.) Schott
+3340041519,gbif,2,typical,val,TTC,,Cabomba caroliniana A.Gray
+5138393334,gbif,2,typical,train,ICN,Herbarium,Monteiroa rubra Grings
+2242392057,gbif,2,typical,test,DBG,KHD,Anthurium salviniae Hemsl.
+2859020719,gbif,2,typical,train,CM,botany,Philodendron Schott
+2859424312,gbif,2,typical,test,CM,botany,Averrhoa carambola L.
+2876010671,gbif,2,typical,train,ERE,Herbarium ERE,Scilla armena Grossh.
+3091190094,gbif,2,typical,train,ASU,Plants,Epipactis gigantea Douglas
+5028853551,gbif,2,typical,train,UTC,UCHT,Aizoon hispanicum L.
+5139227586,gbif,2,typical,test,UCSB,,Capparis tomentosa Lam.
+1986869255,gbif,2,typical,val,RENO,V,Hordeum murinum subsp. leporinum (Link) Arcang.
+3091261924,gbif,2,typical,train,ASC,,Brasenia schreberi J.F.Gmel.
+1091318416,gbif,2,typical,test,CHR,CHR,Veronica triphyllos L.
+2859413156,gbif,2,typical,test,CM,botany,Hippeastrum hybridum hort. ex Velenovsky
+2234621682,gbif,2,typical,test,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+2858991547,gbif,2,typical,test,CM,botany,Avena sativa L.
+5053433507,gbif,2,typical,train,STNF,,Utricularia minor L.
+2859016620,gbif,2,typical,test,CM,botany,Abies concolor (Gordon) Lindl. ex Hildebr.
+4866715614,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2859013622,gbif,2,typical,test,CM,botany,Pinus flexilis E.James
+3340055986,gbif,2,typical,test,TTC,GUMO,Parietaria pensylvanica Muhl. ex Willd.
+2859401139,gbif,2,typical,train,CM,botany,Quercus rubra L.
+2876007900,gbif,2,typical,val,ERE,Herbarium ERE,Helianthemum antitauricum P.H.Davis & Coode
+5295076310,gbif,2,typical,train,HACAM,HACAM,Oxalis divaricata Zucc.
+2859378140,gbif,2,typical,train,CM,botany,Tulipa L.
+3978746623,gbif,2,typical,val,BAYLU,BAYLU,Nyssa sylvatica Marshall
+4067740659,gbif,2,typical,train,TAWES,,Ophioglossum vulgatum L.
+3091189786,gbif,2,typical,train,ASU,Plants,Lycium pallidum Miers
+2859020691,gbif,2,typical,train,CM,botany,Philodendron annulatum Croat
+3340051368,gbif,2,typical,test,TTC,,Osmunda regalis L.
+4903556955,gbif,2,typical,train,CHR,CHR,Melaleuca megalongensis Craven & S.M.Douglas
+2859281388,gbif,2,typical,train,CM,botany,Xanthosoma mafaffa Schott
+1228038548,gbif,2,typical,train,RBGE,E,Molineria latifolia (Dryand. ex W.T.Aiton) Herb. ex Kurz
+2859410155,gbif,2,typical,test,CM,botany,Iris Tourn. ex L.
+2859282384,gbif,2,typical,train,CM,botany,Xanthosoma sagittifolium (L.) Schott
+2234623450,gbif,2,typical,val,NCU,Vascular Plants,Magnolia tripetala (L.) L.
+2859272650,gbif,2,typical,train,CM,botany,Pinus halepensis Mill.
